@@ -1,0 +1,5001 @@
+order_id,return_flag,return_reason,return_date,return_reason_descriptive
+O000001,0,,,Not Returned
+O000002,0,,,Not Returned
+O000003,0,,,Not Returned
+O000004,1,Late Delivery,2026-08-31,Late Delivery
+O000005,0,,,Not Returned
+O000006,0,,,Not Returned
+O000007,0,,,Not Returned
+O000008,1,Size/Fit Issue,2026-04-07,Size/Fit Issue
+O000009,0,,,Not Returned
+O000010,0,,,Not Returned
+O000011,0,,,Not Returned
+O000012,0,,,Not Returned
+O000013,0,,,Not Returned
+O000014,0,,,Not Returned
+O000015,1,Size/Fit Issue,2026-07-10,Size/Fit Issue
+O000016,0,,,Not Returned
+O000017,0,,,Not Returned
+O000018,0,,,Not Returned
+O000019,0,,,Not Returned
+O000020,0,,,Not Returned
+O000021,0,,,Not Returned
+O000022,0,,,Not Returned
+O000023,1,,2025-09-18,Unknown
+O000024,0,,,Not Returned
+O000025,0,,,Not Returned
+O000026,0,,,Not Returned
+O000027,0,,,Not Returned
+O000028,0,,,Not Returned
+O000029,0,,,Not Returned
+O000030,0,,,Not Returned
+O000031,0,,,Not Returned
+O000032,1,Late Delivery,2025-02-26,Late Delivery
+O000033,0,,,Not Returned
+O000034,0,,,Not Returned
+O000035,0,,,Not Returned
+O000036,0,,,Not Returned
+O000037,0,,,Not Returned
+O000038,0,,,Not Returned
+O000039,0,,,Not Returned
+O000040,0,,,Not Returned
+O000041,0,,,Not Returned
+O000042,0,,,Not Returned
+O000043,1,Not as Described,2025-04-02,Not as Described
+O000044,0,,,Not Returned
+O000045,0,,,Not Returned
+O000046,0,,,Not Returned
+O000047,1,Size/Fit Issue,2025-12-30,Size/Fit Issue
+O000048,1,Late Delivery,2025-11-22,Late Delivery
+O000049,0,,,Not Returned
+O000050,0,,,Not Returned
+O000051,0,,,Not Returned
+O000052,0,,,Not Returned
+O000053,0,,,Not Returned
+O000054,0,,,Not Returned
+O000055,0,,,Not Returned
+O000056,0,,,Not Returned
+O000057,0,,,Not Returned
+O000058,1,Late Delivery,2026-05-31,Late Delivery
+O000059,0,,,Not Returned
+O000060,0,,,Not Returned
+O000061,0,,,Not Returned
+O000062,0,,,Not Returned
+O000063,0,,,Not Returned
+O000064,0,,,Not Returned
+O000065,0,,,Not Returned
+O000066,1,Size/Fit Issue,2026-03-20,Size/Fit Issue
+O000067,1,Damaged Product,2026-01-13,Damaged Product
+O000068,0,,,Not Returned
+O000069,0,,,Not Returned
+O000070,0,,,Not Returned
+O000071,0,,,Not Returned
+O000072,0,,,Not Returned
+O000073,0,,,Not Returned
+O000074,0,,,Not Returned
+O000075,0,,,Not Returned
+O000076,0,,,Not Returned
+O000077,0,,,Not Returned
+O000078,0,,,Not Returned
+O000079,0,,,Not Returned
+O000080,0,,,Not Returned
+O000081,0,,,Not Returned
+O000082,0,,,Not Returned
+O000083,0,,,Not Returned
+O000084,0,,,Not Returned
+O000085,0,,,Not Returned
+O000086,0,,,Not Returned
+O000087,0,,,Not Returned
+O000088,0,,,Not Returned
+O000089,0,,,Not Returned
+O000090,0,,,Not Returned
+O000091,0,,,Not Returned
+O000092,1,,2025-03-07,Unknown
+O000093,0,,,Not Returned
+O000094,0,,,Not Returned
+O000095,0,,,Not Returned
+O000096,0,,,Not Returned
+O000097,0,,,Not Returned
+O000098,0,,,Not Returned
+O000099,0,,,Not Returned
+O000100,0,,,Not Returned
+O000101,1,Late Delivery,2026-02-13,Late Delivery
+O000102,1,Damaged Product,2025-11-16,Damaged Product
+O000103,0,,,Not Returned
+O000104,0,,,Not Returned
+O000105,0,,,Not Returned
+O000106,0,,,Not Returned
+O000107,0,,,Not Returned
+O000108,0,,,Not Returned
+O000109,0,,,Not Returned
+O000110,0,,,Not Returned
+O000111,0,,,Not Returned
+O000112,0,,,Not Returned
+O000113,1,Damaged Product,2025-10-13,Damaged Product
+O000114,0,,,Not Returned
+O000115,0,,,Not Returned
+O000116,0,,,Not Returned
+O000117,0,,,Not Returned
+O000118,0,,,Not Returned
+O000119,0,,,Not Returned
+O000120,0,,,Not Returned
+O000121,1,Size/Fit Issue,2026-02-10,Size/Fit Issue
+O000122,0,,,Not Returned
+O000123,0,,,Not Returned
+O000124,0,,,Not Returned
+O000125,0,,,Not Returned
+O000126,0,,,Not Returned
+O000127,0,,,Not Returned
+O000128,0,,,Not Returned
+O000129,0,,,Not Returned
+O000130,1,Size/Fit Issue,2025-06-10,Size/Fit Issue
+O000131,0,,,Not Returned
+O000132,1,Late Delivery,2026-08-08,Late Delivery
+O000133,0,,,Not Returned
+O000134,0,,,Not Returned
+O000135,0,,,Not Returned
+O000136,1,Size/Fit Issue,2026-01-31,Size/Fit Issue
+O000137,0,,,Not Returned
+O000138,0,,,Not Returned
+O000139,0,,,Not Returned
+O000140,1,Wrong Item Delivered,2025-07-18,Wrong Item Delivered
+O000141,0,,,Not Returned
+O000142,0,,,Not Returned
+O000143,0,,,Not Returned
+O000144,0,,,Not Returned
+O000145,0,,,Not Returned
+O000146,0,,,Not Returned
+O000147,0,,,Not Returned
+O000148,0,,,Not Returned
+O000149,0,,,Not Returned
+O000150,0,,,Not Returned
+O000151,0,,,Not Returned
+O000152,0,,,Not Returned
+O000153,0,,,Not Returned
+O000154,0,,,Not Returned
+O000155,0,,,Not Returned
+O000156,0,,,Not Returned
+O000157,0,,,Not Returned
+O000158,0,,,Not Returned
+O000159,0,,,Not Returned
+O000160,0,,,Not Returned
+O000161,0,,,Not Returned
+O000162,0,,,Not Returned
+O000163,0,,,Not Returned
+O000164,0,,,Not Returned
+O000165,0,,,Not Returned
+O000166,0,,,Not Returned
+O000167,1,Size/Fit Issue,2025-03-16,Size/Fit Issue
+O000168,0,,,Not Returned
+O000169,0,,,Not Returned
+O000170,1,Changed Mind,2025-09-16,Changed Mind
+O000171,0,,,Not Returned
+O000172,0,,,Not Returned
+O000173,0,,,Not Returned
+O000174,1,Late Delivery,2025-07-03,Late Delivery
+O000175,0,,,Not Returned
+O000176,0,,,Not Returned
+O000177,0,,,Not Returned
+O000178,0,,,Not Returned
+O000179,0,,,Not Returned
+O000180,0,,,Not Returned
+O000181,0,,,Not Returned
+O000182,0,,,Not Returned
+O000183,0,,,Not Returned
+O000184,0,,,Not Returned
+O000185,0,,,Not Returned
+O000186,0,,,Not Returned
+O000187,0,,,Not Returned
+O000188,0,,,Not Returned
+O000189,0,,,Not Returned
+O000190,1,Size/Fit Issue,2025-10-17,Size/Fit Issue
+O000191,0,,,Not Returned
+O000192,0,,,Not Returned
+O000193,0,,,Not Returned
+O000194,0,,,Not Returned
+O000195,0,,,Not Returned
+O000196,0,,,Not Returned
+O000197,0,,,Not Returned
+O000198,0,,,Not Returned
+O000199,0,,,Not Returned
+O000200,0,,,Not Returned
+O000201,0,,,Not Returned
+O000202,0,,,Not Returned
+O000203,0,,,Not Returned
+O000204,0,,,Not Returned
+O000205,0,,,Not Returned
+O000206,1,Not as Described,2025-05-31,Not as Described
+O000207,0,,,Not Returned
+O000208,0,,,Not Returned
+O000209,0,,,Not Returned
+O000210,0,,,Not Returned
+O000211,0,,,Not Returned
+O000212,0,,,Not Returned
+O000213,0,,,Not Returned
+O000214,0,,,Not Returned
+O000215,0,,,Not Returned
+O000216,0,,,Not Returned
+O000217,0,,,Not Returned
+O000218,0,,,Not Returned
+O000219,0,,,Not Returned
+O000220,0,,,Not Returned
+O000221,0,,,Not Returned
+O000222,0,,,Not Returned
+O000223,0,,,Not Returned
+O000224,0,,,Not Returned
+O000225,0,,,Not Returned
+O000226,0,,,Not Returned
+O000227,0,,,Not Returned
+O000228,0,,,Not Returned
+O000229,0,,,Not Returned
+O000230,0,,,Not Returned
+O000231,0,,,Not Returned
+O000232,1,Size/Fit Issue,2026-08-22,Size/Fit Issue
+O000233,0,,,Not Returned
+O000234,0,,,Not Returned
+O000235,0,,,Not Returned
+O000236,0,,,Not Returned
+O000237,0,,,Not Returned
+O000238,0,,,Not Returned
+O000239,0,,,Not Returned
+O000240,0,,,Not Returned
+O000241,0,,,Not Returned
+O000242,0,,,Not Returned
+O000243,0,,,Not Returned
+O000244,0,,,Not Returned
+O000245,1,Wrong Item Delivered,2026-01-12,Wrong Item Delivered
+O000246,0,,,Not Returned
+O000247,0,,,Not Returned
+O000248,0,,,Not Returned
+O000249,0,,,Not Returned
+O000250,0,,,Not Returned
+O000251,0,,,Not Returned
+O000252,0,,,Not Returned
+O000253,0,,,Not Returned
+O000254,0,,,Not Returned
+O000255,0,,,Not Returned
+O000256,0,,,Not Returned
+O000257,0,,,Not Returned
+O000258,1,Not as Described,2026-05-18,Not as Described
+O000259,0,,,Not Returned
+O000260,0,,,Not Returned
+O000261,0,,,Not Returned
+O000262,1,Quality Issue,2026-09-10,Quality Issue
+O000263,0,,,Not Returned
+O000264,1,Wrong Item Delivered,2025-01-21,Wrong Item Delivered
+O000265,0,,,Not Returned
+O000266,0,,,Not Returned
+O000267,0,,,Not Returned
+O000268,0,,,Not Returned
+O000269,0,,,Not Returned
+O000270,0,,,Not Returned
+O000271,1,Size/Fit Issue,2026-02-04,Size/Fit Issue
+O000272,0,,,Not Returned
+O000273,0,,,Not Returned
+O000274,0,,,Not Returned
+O000275,0,,,Not Returned
+O000276,0,,,Not Returned
+O000277,0,,,Not Returned
+O000278,0,,,Not Returned
+O000279,0,,,Not Returned
+O000280,1,Not as Described,2025-10-15,Not as Described
+O000281,0,,,Not Returned
+O000282,0,,,Not Returned
+O000283,0,,,Not Returned
+O000284,0,,,Not Returned
+O000285,0,,,Not Returned
+O000286,0,,,Not Returned
+O000287,0,,,Not Returned
+O000288,0,,,Not Returned
+O000289,0,,,Not Returned
+O000290,0,,,Not Returned
+O000291,0,,,Not Returned
+O000292,0,,,Not Returned
+O000293,0,,,Not Returned
+O000294,0,,,Not Returned
+O000295,0,,,Not Returned
+O000296,0,,,Not Returned
+O000297,0,,,Not Returned
+O000298,0,,,Not Returned
+O000299,1,Not as Described,2025-07-21,Not as Described
+O000300,0,,,Not Returned
+O000301,1,Size/Fit Issue,2025-11-05,Size/Fit Issue
+O000302,0,,,Not Returned
+O000303,0,,,Not Returned
+O000304,0,,,Not Returned
+O000305,0,,,Not Returned
+O000306,0,,,Not Returned
+O000307,0,,,Not Returned
+O000308,0,,,Not Returned
+O000309,0,,,Not Returned
+O000310,0,,,Not Returned
+O000311,0,,,Not Returned
+O000312,0,,,Not Returned
+O000313,0,,,Not Returned
+O000314,0,,,Not Returned
+O000315,1,Late Delivery,2025-08-11,Late Delivery
+O000316,0,,,Not Returned
+O000317,0,,,Not Returned
+O000318,0,,,Not Returned
+O000319,0,,,Not Returned
+O000320,1,Late Delivery,2026-09-29,Late Delivery
+O000321,1,Size/Fit Issue,2026-08-30,Size/Fit Issue
+O000322,0,,,Not Returned
+O000323,0,,,Not Returned
+O000324,0,,,Not Returned
+O000325,0,,,Not Returned
+O000326,0,,,Not Returned
+O000327,0,,,Not Returned
+O000328,0,,,Not Returned
+O000329,0,,,Not Returned
+O000330,0,,,Not Returned
+O000331,0,,,Not Returned
+O000332,0,,,Not Returned
+O000333,0,,,Not Returned
+O000334,0,,,Not Returned
+O000335,0,,,Not Returned
+O000336,0,,,Not Returned
+O000337,0,,,Not Returned
+O000338,0,,,Not Returned
+O000339,0,,,Not Returned
+O000340,0,,,Not Returned
+O000341,1,Late Delivery,2026-01-19,Late Delivery
+O000342,0,,,Not Returned
+O000343,0,,,Not Returned
+O000344,0,,,Not Returned
+O000345,0,,,Not Returned
+O000346,0,,,Not Returned
+O000347,0,,,Not Returned
+O000348,0,,,Not Returned
+O000349,0,,,Not Returned
+O000350,0,,,Not Returned
+O000351,0,,,Not Returned
+O000352,0,,,Not Returned
+O000353,0,,,Not Returned
+O000354,0,,,Not Returned
+O000355,1,,2025-05-13,Unknown
+O000356,0,,,Not Returned
+O000357,0,,,Not Returned
+O000358,0,,,Not Returned
+O000359,0,,,Not Returned
+O000360,0,,,Not Returned
+O000361,0,,,Not Returned
+O000362,0,,,Not Returned
+O000363,0,,,Not Returned
+O000364,0,,,Not Returned
+O000365,0,,,Not Returned
+O000366,0,,,Not Returned
+O000367,1,Size/Fit Issue,2026-06-24,Size/Fit Issue
+O000368,0,,,Not Returned
+O000369,0,,,Not Returned
+O000370,0,,,Not Returned
+O000371,0,,,Not Returned
+O000372,0,,,Not Returned
+O000373,0,,,Not Returned
+O000374,0,,,Not Returned
+O000375,0,,,Not Returned
+O000376,1,,2025-12-16,Unknown
+O000377,1,Late Delivery,2025-05-02,Late Delivery
+O000378,0,,,Not Returned
+O000379,0,,,Not Returned
+O000380,0,,,Not Returned
+O000381,0,,,Not Returned
+O000382,0,,,Not Returned
+O000383,0,,,Not Returned
+O000384,0,,,Not Returned
+O000385,1,Late Delivery,2026-06-21,Late Delivery
+O000386,0,,,Not Returned
+O000387,0,,,Not Returned
+O000388,1,Changed Mind,2025-02-16,Changed Mind
+O000389,1,,2025-06-14,Unknown
+O000390,0,,,Not Returned
+O000391,0,,,Not Returned
+O000392,0,,,Not Returned
+O000393,0,,,Not Returned
+O000394,0,,,Not Returned
+O000395,0,,,Not Returned
+O000396,1,Not as Described,2025-07-21,Not as Described
+O000397,0,,,Not Returned
+O000398,0,,,Not Returned
+O000399,1,Late Delivery,2026-07-26,Late Delivery
+O000400,0,,,Not Returned
+O000401,0,,,Not Returned
+O000402,0,,,Not Returned
+O000403,0,,,Not Returned
+O000404,0,,,Not Returned
+O000405,0,,,Not Returned
+O000406,0,,,Not Returned
+O000407,0,,,Not Returned
+O000408,0,,,Not Returned
+O000409,0,,,Not Returned
+O000410,1,Size/Fit Issue,2026-03-21,Size/Fit Issue
+O000411,0,,,Not Returned
+O000412,0,,,Not Returned
+O000413,1,,2026-02-12,Unknown
+O000414,0,,,Not Returned
+O000415,0,,,Not Returned
+O000416,0,,,Not Returned
+O000417,0,,,Not Returned
+O000418,0,,,Not Returned
+O000419,0,,,Not Returned
+O000420,0,,,Not Returned
+O000421,0,,,Not Returned
+O000422,0,,,Not Returned
+O000423,0,,,Not Returned
+O000424,0,,,Not Returned
+O000425,0,,,Not Returned
+O000426,0,,,Not Returned
+O000427,0,,,Not Returned
+O000428,0,,,Not Returned
+O000429,0,,,Not Returned
+O000430,0,,,Not Returned
+O000431,0,,,Not Returned
+O000432,0,,,Not Returned
+O000433,0,,,Not Returned
+O000434,0,,,Not Returned
+O000435,1,Size/Fit Issue,2025-06-08,Size/Fit Issue
+O000436,0,,,Not Returned
+O000437,1,Size/Fit Issue,2026-02-11,Size/Fit Issue
+O000438,0,,,Not Returned
+O000439,0,,,Not Returned
+O000440,0,,,Not Returned
+O000441,0,,,Not Returned
+O000442,0,,,Not Returned
+O000443,0,,,Not Returned
+O000444,0,,,Not Returned
+O000445,0,,,Not Returned
+O000446,0,,,Not Returned
+O000447,0,,,Not Returned
+O000448,0,,,Not Returned
+O000449,0,,,Not Returned
+O000450,0,,,Not Returned
+O000451,1,Late Delivery,2025-02-21,Late Delivery
+O000452,1,Size/Fit Issue,2026-02-21,Size/Fit Issue
+O000453,0,,,Not Returned
+O000454,0,,,Not Returned
+O000455,0,,,Not Returned
+O000456,0,,,Not Returned
+O000457,0,,,Not Returned
+O000458,0,,,Not Returned
+O000459,0,,,Not Returned
+O000460,0,,,Not Returned
+O000461,0,,,Not Returned
+O000462,0,,,Not Returned
+O000463,0,,,Not Returned
+O000464,0,,,Not Returned
+O000465,0,,,Not Returned
+O000466,1,,2025-08-26,Unknown
+O000467,1,,2025-12-22,Unknown
+O000468,0,,,Not Returned
+O000469,1,Size/Fit Issue,2026-07-17,Size/Fit Issue
+O000470,0,,,Not Returned
+O000471,0,,,Not Returned
+O000472,0,,,Not Returned
+O000473,1,Changed Mind,2025-04-13,Changed Mind
+O000474,0,,,Not Returned
+O000475,1,Damaged Product,2025-11-01,Damaged Product
+O000476,0,,,Not Returned
+O000477,0,,,Not Returned
+O000478,0,,,Not Returned
+O000479,0,,,Not Returned
+O000480,1,Late Delivery,2026-08-17,Late Delivery
+O000481,0,,,Not Returned
+O000482,0,,,Not Returned
+O000483,0,,,Not Returned
+O000484,0,,,Not Returned
+O000485,0,,,Not Returned
+O000486,0,,,Not Returned
+O000487,0,,,Not Returned
+O000488,0,,,Not Returned
+O000489,0,,,Not Returned
+O000490,0,,,Not Returned
+O000491,0,,,Not Returned
+O000492,0,,,Not Returned
+O000493,0,,,Not Returned
+O000494,0,,,Not Returned
+O000495,0,,,Not Returned
+O000496,0,,,Not Returned
+O000497,0,,,Not Returned
+O000498,0,,,Not Returned
+O000499,0,,,Not Returned
+O000500,0,,,Not Returned
+O000501,0,,,Not Returned
+O000502,0,,,Not Returned
+O000503,1,Damaged Product,2025-05-19,Damaged Product
+O000504,0,,,Not Returned
+O000505,0,,,Not Returned
+O000506,0,,,Not Returned
+O000507,0,,,Not Returned
+O000508,0,,,Not Returned
+O000509,0,,,Not Returned
+O000510,0,,,Not Returned
+O000511,0,,,Not Returned
+O000512,0,,,Not Returned
+O000513,1,Late Delivery,2025-09-16,Late Delivery
+O000514,1,Late Delivery,2025-12-27,Late Delivery
+O000515,0,,,Not Returned
+O000516,0,,,Not Returned
+O000517,0,,,Not Returned
+O000518,0,,,Not Returned
+O000519,0,,,Not Returned
+O000520,0,,,Not Returned
+O000521,0,,,Not Returned
+O000522,0,,,Not Returned
+O000523,0,,,Not Returned
+O000524,0,,,Not Returned
+O000525,0,,,Not Returned
+O000526,0,,,Not Returned
+O000527,0,,,Not Returned
+O000528,0,,,Not Returned
+O000529,0,,,Not Returned
+O000530,0,,,Not Returned
+O000531,1,,2026-09-22,Unknown
+O000532,0,,,Not Returned
+O000533,1,Damaged Product,2025-11-15,Damaged Product
+O000534,0,,,Not Returned
+O000535,0,,,Not Returned
+O000536,1,Changed Mind,2026-03-14,Changed Mind
+O000537,0,,,Not Returned
+O000538,0,,,Not Returned
+O000539,0,,,Not Returned
+O000540,0,,,Not Returned
+O000541,1,Late Delivery,2026-03-15,Late Delivery
+O000542,0,,,Not Returned
+O000543,0,,,Not Returned
+O000544,0,,,Not Returned
+O000545,0,,,Not Returned
+O000546,0,,,Not Returned
+O000547,0,,,Not Returned
+O000548,0,,,Not Returned
+O000549,1,Wrong Item Delivered,2025-08-16,Wrong Item Delivered
+O000550,0,,,Not Returned
+O000551,0,,,Not Returned
+O000552,0,,,Not Returned
+O000553,0,,,Not Returned
+O000554,1,Size/Fit Issue,2026-06-29,Size/Fit Issue
+O000555,0,,,Not Returned
+O000556,0,,,Not Returned
+O000557,0,,,Not Returned
+O000558,0,,,Not Returned
+O000559,0,,,Not Returned
+O000560,0,,,Not Returned
+O000561,1,Late Delivery,2026-06-03,Late Delivery
+O000562,0,,,Not Returned
+O000563,0,,,Not Returned
+O000564,0,,,Not Returned
+O000565,1,Size/Fit Issue,2025-12-20,Size/Fit Issue
+O000566,0,,,Not Returned
+O000567,0,,,Not Returned
+O000568,0,,,Not Returned
+O000569,0,,,Not Returned
+O000570,0,,,Not Returned
+O000571,0,,,Not Returned
+O000572,0,,,Not Returned
+O000573,0,,,Not Returned
+O000574,0,,,Not Returned
+O000575,0,,,Not Returned
+O000576,0,,,Not Returned
+O000577,1,Changed Mind,2026-06-25,Changed Mind
+O000578,0,,,Not Returned
+O000579,0,,,Not Returned
+O000580,0,,,Not Returned
+O000581,0,,,Not Returned
+O000582,0,,,Not Returned
+O000583,0,,,Not Returned
+O000584,0,,,Not Returned
+O000585,0,,,Not Returned
+O000586,0,,,Not Returned
+O000587,0,,,Not Returned
+O000588,0,,,Not Returned
+O000589,0,,,Not Returned
+O000590,0,,,Not Returned
+O000591,0,,,Not Returned
+O000592,0,,,Not Returned
+O000593,0,,,Not Returned
+O000594,0,,,Not Returned
+O000595,0,,,Not Returned
+O000596,0,,,Not Returned
+O000597,1,Damaged Product,2025-01-25,Damaged Product
+O000598,0,,,Not Returned
+O000599,0,,,Not Returned
+O000600,0,,,Not Returned
+O000601,0,,,Not Returned
+O000602,1,Size/Fit Issue,2026-05-23,Size/Fit Issue
+O000603,1,Changed Mind,2026-07-24,Changed Mind
+O000604,1,,2025-06-01,Unknown
+O000605,1,Size/Fit Issue,2025-10-26,Size/Fit Issue
+O000606,1,Quality Issue,2025-08-07,Quality Issue
+O000607,0,,,Not Returned
+O000608,1,Late Delivery,2025-03-29,Late Delivery
+O000609,0,,,Not Returned
+O000610,0,,,Not Returned
+O000611,0,,,Not Returned
+O000612,0,,,Not Returned
+O000613,1,Size/Fit Issue,2026-08-30,Size/Fit Issue
+O000614,0,,,Not Returned
+O000615,0,,,Not Returned
+O000616,0,,,Not Returned
+O000617,1,Late Delivery,2026-05-26,Late Delivery
+O000618,0,,,Not Returned
+O000619,0,,,Not Returned
+O000620,0,,,Not Returned
+O000621,0,,,Not Returned
+O000622,0,,,Not Returned
+O000623,0,,,Not Returned
+O000624,0,,,Not Returned
+O000625,1,Size/Fit Issue,2025-08-25,Size/Fit Issue
+O000626,1,Damaged Product,2026-09-11,Damaged Product
+O000627,1,Size/Fit Issue,2025-09-11,Size/Fit Issue
+O000628,0,,,Not Returned
+O000629,0,,,Not Returned
+O000630,0,,,Not Returned
+O000631,0,,,Not Returned
+O000632,1,Quality Issue,2025-05-13,Quality Issue
+O000633,0,,,Not Returned
+O000634,0,,,Not Returned
+O000635,1,Wrong Item Delivered,2025-08-05,Wrong Item Delivered
+O000636,0,,,Not Returned
+O000637,1,Quality Issue,2026-05-31,Quality Issue
+O000638,0,,,Not Returned
+O000639,0,,,Not Returned
+O000640,0,,,Not Returned
+O000641,0,,,Not Returned
+O000642,0,,,Not Returned
+O000643,0,,,Not Returned
+O000644,0,,,Not Returned
+O000645,0,,,Not Returned
+O000646,0,,,Not Returned
+O000647,0,,,Not Returned
+O000648,0,,,Not Returned
+O000649,1,,2025-10-09,Unknown
+O000650,0,,,Not Returned
+O000651,0,,,Not Returned
+O000652,0,,,Not Returned
+O000653,0,,,Not Returned
+O000654,0,,,Not Returned
+O000655,0,,,Not Returned
+O000656,0,,,Not Returned
+O000657,1,Late Delivery,2025-06-21,Late Delivery
+O000658,0,,,Not Returned
+O000659,1,Not as Described,2026-05-24,Not as Described
+O000660,1,Size/Fit Issue,2025-10-17,Size/Fit Issue
+O000661,0,,,Not Returned
+O000662,0,,,Not Returned
+O000663,0,,,Not Returned
+O000664,0,,,Not Returned
+O000665,1,Not as Described,2025-04-02,Not as Described
+O000666,0,,,Not Returned
+O000667,0,,,Not Returned
+O000668,0,,,Not Returned
+O000669,0,,,Not Returned
+O000670,0,,,Not Returned
+O000671,1,Wrong Item Delivered,2026-09-20,Wrong Item Delivered
+O000672,0,,,Not Returned
+O000673,0,,,Not Returned
+O000674,0,,,Not Returned
+O000675,0,,,Not Returned
+O000676,0,,,Not Returned
+O000677,0,,,Not Returned
+O000678,0,,,Not Returned
+O000679,0,,,Not Returned
+O000680,0,,,Not Returned
+O000681,0,,,Not Returned
+O000682,0,,,Not Returned
+O000683,0,,,Not Returned
+O000684,0,,,Not Returned
+O000685,0,,,Not Returned
+O000686,0,,,Not Returned
+O000687,1,Size/Fit Issue,2026-02-12,Size/Fit Issue
+O000688,1,Late Delivery,2025-09-04,Late Delivery
+O000689,0,,,Not Returned
+O000690,0,,,Not Returned
+O000691,1,Damaged Product,2025-12-24,Damaged Product
+O000692,0,,,Not Returned
+O000693,0,,,Not Returned
+O000694,0,,,Not Returned
+O000695,1,Quality Issue,2025-09-28,Quality Issue
+O000696,0,,,Not Returned
+O000697,1,Not as Described,2025-06-08,Not as Described
+O000698,1,Damaged Product,2025-10-15,Damaged Product
+O000699,0,,,Not Returned
+O000700,1,Size/Fit Issue,2026-01-07,Size/Fit Issue
+O000701,0,,,Not Returned
+O000702,0,,,Not Returned
+O000703,0,,,Not Returned
+O000704,0,,,Not Returned
+O000705,0,,,Not Returned
+O000706,0,,,Not Returned
+O000707,0,,,Not Returned
+O000708,0,,,Not Returned
+O000709,0,,,Not Returned
+O000710,0,,,Not Returned
+O000711,1,Late Delivery,2026-06-25,Late Delivery
+O000712,0,,,Not Returned
+O000713,0,,,Not Returned
+O000714,0,,,Not Returned
+O000715,0,,,Not Returned
+O000716,0,,,Not Returned
+O000717,0,,,Not Returned
+O000718,0,,,Not Returned
+O000719,0,,,Not Returned
+O000720,0,,,Not Returned
+O000721,0,,,Not Returned
+O000722,0,,,Not Returned
+O000723,0,,,Not Returned
+O000724,0,,,Not Returned
+O000725,0,,,Not Returned
+O000726,1,Changed Mind,2025-10-31,Changed Mind
+O000727,0,,,Not Returned
+O000728,0,,,Not Returned
+O000729,0,,,Not Returned
+O000730,1,Late Delivery,2025-06-30,Late Delivery
+O000731,0,,,Not Returned
+O000732,1,Late Delivery,2025-02-13,Late Delivery
+O000733,0,,,Not Returned
+O000734,0,,,Not Returned
+O000735,0,,,Not Returned
+O000736,1,Late Delivery,2026-05-15,Late Delivery
+O000737,0,,,Not Returned
+O000738,0,,,Not Returned
+O000739,0,,,Not Returned
+O000740,1,Wrong Item Delivered,2026-04-27,Wrong Item Delivered
+O000741,0,,,Not Returned
+O000742,0,,,Not Returned
+O000743,0,,,Not Returned
+O000744,0,,,Not Returned
+O000745,0,,,Not Returned
+O000746,0,,,Not Returned
+O000747,0,,,Not Returned
+O000748,0,,,Not Returned
+O000749,0,,,Not Returned
+O000750,1,Size/Fit Issue,2026-02-09,Size/Fit Issue
+O000751,1,,2025-07-20,Unknown
+O000752,0,,,Not Returned
+O000753,1,Quality Issue,2026-07-28,Quality Issue
+O000754,0,,,Not Returned
+O000755,0,,,Not Returned
+O000756,0,,,Not Returned
+O000757,0,,,Not Returned
+O000758,0,,,Not Returned
+O000759,0,,,Not Returned
+O000760,0,,,Not Returned
+O000761,0,,,Not Returned
+O000762,0,,,Not Returned
+O000763,0,,,Not Returned
+O000764,0,,,Not Returned
+O000765,0,,,Not Returned
+O000766,0,,,Not Returned
+O000767,0,,,Not Returned
+O000768,0,,,Not Returned
+O000769,0,,,Not Returned
+O000770,1,Size/Fit Issue,2025-06-26,Size/Fit Issue
+O000771,0,,,Not Returned
+O000772,1,Not as Described,2026-03-19,Not as Described
+O000773,0,,,Not Returned
+O000774,0,,,Not Returned
+O000775,0,,,Not Returned
+O000776,0,,,Not Returned
+O000777,1,Quality Issue,2025-12-09,Quality Issue
+O000778,1,Late Delivery,2025-11-06,Late Delivery
+O000779,0,,,Not Returned
+O000780,0,,,Not Returned
+O000781,0,,,Not Returned
+O000782,1,Damaged Product,2025-06-28,Damaged Product
+O000783,0,,,Not Returned
+O000784,0,,,Not Returned
+O000785,0,,,Not Returned
+O000786,0,,,Not Returned
+O000787,0,,,Not Returned
+O000788,0,,,Not Returned
+O000789,0,,,Not Returned
+O000790,0,,,Not Returned
+O000791,0,,,Not Returned
+O000792,0,,,Not Returned
+O000793,0,,,Not Returned
+O000794,0,,,Not Returned
+O000795,0,,,Not Returned
+O000796,0,,,Not Returned
+O000797,0,,,Not Returned
+O000798,0,,,Not Returned
+O000799,1,Damaged Product,2026-09-23,Damaged Product
+O000800,0,,,Not Returned
+O000801,1,Late Delivery,2025-04-30,Late Delivery
+O000802,0,,,Not Returned
+O000803,1,Late Delivery,2026-08-06,Late Delivery
+O000804,0,,,Not Returned
+O000805,0,,,Not Returned
+O000806,0,,,Not Returned
+O000807,0,,,Not Returned
+O000808,0,,,Not Returned
+O000809,0,,,Not Returned
+O000810,0,,,Not Returned
+O000811,0,,,Not Returned
+O000812,0,,,Not Returned
+O000813,0,,,Not Returned
+O000814,0,,,Not Returned
+O000815,0,,,Not Returned
+O000816,1,Size/Fit Issue,2025-08-07,Size/Fit Issue
+O000817,0,,,Not Returned
+O000818,1,Late Delivery,2025-09-16,Late Delivery
+O000819,0,,,Not Returned
+O000820,1,,2026-05-01,Unknown
+O000821,0,,,Not Returned
+O000822,0,,,Not Returned
+O000823,0,,,Not Returned
+O000824,0,,,Not Returned
+O000825,0,,,Not Returned
+O000826,0,,,Not Returned
+O000827,0,,,Not Returned
+O000828,0,,,Not Returned
+O000829,0,,,Not Returned
+O000830,0,,,Not Returned
+O000831,0,,,Not Returned
+O000832,0,,,Not Returned
+O000833,0,,,Not Returned
+O000834,0,,,Not Returned
+O000835,0,,,Not Returned
+O000836,0,,,Not Returned
+O000837,0,,,Not Returned
+O000838,0,,,Not Returned
+O000839,0,,,Not Returned
+O000840,0,,,Not Returned
+O000841,0,,,Not Returned
+O000842,0,,,Not Returned
+O000843,0,,,Not Returned
+O000844,0,,,Not Returned
+O000845,0,,,Not Returned
+O000846,0,,,Not Returned
+O000847,0,,,Not Returned
+O000848,0,,,Not Returned
+O000849,0,,,Not Returned
+O000850,0,,,Not Returned
+O000851,0,,,Not Returned
+O000852,0,,,Not Returned
+O000853,0,,,Not Returned
+O000854,1,Not as Described,2026-04-14,Not as Described
+O000855,0,,,Not Returned
+O000856,0,,,Not Returned
+O000857,1,Late Delivery,2025-09-16,Late Delivery
+O000858,0,,,Not Returned
+O000859,0,,,Not Returned
+O000860,0,,,Not Returned
+O000861,0,,,Not Returned
+O000862,1,,2025-07-03,Unknown
+O000863,0,,,Not Returned
+O000864,0,,,Not Returned
+O000865,0,,,Not Returned
+O000866,0,,,Not Returned
+O000867,0,,,Not Returned
+O000868,0,,,Not Returned
+O000869,1,Wrong Item Delivered,2026-01-23,Wrong Item Delivered
+O000870,0,,,Not Returned
+O000871,0,,,Not Returned
+O000872,1,Size/Fit Issue,2025-04-10,Size/Fit Issue
+O000873,0,,,Not Returned
+O000874,0,,,Not Returned
+O000875,0,,,Not Returned
+O000876,0,,,Not Returned
+O000877,0,,,Not Returned
+O000878,0,,,Not Returned
+O000879,0,,,Not Returned
+O000880,0,,,Not Returned
+O000881,0,,,Not Returned
+O000882,0,,,Not Returned
+O000883,0,,,Not Returned
+O000884,0,,,Not Returned
+O000885,0,,,Not Returned
+O000886,0,,,Not Returned
+O000887,0,,,Not Returned
+O000888,0,,,Not Returned
+O000889,0,,,Not Returned
+O000890,0,,,Not Returned
+O000891,1,Changed Mind,2025-09-14,Changed Mind
+O000892,0,,,Not Returned
+O000893,1,Size/Fit Issue,2025-12-03,Size/Fit Issue
+O000894,0,,,Not Returned
+O000895,0,,,Not Returned
+O000896,0,,,Not Returned
+O000897,0,,,Not Returned
+O000898,1,Size/Fit Issue,2026-08-07,Size/Fit Issue
+O000899,0,,,Not Returned
+O000900,0,,,Not Returned
+O000901,0,,,Not Returned
+O000902,0,,,Not Returned
+O000903,0,,,Not Returned
+O000904,0,,,Not Returned
+O000905,1,,2026-03-26,Unknown
+O000906,0,,,Not Returned
+O000907,0,,,Not Returned
+O000908,0,,,Not Returned
+O000909,1,Size/Fit Issue,2026-05-05,Size/Fit Issue
+O000910,0,,,Not Returned
+O000911,0,,,Not Returned
+O000912,0,,,Not Returned
+O000913,1,Late Delivery,2025-06-28,Late Delivery
+O000914,0,,,Not Returned
+O000915,0,,,Not Returned
+O000916,0,,,Not Returned
+O000917,0,,,Not Returned
+O000918,0,,,Not Returned
+O000919,0,,,Not Returned
+O000920,0,,,Not Returned
+O000921,0,,,Not Returned
+O000922,1,Quality Issue,2026-06-20,Quality Issue
+O000923,0,,,Not Returned
+O000924,0,,,Not Returned
+O000925,0,,,Not Returned
+O000926,0,,,Not Returned
+O000927,0,,,Not Returned
+O000928,1,Damaged Product,2025-11-20,Damaged Product
+O000929,0,,,Not Returned
+O000930,0,,,Not Returned
+O000931,0,,,Not Returned
+O000932,0,,,Not Returned
+O000933,0,,,Not Returned
+O000934,0,,,Not Returned
+O000935,0,,,Not Returned
+O000936,0,,,Not Returned
+O000937,1,Late Delivery,2025-06-23,Late Delivery
+O000938,0,,,Not Returned
+O000939,0,,,Not Returned
+O000940,0,,,Not Returned
+O000941,0,,,Not Returned
+O000942,0,,,Not Returned
+O000943,0,,,Not Returned
+O000944,0,,,Not Returned
+O000945,0,,,Not Returned
+O000946,0,,,Not Returned
+O000947,0,,,Not Returned
+O000948,0,,,Not Returned
+O000949,0,,,Not Returned
+O000950,1,Late Delivery,2025-07-21,Late Delivery
+O000951,0,,,Not Returned
+O000952,0,,,Not Returned
+O000953,0,,,Not Returned
+O000954,1,Damaged Product,2026-05-30,Damaged Product
+O000955,1,,2025-12-10,Unknown
+O000956,0,,,Not Returned
+O000957,0,,,Not Returned
+O000958,0,,,Not Returned
+O000959,1,Size/Fit Issue,2026-04-20,Size/Fit Issue
+O000960,0,,,Not Returned
+O000961,0,,,Not Returned
+O000962,1,,2025-09-12,Unknown
+O000963,0,,,Not Returned
+O000964,0,,,Not Returned
+O000965,0,,,Not Returned
+O000966,0,,,Not Returned
+O000967,0,,,Not Returned
+O000968,0,,,Not Returned
+O000969,0,,,Not Returned
+O000970,0,,,Not Returned
+O000971,0,,,Not Returned
+O000972,0,,,Not Returned
+O000973,0,,,Not Returned
+O000974,0,,,Not Returned
+O000975,0,,,Not Returned
+O000976,0,,,Not Returned
+O000977,0,,,Not Returned
+O000978,0,,,Not Returned
+O000979,1,Wrong Item Delivered,2025-07-23,Wrong Item Delivered
+O000980,0,,,Not Returned
+O000981,0,,,Not Returned
+O000982,1,Size/Fit Issue,2026-08-20,Size/Fit Issue
+O000983,0,,,Not Returned
+O000984,0,,,Not Returned
+O000985,0,,,Not Returned
+O000986,0,,,Not Returned
+O000987,0,,,Not Returned
+O000988,1,Size/Fit Issue,2025-12-27,Size/Fit Issue
+O000989,0,,,Not Returned
+O000990,0,,,Not Returned
+O000991,0,,,Not Returned
+O000992,0,,,Not Returned
+O000993,0,,,Not Returned
+O000994,0,,,Not Returned
+O000995,0,,,Not Returned
+O000996,0,,,Not Returned
+O000997,1,Quality Issue,2025-03-29,Quality Issue
+O000998,0,,,Not Returned
+O000999,0,,,Not Returned
+O001000,0,,,Not Returned
+O001001,0,,,Not Returned
+O001002,0,,,Not Returned
+O001003,0,,,Not Returned
+O001004,0,,,Not Returned
+O001005,0,,,Not Returned
+O001006,0,,,Not Returned
+O001007,1,Not as Described,2026-06-09,Not as Described
+O001008,0,,,Not Returned
+O001009,0,,,Not Returned
+O001010,0,,,Not Returned
+O001011,0,,,Not Returned
+O001012,0,,,Not Returned
+O001013,0,,,Not Returned
+O001014,0,,,Not Returned
+O001015,1,Size/Fit Issue,2025-10-16,Size/Fit Issue
+O001016,0,,,Not Returned
+O001017,0,,,Not Returned
+O001018,0,,,Not Returned
+O001019,0,,,Not Returned
+O001020,0,,,Not Returned
+O001021,0,,,Not Returned
+O001022,0,,,Not Returned
+O001023,0,,,Not Returned
+O001024,0,,,Not Returned
+O001025,0,,,Not Returned
+O001026,0,,,Not Returned
+O001027,0,,,Not Returned
+O001028,0,,,Not Returned
+O001029,0,,,Not Returned
+O001030,0,,,Not Returned
+O001031,0,,,Not Returned
+O001032,0,,,Not Returned
+O001033,0,,,Not Returned
+O001034,0,,,Not Returned
+O001035,0,,,Not Returned
+O001036,0,,,Not Returned
+O001037,0,,,Not Returned
+O001038,0,,,Not Returned
+O001039,0,,,Not Returned
+O001040,0,,,Not Returned
+O001041,0,,,Not Returned
+O001042,0,,,Not Returned
+O001043,0,,,Not Returned
+O001044,0,,,Not Returned
+O001045,0,,,Not Returned
+O001046,0,,,Not Returned
+O001047,1,Quality Issue,2026-02-07,Quality Issue
+O001048,1,Size/Fit Issue,2025-12-29,Size/Fit Issue
+O001049,0,,,Not Returned
+O001050,0,,,Not Returned
+O001051,0,,,Not Returned
+O001052,0,,,Not Returned
+O001053,0,,,Not Returned
+O001054,1,Size/Fit Issue,2026-10-03,Size/Fit Issue
+O001055,0,,,Not Returned
+O001056,0,,,Not Returned
+O001057,0,,,Not Returned
+O001058,0,,,Not Returned
+O001059,0,,,Not Returned
+O001060,0,,,Not Returned
+O001061,0,,,Not Returned
+O001062,0,,,Not Returned
+O001063,0,,,Not Returned
+O001064,0,,,Not Returned
+O001065,0,,,Not Returned
+O001066,0,,,Not Returned
+O001067,0,,,Not Returned
+O001068,0,,,Not Returned
+O001069,0,,,Not Returned
+O001070,0,,,Not Returned
+O001071,1,Size/Fit Issue,2025-07-20,Size/Fit Issue
+O001072,0,,,Not Returned
+O001073,0,,,Not Returned
+O001074,1,Late Delivery,2025-07-21,Late Delivery
+O001075,1,Size/Fit Issue,2026-01-04,Size/Fit Issue
+O001076,0,,,Not Returned
+O001077,0,,,Not Returned
+O001078,0,,,Not Returned
+O001079,0,,,Not Returned
+O001080,0,,,Not Returned
+O001081,1,Quality Issue,2026-10-14,Quality Issue
+O001082,0,,,Not Returned
+O001083,0,,,Not Returned
+O001084,0,,,Not Returned
+O001085,0,,,Not Returned
+O001086,0,,,Not Returned
+O001087,0,,,Not Returned
+O001088,0,,,Not Returned
+O001089,0,,,Not Returned
+O001090,1,Damaged Product,2025-08-19,Damaged Product
+O001091,1,,2026-09-02,Unknown
+O001092,0,,,Not Returned
+O001093,0,,,Not Returned
+O001094,0,,,Not Returned
+O001095,1,Late Delivery,2025-03-13,Late Delivery
+O001096,0,,,Not Returned
+O001097,1,Quality Issue,2026-07-29,Quality Issue
+O001098,0,,,Not Returned
+O001099,0,,,Not Returned
+O001100,0,,,Not Returned
+O001101,0,,,Not Returned
+O001102,0,,,Not Returned
+O001103,0,,,Not Returned
+O001104,0,,,Not Returned
+O001105,0,,,Not Returned
+O001106,0,,,Not Returned
+O001107,0,,,Not Returned
+O001108,1,Late Delivery,2025-11-24,Late Delivery
+O001109,0,,,Not Returned
+O001110,0,,,Not Returned
+O001111,0,,,Not Returned
+O001112,0,,,Not Returned
+O001113,0,,,Not Returned
+O001114,0,,,Not Returned
+O001115,0,,,Not Returned
+O001116,0,,,Not Returned
+O001117,0,,,Not Returned
+O001118,0,,,Not Returned
+O001119,0,,,Not Returned
+O001120,0,,,Not Returned
+O001121,0,,,Not Returned
+O001122,0,,,Not Returned
+O001123,0,,,Not Returned
+O001124,0,,,Not Returned
+O001125,0,,,Not Returned
+O001126,0,,,Not Returned
+O001127,0,,,Not Returned
+O001128,0,,,Not Returned
+O001129,0,,,Not Returned
+O001130,0,,,Not Returned
+O001131,0,,,Not Returned
+O001132,0,,,Not Returned
+O001133,0,,,Not Returned
+O001134,0,,,Not Returned
+O001135,0,,,Not Returned
+O001136,0,,,Not Returned
+O001137,0,,,Not Returned
+O001138,0,,,Not Returned
+O001139,0,,,Not Returned
+O001140,0,,,Not Returned
+O001141,0,,,Not Returned
+O001142,0,,,Not Returned
+O001143,1,Late Delivery,2026-08-15,Late Delivery
+O001144,0,,,Not Returned
+O001145,1,Not as Described,2026-07-05,Not as Described
+O001146,1,Damaged Product,2025-02-10,Damaged Product
+O001147,0,,,Not Returned
+O001148,0,,,Not Returned
+O001149,0,,,Not Returned
+O001150,0,,,Not Returned
+O001151,0,,,Not Returned
+O001152,0,,,Not Returned
+O001153,0,,,Not Returned
+O001154,0,,,Not Returned
+O001155,0,,,Not Returned
+O001156,0,,,Not Returned
+O001157,0,,,Not Returned
+O001158,0,,,Not Returned
+O001159,0,,,Not Returned
+O001160,0,,,Not Returned
+O001161,0,,,Not Returned
+O001162,0,,,Not Returned
+O001163,1,Size/Fit Issue,2025-10-21,Size/Fit Issue
+O001164,0,,,Not Returned
+O001165,0,,,Not Returned
+O001166,0,,,Not Returned
+O001167,0,,,Not Returned
+O001168,0,,,Not Returned
+O001169,0,,,Not Returned
+O001170,0,,,Not Returned
+O001171,0,,,Not Returned
+O001172,1,Size/Fit Issue,2025-08-28,Size/Fit Issue
+O001173,0,,,Not Returned
+O001174,0,,,Not Returned
+O001175,1,Damaged Product,2026-08-26,Damaged Product
+O001176,0,,,Not Returned
+O001177,0,,,Not Returned
+O001178,0,,,Not Returned
+O001179,0,,,Not Returned
+O001180,0,,,Not Returned
+O001181,0,,,Not Returned
+O001182,1,Size/Fit Issue,2026-07-10,Size/Fit Issue
+O001183,1,Damaged Product,2026-10-18,Damaged Product
+O001184,0,,,Not Returned
+O001185,0,,,Not Returned
+O001186,0,,,Not Returned
+O001187,1,Size/Fit Issue,2025-02-05,Size/Fit Issue
+O001188,0,,,Not Returned
+O001189,0,,,Not Returned
+O001190,0,,,Not Returned
+O001191,1,Quality Issue,2026-09-24,Quality Issue
+O001192,0,,,Not Returned
+O001193,1,Wrong Item Delivered,2026-02-15,Wrong Item Delivered
+O001194,0,,,Not Returned
+O001195,1,Not as Described,2026-01-08,Not as Described
+O001196,0,,,Not Returned
+O001197,0,,,Not Returned
+O001198,0,,,Not Returned
+O001199,0,,,Not Returned
+O001200,0,,,Not Returned
+O001201,0,,,Not Returned
+O001202,0,,,Not Returned
+O001203,0,,,Not Returned
+O001204,0,,,Not Returned
+O001205,0,,,Not Returned
+O001206,0,,,Not Returned
+O001207,0,,,Not Returned
+O001208,0,,,Not Returned
+O001209,0,,,Not Returned
+O001210,0,,,Not Returned
+O001211,0,,,Not Returned
+O001212,0,,,Not Returned
+O001213,0,,,Not Returned
+O001214,0,,,Not Returned
+O001215,0,,,Not Returned
+O001216,0,,,Not Returned
+O001217,0,,,Not Returned
+O001218,0,,,Not Returned
+O001219,0,,,Not Returned
+O001220,0,,,Not Returned
+O001221,0,,,Not Returned
+O001222,0,,,Not Returned
+O001223,0,,,Not Returned
+O001224,1,Damaged Product,2025-10-10,Damaged Product
+O001225,0,,,Not Returned
+O001226,0,,,Not Returned
+O001227,0,,,Not Returned
+O001228,1,Late Delivery,2026-03-29,Late Delivery
+O001229,0,,,Not Returned
+O001230,0,,,Not Returned
+O001231,0,,,Not Returned
+O001232,0,,,Not Returned
+O001233,1,Wrong Item Delivered,2025-06-16,Wrong Item Delivered
+O001234,0,,,Not Returned
+O001235,0,,,Not Returned
+O001236,0,,,Not Returned
+O001237,0,,,Not Returned
+O001238,0,,,Not Returned
+O001239,0,,,Not Returned
+O001240,0,,,Not Returned
+O001241,0,,,Not Returned
+O001242,0,,,Not Returned
+O001243,0,,,Not Returned
+O001244,0,,,Not Returned
+O001245,1,Changed Mind,2025-02-22,Changed Mind
+O001246,0,,,Not Returned
+O001247,0,,,Not Returned
+O001248,0,,,Not Returned
+O001249,0,,,Not Returned
+O001250,0,,,Not Returned
+O001251,0,,,Not Returned
+O001252,0,,,Not Returned
+O001253,0,,,Not Returned
+O001254,0,,,Not Returned
+O001255,0,,,Not Returned
+O001256,0,,,Not Returned
+O001257,1,,2026-04-30,Unknown
+O001258,1,Late Delivery,2026-04-30,Late Delivery
+O001259,0,,,Not Returned
+O001260,0,,,Not Returned
+O001261,0,,,Not Returned
+O001262,0,,,Not Returned
+O001263,0,,,Not Returned
+O001264,0,,,Not Returned
+O001265,0,,,Not Returned
+O001266,0,,,Not Returned
+O001267,0,,,Not Returned
+O001268,0,,,Not Returned
+O001269,0,,,Not Returned
+O001270,0,,,Not Returned
+O001271,0,,,Not Returned
+O001272,0,,,Not Returned
+O001273,0,,,Not Returned
+O001274,0,,,Not Returned
+O001275,1,Late Delivery,2025-07-11,Late Delivery
+O001276,0,,,Not Returned
+O001277,0,,,Not Returned
+O001278,0,,,Not Returned
+O001279,0,,,Not Returned
+O001280,0,,,Not Returned
+O001281,0,,,Not Returned
+O001282,0,,,Not Returned
+O001283,1,,2026-02-05,Unknown
+O001284,0,,,Not Returned
+O001285,0,,,Not Returned
+O001286,0,,,Not Returned
+O001287,0,,,Not Returned
+O001288,0,,,Not Returned
+O001289,0,,,Not Returned
+O001290,0,,,Not Returned
+O001291,0,,,Not Returned
+O001292,0,,,Not Returned
+O001293,0,,,Not Returned
+O001294,0,,,Not Returned
+O001295,0,,,Not Returned
+O001296,0,,,Not Returned
+O001297,0,,,Not Returned
+O001298,0,,,Not Returned
+O001299,0,,,Not Returned
+O001300,0,,,Not Returned
+O001301,0,,,Not Returned
+O001302,0,,,Not Returned
+O001303,0,,,Not Returned
+O001304,0,,,Not Returned
+O001305,0,,,Not Returned
+O001306,0,,,Not Returned
+O001307,1,Late Delivery,2025-07-31,Late Delivery
+O001308,0,,,Not Returned
+O001309,0,,,Not Returned
+O001310,0,,,Not Returned
+O001311,0,,,Not Returned
+O001312,0,,,Not Returned
+O001313,0,,,Not Returned
+O001314,0,,,Not Returned
+O001315,0,,,Not Returned
+O001316,0,,,Not Returned
+O001317,0,,,Not Returned
+O001318,0,,,Not Returned
+O001319,0,,,Not Returned
+O001320,1,Wrong Item Delivered,2026-01-21,Wrong Item Delivered
+O001321,0,,,Not Returned
+O001322,0,,,Not Returned
+O001323,0,,,Not Returned
+O001324,1,Damaged Product,2026-02-21,Damaged Product
+O001325,0,,,Not Returned
+O001326,0,,,Not Returned
+O001327,0,,,Not Returned
+O001328,0,,,Not Returned
+O001329,0,,,Not Returned
+O001330,0,,,Not Returned
+O001331,0,,,Not Returned
+O001332,1,Size/Fit Issue,2026-08-10,Size/Fit Issue
+O001333,0,,,Not Returned
+O001334,0,,,Not Returned
+O001335,0,,,Not Returned
+O001336,0,,,Not Returned
+O001337,0,,,Not Returned
+O001338,0,,,Not Returned
+O001339,0,,,Not Returned
+O001340,0,,,Not Returned
+O001341,0,,,Not Returned
+O001342,1,Changed Mind,2026-04-23,Changed Mind
+O001343,0,,,Not Returned
+O001344,1,Quality Issue,2025-09-13,Quality Issue
+O001345,0,,,Not Returned
+O001346,0,,,Not Returned
+O001347,1,Damaged Product,2025-10-21,Damaged Product
+O001348,0,,,Not Returned
+O001349,0,,,Not Returned
+O001350,0,,,Not Returned
+O001351,0,,,Not Returned
+O001352,0,,,Not Returned
+O001353,0,,,Not Returned
+O001354,0,,,Not Returned
+O001355,0,,,Not Returned
+O001356,0,,,Not Returned
+O001357,0,,,Not Returned
+O001358,0,,,Not Returned
+O001359,0,,,Not Returned
+O001360,0,,,Not Returned
+O001361,1,Late Delivery,2025-07-16,Late Delivery
+O001362,0,,,Not Returned
+O001363,0,,,Not Returned
+O001364,1,Late Delivery,2025-02-20,Late Delivery
+O001365,0,,,Not Returned
+O001366,0,,,Not Returned
+O001367,0,,,Not Returned
+O001368,0,,,Not Returned
+O001369,0,,,Not Returned
+O001370,0,,,Not Returned
+O001371,0,,,Not Returned
+O001372,0,,,Not Returned
+O001373,0,,,Not Returned
+O001374,0,,,Not Returned
+O001375,0,,,Not Returned
+O001376,0,,,Not Returned
+O001377,0,,,Not Returned
+O001378,0,,,Not Returned
+O001379,0,,,Not Returned
+O001380,0,,,Not Returned
+O001381,0,,,Not Returned
+O001382,0,,,Not Returned
+O001383,0,,,Not Returned
+O001384,0,,,Not Returned
+O001385,0,,,Not Returned
+O001386,0,,,Not Returned
+O001387,0,,,Not Returned
+O001388,0,,,Not Returned
+O001389,0,,,Not Returned
+O001390,0,,,Not Returned
+O001391,0,,,Not Returned
+O001392,0,,,Not Returned
+O001393,0,,,Not Returned
+O001394,1,Size/Fit Issue,2026-02-25,Size/Fit Issue
+O001395,0,,,Not Returned
+O001396,0,,,Not Returned
+O001397,0,,,Not Returned
+O001398,0,,,Not Returned
+O001399,0,,,Not Returned
+O001400,0,,,Not Returned
+O001401,0,,,Not Returned
+O001402,0,,,Not Returned
+O001403,0,,,Not Returned
+O001404,0,,,Not Returned
+O001405,0,,,Not Returned
+O001406,0,,,Not Returned
+O001407,0,,,Not Returned
+O001408,0,,,Not Returned
+O001409,0,,,Not Returned
+O001410,0,,,Not Returned
+O001411,1,Quality Issue,2026-04-20,Quality Issue
+O001412,0,,,Not Returned
+O001413,0,,,Not Returned
+O001414,1,,2025-12-27,Unknown
+O001415,0,,,Not Returned
+O001416,0,,,Not Returned
+O001417,0,,,Not Returned
+O001418,1,Quality Issue,2026-06-01,Quality Issue
+O001419,0,,,Not Returned
+O001420,0,,,Not Returned
+O001421,0,,,Not Returned
+O001422,0,,,Not Returned
+O001423,0,,,Not Returned
+O001424,0,,,Not Returned
+O001425,0,,,Not Returned
+O001426,0,,,Not Returned
+O001427,0,,,Not Returned
+O001428,0,,,Not Returned
+O001429,1,Not as Described,2025-06-22,Not as Described
+O001430,1,,2026-01-17,Unknown
+O001431,1,Size/Fit Issue,2025-10-23,Size/Fit Issue
+O001432,0,,,Not Returned
+O001433,0,,,Not Returned
+O001434,0,,,Not Returned
+O001435,0,,,Not Returned
+O001436,0,,,Not Returned
+O001437,0,,,Not Returned
+O001438,0,,,Not Returned
+O001439,0,,,Not Returned
+O001440,0,,,Not Returned
+O001441,0,,,Not Returned
+O001442,1,,2025-06-03,Unknown
+O001443,0,,,Not Returned
+O001444,0,,,Not Returned
+O001445,0,,,Not Returned
+O001446,1,,2025-10-06,Unknown
+O001447,0,,,Not Returned
+O001448,1,Late Delivery,2025-06-13,Late Delivery
+O001449,1,Not as Described,2026-05-22,Not as Described
+O001450,0,,,Not Returned
+O001451,0,,,Not Returned
+O001452,0,,,Not Returned
+O001453,0,,,Not Returned
+O001454,0,,,Not Returned
+O001455,0,,,Not Returned
+O001456,0,,,Not Returned
+O001457,0,,,Not Returned
+O001458,0,,,Not Returned
+O001459,0,,,Not Returned
+O001460,0,,,Not Returned
+O001461,0,,,Not Returned
+O001462,0,,,Not Returned
+O001463,0,,,Not Returned
+O001464,0,,,Not Returned
+O001465,0,,,Not Returned
+O001466,0,,,Not Returned
+O001467,0,,,Not Returned
+O001468,0,,,Not Returned
+O001469,0,,,Not Returned
+O001470,0,,,Not Returned
+O001471,0,,,Not Returned
+O001472,0,,,Not Returned
+O001473,0,,,Not Returned
+O001474,1,,2025-02-17,Unknown
+O001475,0,,,Not Returned
+O001476,0,,,Not Returned
+O001477,0,,,Not Returned
+O001478,0,,,Not Returned
+O001479,0,,,Not Returned
+O001480,0,,,Not Returned
+O001481,0,,,Not Returned
+O001482,0,,,Not Returned
+O001483,0,,,Not Returned
+O001484,0,,,Not Returned
+O001485,0,,,Not Returned
+O001486,0,,,Not Returned
+O001487,0,,,Not Returned
+O001488,0,,,Not Returned
+O001489,0,,,Not Returned
+O001490,0,,,Not Returned
+O001491,1,Quality Issue,2025-08-04,Quality Issue
+O001492,1,Late Delivery,2026-04-18,Late Delivery
+O001493,0,,,Not Returned
+O001494,0,,,Not Returned
+O001495,0,,,Not Returned
+O001496,0,,,Not Returned
+O001497,0,,,Not Returned
+O001498,0,,,Not Returned
+O001499,0,,,Not Returned
+O001500,0,,,Not Returned
+O001501,0,,,Not Returned
+O001502,0,,,Not Returned
+O001503,0,,,Not Returned
+O001504,0,,,Not Returned
+O001505,0,,,Not Returned
+O001506,1,Size/Fit Issue,2026-05-06,Size/Fit Issue
+O001507,0,,,Not Returned
+O001508,0,,,Not Returned
+O001509,0,,,Not Returned
+O001510,1,Not as Described,2025-10-02,Not as Described
+O001511,0,,,Not Returned
+O001512,0,,,Not Returned
+O001513,0,,,Not Returned
+O001514,0,,,Not Returned
+O001515,0,,,Not Returned
+O001516,0,,,Not Returned
+O001517,0,,,Not Returned
+O001518,0,,,Not Returned
+O001519,0,,,Not Returned
+O001520,0,,,Not Returned
+O001521,0,,,Not Returned
+O001522,0,,,Not Returned
+O001523,0,,,Not Returned
+O001524,0,,,Not Returned
+O001525,0,,,Not Returned
+O001526,0,,,Not Returned
+O001527,0,,,Not Returned
+O001528,0,,,Not Returned
+O001529,0,,,Not Returned
+O001530,1,,2026-01-26,Unknown
+O001531,0,,,Not Returned
+O001532,0,,,Not Returned
+O001533,1,,2026-01-07,Unknown
+O001534,0,,,Not Returned
+O001535,0,,,Not Returned
+O001536,0,,,Not Returned
+O001537,0,,,Not Returned
+O001538,0,,,Not Returned
+O001539,0,,,Not Returned
+O001540,0,,,Not Returned
+O001541,0,,,Not Returned
+O001542,0,,,Not Returned
+O001543,0,,,Not Returned
+O001544,0,,,Not Returned
+O001545,0,,,Not Returned
+O001546,0,,,Not Returned
+O001547,0,,,Not Returned
+O001548,0,,,Not Returned
+O001549,0,,,Not Returned
+O001550,0,,,Not Returned
+O001551,0,,,Not Returned
+O001552,0,,,Not Returned
+O001553,0,,,Not Returned
+O001554,0,,,Not Returned
+O001555,0,,,Not Returned
+O001556,0,,,Not Returned
+O001557,0,,,Not Returned
+O001558,0,,,Not Returned
+O001559,1,Late Delivery,2025-11-08,Late Delivery
+O001560,0,,,Not Returned
+O001561,0,,,Not Returned
+O001562,0,,,Not Returned
+O001563,1,Size/Fit Issue,2025-02-04,Size/Fit Issue
+O001564,0,,,Not Returned
+O001565,0,,,Not Returned
+O001566,0,,,Not Returned
+O001567,0,,,Not Returned
+O001568,0,,,Not Returned
+O001569,0,,,Not Returned
+O001570,0,,,Not Returned
+O001571,0,,,Not Returned
+O001572,0,,,Not Returned
+O001573,0,,,Not Returned
+O001574,0,,,Not Returned
+O001575,0,,,Not Returned
+O001576,0,,,Not Returned
+O001577,0,,,Not Returned
+O001578,0,,,Not Returned
+O001579,0,,,Not Returned
+O001580,0,,,Not Returned
+O001581,0,,,Not Returned
+O001582,0,,,Not Returned
+O001583,0,,,Not Returned
+O001584,0,,,Not Returned
+O001585,1,Changed Mind,2025-07-12,Changed Mind
+O001586,0,,,Not Returned
+O001587,0,,,Not Returned
+O001588,0,,,Not Returned
+O001589,0,,,Not Returned
+O001590,0,,,Not Returned
+O001591,0,,,Not Returned
+O001592,1,,2025-04-10,Unknown
+O001593,0,,,Not Returned
+O001594,0,,,Not Returned
+O001595,0,,,Not Returned
+O001596,0,,,Not Returned
+O001597,0,,,Not Returned
+O001598,0,,,Not Returned
+O001599,0,,,Not Returned
+O001600,0,,,Not Returned
+O001601,0,,,Not Returned
+O001602,0,,,Not Returned
+O001603,0,,,Not Returned
+O001604,0,,,Not Returned
+O001605,1,Size/Fit Issue,2026-06-07,Size/Fit Issue
+O001606,0,,,Not Returned
+O001607,1,Damaged Product,2025-05-25,Damaged Product
+O001608,0,,,Not Returned
+O001609,0,,,Not Returned
+O001610,0,,,Not Returned
+O001611,0,,,Not Returned
+O001612,0,,,Not Returned
+O001613,0,,,Not Returned
+O001614,0,,,Not Returned
+O001615,0,,,Not Returned
+O001616,0,,,Not Returned
+O001617,0,,,Not Returned
+O001618,0,,,Not Returned
+O001619,0,,,Not Returned
+O001620,0,,,Not Returned
+O001621,1,Not as Described,2025-08-24,Not as Described
+O001622,1,,2025-08-03,Unknown
+O001623,0,,,Not Returned
+O001624,0,,,Not Returned
+O001625,0,,,Not Returned
+O001626,0,,,Not Returned
+O001627,0,,,Not Returned
+O001628,0,,,Not Returned
+O001629,0,,,Not Returned
+O001630,0,,,Not Returned
+O001631,0,,,Not Returned
+O001632,0,,,Not Returned
+O001633,0,,,Not Returned
+O001634,1,Late Delivery,2026-09-27,Late Delivery
+O001635,1,Not as Described,2025-06-04,Not as Described
+O001636,0,,,Not Returned
+O001637,0,,,Not Returned
+O001638,0,,,Not Returned
+O001639,0,,,Not Returned
+O001640,0,,,Not Returned
+O001641,0,,,Not Returned
+O001642,0,,,Not Returned
+O001643,0,,,Not Returned
+O001644,0,,,Not Returned
+O001645,0,,,Not Returned
+O001646,0,,,Not Returned
+O001647,0,,,Not Returned
+O001648,0,,,Not Returned
+O001649,0,,,Not Returned
+O001650,0,,,Not Returned
+O001651,0,,,Not Returned
+O001652,0,,,Not Returned
+O001653,0,,,Not Returned
+O001654,0,,,Not Returned
+O001655,0,,,Not Returned
+O001656,0,,,Not Returned
+O001657,0,,,Not Returned
+O001658,0,,,Not Returned
+O001659,0,,,Not Returned
+O001660,0,,,Not Returned
+O001661,0,,,Not Returned
+O001662,0,,,Not Returned
+O001663,0,,,Not Returned
+O001664,0,,,Not Returned
+O001665,0,,,Not Returned
+O001666,0,,,Not Returned
+O001667,1,Quality Issue,2025-03-31,Quality Issue
+O001668,1,Size/Fit Issue,2025-09-07,Size/Fit Issue
+O001669,0,,,Not Returned
+O001670,0,,,Not Returned
+O001671,0,,,Not Returned
+O001672,0,,,Not Returned
+O001673,0,,,Not Returned
+O001674,0,,,Not Returned
+O001675,0,,,Not Returned
+O001676,0,,,Not Returned
+O001677,0,,,Not Returned
+O001678,0,,,Not Returned
+O001679,0,,,Not Returned
+O001680,0,,,Not Returned
+O001681,0,,,Not Returned
+O001682,0,,,Not Returned
+O001683,0,,,Not Returned
+O001684,0,,,Not Returned
+O001685,0,,,Not Returned
+O001686,0,,,Not Returned
+O001687,0,,,Not Returned
+O001688,1,Size/Fit Issue,2025-02-01,Size/Fit Issue
+O001689,0,,,Not Returned
+O001690,0,,,Not Returned
+O001691,0,,,Not Returned
+O001692,0,,,Not Returned
+O001693,0,,,Not Returned
+O001694,0,,,Not Returned
+O001695,0,,,Not Returned
+O001696,0,,,Not Returned
+O001697,0,,,Not Returned
+O001698,0,,,Not Returned
+O001699,0,,,Not Returned
+O001700,1,Not as Described,2026-04-30,Not as Described
+O001701,0,,,Not Returned
+O001702,0,,,Not Returned
+O001703,0,,,Not Returned
+O001704,0,,,Not Returned
+O001705,1,,2026-07-15,Unknown
+O001706,0,,,Not Returned
+O001707,0,,,Not Returned
+O001708,0,,,Not Returned
+O001709,0,,,Not Returned
+O001710,0,,,Not Returned
+O001711,0,,,Not Returned
+O001712,0,,,Not Returned
+O001713,0,,,Not Returned
+O001714,1,Size/Fit Issue,2025-05-03,Size/Fit Issue
+O001715,0,,,Not Returned
+O001716,0,,,Not Returned
+O001717,0,,,Not Returned
+O001718,0,,,Not Returned
+O001719,0,,,Not Returned
+O001720,0,,,Not Returned
+O001721,0,,,Not Returned
+O001722,0,,,Not Returned
+O001723,0,,,Not Returned
+O001724,0,,,Not Returned
+O001725,0,,,Not Returned
+O001726,0,,,Not Returned
+O001727,0,,,Not Returned
+O001728,0,,,Not Returned
+O001729,0,,,Not Returned
+O001730,0,,,Not Returned
+O001731,0,,,Not Returned
+O001732,0,,,Not Returned
+O001733,0,,,Not Returned
+O001734,0,,,Not Returned
+O001735,0,,,Not Returned
+O001736,0,,,Not Returned
+O001737,0,,,Not Returned
+O001738,0,,,Not Returned
+O001739,0,,,Not Returned
+O001740,0,,,Not Returned
+O001741,1,,2026-05-18,Unknown
+O001742,0,,,Not Returned
+O001743,0,,,Not Returned
+O001744,0,,,Not Returned
+O001745,0,,,Not Returned
+O001746,0,,,Not Returned
+O001747,0,,,Not Returned
+O001748,0,,,Not Returned
+O001749,0,,,Not Returned
+O001750,0,,,Not Returned
+O001751,0,,,Not Returned
+O001752,0,,,Not Returned
+O001753,0,,,Not Returned
+O001754,0,,,Not Returned
+O001755,0,,,Not Returned
+O001756,0,,,Not Returned
+O001757,0,,,Not Returned
+O001758,0,,,Not Returned
+O001759,0,,,Not Returned
+O001760,0,,,Not Returned
+O001761,0,,,Not Returned
+O001762,0,,,Not Returned
+O001763,0,,,Not Returned
+O001764,0,,,Not Returned
+O001765,0,,,Not Returned
+O001766,0,,,Not Returned
+O001767,0,,,Not Returned
+O001768,0,,,Not Returned
+O001769,0,,,Not Returned
+O001770,0,,,Not Returned
+O001771,1,,2026-02-02,Unknown
+O001772,0,,,Not Returned
+O001773,0,,,Not Returned
+O001774,0,,,Not Returned
+O001775,1,Not as Described,2025-08-05,Not as Described
+O001776,0,,,Not Returned
+O001777,0,,,Not Returned
+O001778,0,,,Not Returned
+O001779,0,,,Not Returned
+O001780,0,,,Not Returned
+O001781,0,,,Not Returned
+O001782,0,,,Not Returned
+O001783,0,,,Not Returned
+O001784,0,,,Not Returned
+O001785,0,,,Not Returned
+O001786,0,,,Not Returned
+O001787,0,,,Not Returned
+O001788,0,,,Not Returned
+O001789,0,,,Not Returned
+O001790,0,,,Not Returned
+O001791,0,,,Not Returned
+O001792,0,,,Not Returned
+O001793,0,,,Not Returned
+O001794,0,,,Not Returned
+O001795,0,,,Not Returned
+O001796,0,,,Not Returned
+O001797,0,,,Not Returned
+O001798,0,,,Not Returned
+O001799,0,,,Not Returned
+O001800,0,,,Not Returned
+O001801,0,,,Not Returned
+O001802,0,,,Not Returned
+O001803,1,Wrong Item Delivered,2025-10-22,Wrong Item Delivered
+O001804,0,,,Not Returned
+O001805,0,,,Not Returned
+O001806,0,,,Not Returned
+O001807,0,,,Not Returned
+O001808,0,,,Not Returned
+O001809,0,,,Not Returned
+O001810,1,Late Delivery,2026-09-15,Late Delivery
+O001811,0,,,Not Returned
+O001812,0,,,Not Returned
+O001813,0,,,Not Returned
+O001814,0,,,Not Returned
+O001815,0,,,Not Returned
+O001816,0,,,Not Returned
+O001817,0,,,Not Returned
+O001818,0,,,Not Returned
+O001819,0,,,Not Returned
+O001820,0,,,Not Returned
+O001821,0,,,Not Returned
+O001822,0,,,Not Returned
+O001823,0,,,Not Returned
+O001824,0,,,Not Returned
+O001825,0,,,Not Returned
+O001826,0,,,Not Returned
+O001827,0,,,Not Returned
+O001828,0,,,Not Returned
+O001829,0,,,Not Returned
+O001830,0,,,Not Returned
+O001831,0,,,Not Returned
+O001832,0,,,Not Returned
+O001833,0,,,Not Returned
+O001834,0,,,Not Returned
+O001835,0,,,Not Returned
+O001836,0,,,Not Returned
+O001837,0,,,Not Returned
+O001838,0,,,Not Returned
+O001839,1,Not as Described,2025-08-25,Not as Described
+O001840,0,,,Not Returned
+O001841,1,Damaged Product,2025-06-29,Damaged Product
+O001842,0,,,Not Returned
+O001843,0,,,Not Returned
+O001844,0,,,Not Returned
+O001845,0,,,Not Returned
+O001846,1,Not as Described,2026-02-03,Not as Described
+O001847,0,,,Not Returned
+O001848,0,,,Not Returned
+O001849,0,,,Not Returned
+O001850,0,,,Not Returned
+O001851,0,,,Not Returned
+O001852,0,,,Not Returned
+O001853,0,,,Not Returned
+O001854,0,,,Not Returned
+O001855,1,Quality Issue,2025-12-04,Quality Issue
+O001856,0,,,Not Returned
+O001857,0,,,Not Returned
+O001858,0,,,Not Returned
+O001859,0,,,Not Returned
+O001860,0,,,Not Returned
+O001861,0,,,Not Returned
+O001862,0,,,Not Returned
+O001863,0,,,Not Returned
+O001864,1,Quality Issue,2025-02-08,Quality Issue
+O001865,1,,2025-12-07,Unknown
+O001866,0,,,Not Returned
+O001867,0,,,Not Returned
+O001868,0,,,Not Returned
+O001869,0,,,Not Returned
+O001870,0,,,Not Returned
+O001871,1,Changed Mind,2026-08-21,Changed Mind
+O001872,0,,,Not Returned
+O001873,0,,,Not Returned
+O001874,0,,,Not Returned
+O001875,0,,,Not Returned
+O001876,0,,,Not Returned
+O001877,0,,,Not Returned
+O001878,0,,,Not Returned
+O001879,0,,,Not Returned
+O001880,0,,,Not Returned
+O001881,0,,,Not Returned
+O001882,0,,,Not Returned
+O001883,0,,,Not Returned
+O001884,0,,,Not Returned
+O001885,1,Size/Fit Issue,2025-01-07,Size/Fit Issue
+O001886,0,,,Not Returned
+O001887,0,,,Not Returned
+O001888,0,,,Not Returned
+O001889,0,,,Not Returned
+O001890,0,,,Not Returned
+O001891,0,,,Not Returned
+O001892,0,,,Not Returned
+O001893,0,,,Not Returned
+O001894,0,,,Not Returned
+O001895,0,,,Not Returned
+O001896,0,,,Not Returned
+O001897,0,,,Not Returned
+O001898,0,,,Not Returned
+O001899,1,Size/Fit Issue,2025-12-16,Size/Fit Issue
+O001900,1,Wrong Item Delivered,2025-05-31,Wrong Item Delivered
+O001901,1,Changed Mind,2026-02-15,Changed Mind
+O001902,0,,,Not Returned
+O001903,0,,,Not Returned
+O001904,0,,,Not Returned
+O001905,0,,,Not Returned
+O001906,0,,,Not Returned
+O001907,0,,,Not Returned
+O001908,0,,,Not Returned
+O001909,0,,,Not Returned
+O001910,0,,,Not Returned
+O001911,0,,,Not Returned
+O001912,1,Late Delivery,2025-10-01,Late Delivery
+O001913,0,,,Not Returned
+O001914,0,,,Not Returned
+O001915,0,,,Not Returned
+O001916,0,,,Not Returned
+O001917,0,,,Not Returned
+O001918,0,,,Not Returned
+O001919,1,Size/Fit Issue,2025-06-15,Size/Fit Issue
+O001920,0,,,Not Returned
+O001921,0,,,Not Returned
+O001922,0,,,Not Returned
+O001923,0,,,Not Returned
+O001924,0,,,Not Returned
+O001925,0,,,Not Returned
+O001926,0,,,Not Returned
+O001927,0,,,Not Returned
+O001928,0,,,Not Returned
+O001929,0,,,Not Returned
+O001930,0,,,Not Returned
+O001931,0,,,Not Returned
+O001932,0,,,Not Returned
+O001933,0,,,Not Returned
+O001934,0,,,Not Returned
+O001935,1,Damaged Product,2026-08-11,Damaged Product
+O001936,0,,,Not Returned
+O001937,1,Size/Fit Issue,2025-12-25,Size/Fit Issue
+O001938,0,,,Not Returned
+O001939,0,,,Not Returned
+O001940,0,,,Not Returned
+O001941,0,,,Not Returned
+O001942,1,Late Delivery,2025-02-14,Late Delivery
+O001943,0,,,Not Returned
+O001944,0,,,Not Returned
+O001945,0,,,Not Returned
+O001946,1,Quality Issue,2025-11-03,Quality Issue
+O001947,0,,,Not Returned
+O001948,1,Size/Fit Issue,2026-06-25,Size/Fit Issue
+O001949,0,,,Not Returned
+O001950,0,,,Not Returned
+O001951,0,,,Not Returned
+O001952,0,,,Not Returned
+O001953,1,Not as Described,2026-05-09,Not as Described
+O001954,0,,,Not Returned
+O001955,0,,,Not Returned
+O001956,0,,,Not Returned
+O001957,0,,,Not Returned
+O001958,0,,,Not Returned
+O001959,0,,,Not Returned
+O001960,1,Quality Issue,2025-07-21,Quality Issue
+O001961,0,,,Not Returned
+O001962,0,,,Not Returned
+O001963,0,,,Not Returned
+O001964,1,Size/Fit Issue,2026-04-26,Size/Fit Issue
+O001965,0,,,Not Returned
+O001966,0,,,Not Returned
+O001967,0,,,Not Returned
+O001968,0,,,Not Returned
+O001969,1,Size/Fit Issue,2025-09-25,Size/Fit Issue
+O001970,0,,,Not Returned
+O001971,0,,,Not Returned
+O001972,0,,,Not Returned
+O001973,0,,,Not Returned
+O001974,0,,,Not Returned
+O001975,0,,,Not Returned
+O001976,0,,,Not Returned
+O001977,0,,,Not Returned
+O001978,0,,,Not Returned
+O001979,1,Size/Fit Issue,2025-07-02,Size/Fit Issue
+O001980,0,,,Not Returned
+O001981,0,,,Not Returned
+O001982,0,,,Not Returned
+O001983,0,,,Not Returned
+O001984,0,,,Not Returned
+O001985,0,,,Not Returned
+O001986,0,,,Not Returned
+O001987,0,,,Not Returned
+O001988,0,,,Not Returned
+O001989,0,,,Not Returned
+O001990,1,Late Delivery,2025-09-18,Late Delivery
+O001991,0,,,Not Returned
+O001992,0,,,Not Returned
+O001993,0,,,Not Returned
+O001994,1,Not as Described,2026-06-19,Not as Described
+O001995,0,,,Not Returned
+O001996,0,,,Not Returned
+O001997,0,,,Not Returned
+O001998,0,,,Not Returned
+O001999,0,,,Not Returned
+O002000,0,,,Not Returned
+O002001,0,,,Not Returned
+O002002,0,,,Not Returned
+O002003,0,,,Not Returned
+O002004,0,,,Not Returned
+O002005,0,,,Not Returned
+O002006,1,Wrong Item Delivered,2025-11-07,Wrong Item Delivered
+O002007,0,,,Not Returned
+O002008,1,Quality Issue,2025-11-20,Quality Issue
+O002009,1,Size/Fit Issue,2025-07-30,Size/Fit Issue
+O002010,0,,,Not Returned
+O002011,0,,,Not Returned
+O002012,0,,,Not Returned
+O002013,0,,,Not Returned
+O002014,0,,,Not Returned
+O002015,0,,,Not Returned
+O002016,0,,,Not Returned
+O002017,0,,,Not Returned
+O002018,0,,,Not Returned
+O002019,0,,,Not Returned
+O002020,1,Quality Issue,2025-02-16,Quality Issue
+O002021,0,,,Not Returned
+O002022,1,Late Delivery,2025-11-14,Late Delivery
+O002023,0,,,Not Returned
+O002024,0,,,Not Returned
+O002025,0,,,Not Returned
+O002026,0,,,Not Returned
+O002027,0,,,Not Returned
+O002028,0,,,Not Returned
+O002029,0,,,Not Returned
+O002030,1,Late Delivery,2026-02-17,Late Delivery
+O002031,1,Late Delivery,2026-05-30,Late Delivery
+O002032,0,,,Not Returned
+O002033,0,,,Not Returned
+O002034,0,,,Not Returned
+O002035,0,,,Not Returned
+O002036,0,,,Not Returned
+O002037,0,,,Not Returned
+O002038,0,,,Not Returned
+O002039,0,,,Not Returned
+O002040,0,,,Not Returned
+O002041,0,,,Not Returned
+O002042,0,,,Not Returned
+O002043,0,,,Not Returned
+O002044,0,,,Not Returned
+O002045,0,,,Not Returned
+O002046,0,,,Not Returned
+O002047,0,,,Not Returned
+O002048,1,Size/Fit Issue,2026-03-07,Size/Fit Issue
+O002049,0,,,Not Returned
+O002050,0,,,Not Returned
+O002051,0,,,Not Returned
+O002052,0,,,Not Returned
+O002053,0,,,Not Returned
+O002054,0,,,Not Returned
+O002055,0,,,Not Returned
+O002056,0,,,Not Returned
+O002057,0,,,Not Returned
+O002058,0,,,Not Returned
+O002059,0,,,Not Returned
+O002060,0,,,Not Returned
+O002061,0,,,Not Returned
+O002062,0,,,Not Returned
+O002063,0,,,Not Returned
+O002064,0,,,Not Returned
+O002065,0,,,Not Returned
+O002066,0,,,Not Returned
+O002067,0,,,Not Returned
+O002068,0,,,Not Returned
+O002069,0,,,Not Returned
+O002070,0,,,Not Returned
+O002071,0,,,Not Returned
+O002072,0,,,Not Returned
+O002073,0,,,Not Returned
+O002074,0,,,Not Returned
+O002075,0,,,Not Returned
+O002076,0,,,Not Returned
+O002077,0,,,Not Returned
+O002078,1,Late Delivery,2025-11-04,Late Delivery
+O002079,0,,,Not Returned
+O002080,0,,,Not Returned
+O002081,0,,,Not Returned
+O002082,0,,,Not Returned
+O002083,0,,,Not Returned
+O002084,1,Size/Fit Issue,2026-04-21,Size/Fit Issue
+O002085,0,,,Not Returned
+O002086,0,,,Not Returned
+O002087,0,,,Not Returned
+O002088,0,,,Not Returned
+O002089,0,,,Not Returned
+O002090,0,,,Not Returned
+O002091,0,,,Not Returned
+O002092,0,,,Not Returned
+O002093,0,,,Not Returned
+O002094,0,,,Not Returned
+O002095,0,,,Not Returned
+O002096,0,,,Not Returned
+O002097,0,,,Not Returned
+O002098,0,,,Not Returned
+O002099,0,,,Not Returned
+O002100,0,,,Not Returned
+O002101,0,,,Not Returned
+O002102,1,Size/Fit Issue,2025-11-20,Size/Fit Issue
+O002103,0,,,Not Returned
+O002104,1,,2026-01-22,Unknown
+O002105,0,,,Not Returned
+O002106,0,,,Not Returned
+O002107,0,,,Not Returned
+O002108,0,,,Not Returned
+O002109,0,,,Not Returned
+O002110,0,,,Not Returned
+O002111,0,,,Not Returned
+O002112,0,,,Not Returned
+O002113,0,,,Not Returned
+O002114,0,,,Not Returned
+O002115,0,,,Not Returned
+O002116,0,,,Not Returned
+O002117,0,,,Not Returned
+O002118,0,,,Not Returned
+O002119,1,Size/Fit Issue,2025-06-15,Size/Fit Issue
+O002120,0,,,Not Returned
+O002121,0,,,Not Returned
+O002122,0,,,Not Returned
+O002123,0,,,Not Returned
+O002124,0,,,Not Returned
+O002125,0,,,Not Returned
+O002126,0,,,Not Returned
+O002127,0,,,Not Returned
+O002128,0,,,Not Returned
+O002129,0,,,Not Returned
+O002130,1,Size/Fit Issue,2026-07-12,Size/Fit Issue
+O002131,0,,,Not Returned
+O002132,0,,,Not Returned
+O002133,0,,,Not Returned
+O002134,0,,,Not Returned
+O002135,0,,,Not Returned
+O002136,0,,,Not Returned
+O002137,0,,,Not Returned
+O002138,0,,,Not Returned
+O002139,0,,,Not Returned
+O002140,0,,,Not Returned
+O002141,0,,,Not Returned
+O002142,0,,,Not Returned
+O002143,0,,,Not Returned
+O002144,0,,,Not Returned
+O002145,1,,2026-02-03,Unknown
+O002146,1,Size/Fit Issue,2026-05-13,Size/Fit Issue
+O002147,0,,,Not Returned
+O002148,0,,,Not Returned
+O002149,0,,,Not Returned
+O002150,0,,,Not Returned
+O002151,0,,,Not Returned
+O002152,0,,,Not Returned
+O002153,0,,,Not Returned
+O002154,0,,,Not Returned
+O002155,0,,,Not Returned
+O002156,0,,,Not Returned
+O002157,0,,,Not Returned
+O002158,0,,,Not Returned
+O002159,0,,,Not Returned
+O002160,0,,,Not Returned
+O002161,0,,,Not Returned
+O002162,0,,,Not Returned
+O002163,0,,,Not Returned
+O002164,0,,,Not Returned
+O002165,1,Size/Fit Issue,2026-02-08,Size/Fit Issue
+O002166,0,,,Not Returned
+O002167,0,,,Not Returned
+O002168,0,,,Not Returned
+O002169,0,,,Not Returned
+O002170,0,,,Not Returned
+O002171,0,,,Not Returned
+O002172,0,,,Not Returned
+O002173,0,,,Not Returned
+O002174,0,,,Not Returned
+O002175,1,Late Delivery,2026-03-14,Late Delivery
+O002176,0,,,Not Returned
+O002177,0,,,Not Returned
+O002178,0,,,Not Returned
+O002179,1,Size/Fit Issue,2026-08-23,Size/Fit Issue
+O002180,0,,,Not Returned
+O002181,0,,,Not Returned
+O002182,0,,,Not Returned
+O002183,0,,,Not Returned
+O002184,0,,,Not Returned
+O002185,0,,,Not Returned
+O002186,0,,,Not Returned
+O002187,0,,,Not Returned
+O002188,0,,,Not Returned
+O002189,0,,,Not Returned
+O002190,0,,,Not Returned
+O002191,0,,,Not Returned
+O002192,1,Not as Described,2025-02-18,Not as Described
+O002193,0,,,Not Returned
+O002194,1,Size/Fit Issue,2025-06-20,Size/Fit Issue
+O002195,0,,,Not Returned
+O002196,0,,,Not Returned
+O002197,0,,,Not Returned
+O002198,0,,,Not Returned
+O002199,0,,,Not Returned
+O002200,0,,,Not Returned
+O002201,0,,,Not Returned
+O002202,0,,,Not Returned
+O002203,0,,,Not Returned
+O002204,0,,,Not Returned
+O002205,0,,,Not Returned
+O002206,0,,,Not Returned
+O002207,0,,,Not Returned
+O002208,0,,,Not Returned
+O002209,0,,,Not Returned
+O002210,0,,,Not Returned
+O002211,0,,,Not Returned
+O002212,0,,,Not Returned
+O002213,0,,,Not Returned
+O002214,0,,,Not Returned
+O002215,0,,,Not Returned
+O002216,0,,,Not Returned
+O002217,0,,,Not Returned
+O002218,0,,,Not Returned
+O002219,0,,,Not Returned
+O002220,0,,,Not Returned
+O002221,0,,,Not Returned
+O002222,0,,,Not Returned
+O002223,0,,,Not Returned
+O002224,0,,,Not Returned
+O002225,0,,,Not Returned
+O002226,0,,,Not Returned
+O002227,0,,,Not Returned
+O002228,1,Size/Fit Issue,2026-07-24,Size/Fit Issue
+O002229,0,,,Not Returned
+O002230,0,,,Not Returned
+O002231,1,Size/Fit Issue,2026-06-19,Size/Fit Issue
+O002232,0,,,Not Returned
+O002233,0,,,Not Returned
+O002234,0,,,Not Returned
+O002235,0,,,Not Returned
+O002236,0,,,Not Returned
+O002237,0,,,Not Returned
+O002238,0,,,Not Returned
+O002239,0,,,Not Returned
+O002240,0,,,Not Returned
+O002241,0,,,Not Returned
+O002242,0,,,Not Returned
+O002243,0,,,Not Returned
+O002244,0,,,Not Returned
+O002245,0,,,Not Returned
+O002246,0,,,Not Returned
+O002247,0,,,Not Returned
+O002248,0,,,Not Returned
+O002249,0,,,Not Returned
+O002250,0,,,Not Returned
+O002251,0,,,Not Returned
+O002252,1,Late Delivery,2026-01-25,Late Delivery
+O002253,0,,,Not Returned
+O002254,0,,,Not Returned
+O002255,0,,,Not Returned
+O002256,0,,,Not Returned
+O002257,0,,,Not Returned
+O002258,0,,,Not Returned
+O002259,0,,,Not Returned
+O002260,0,,,Not Returned
+O002261,0,,,Not Returned
+O002262,0,,,Not Returned
+O002263,0,,,Not Returned
+O002264,0,,,Not Returned
+O002265,0,,,Not Returned
+O002266,0,,,Not Returned
+O002267,0,,,Not Returned
+O002268,0,,,Not Returned
+O002269,0,,,Not Returned
+O002270,0,,,Not Returned
+O002271,0,,,Not Returned
+O002272,0,,,Not Returned
+O002273,0,,,Not Returned
+O002274,0,,,Not Returned
+O002275,1,Late Delivery,2025-05-07,Late Delivery
+O002276,0,,,Not Returned
+O002277,0,,,Not Returned
+O002278,0,,,Not Returned
+O002279,0,,,Not Returned
+O002280,0,,,Not Returned
+O002281,0,,,Not Returned
+O002282,0,,,Not Returned
+O002283,0,,,Not Returned
+O002284,0,,,Not Returned
+O002285,0,,,Not Returned
+O002286,0,,,Not Returned
+O002287,0,,,Not Returned
+O002288,0,,,Not Returned
+O002289,0,,,Not Returned
+O002290,0,,,Not Returned
+O002291,0,,,Not Returned
+O002292,0,,,Not Returned
+O002293,1,Size/Fit Issue,2025-10-03,Size/Fit Issue
+O002294,0,,,Not Returned
+O002295,0,,,Not Returned
+O002296,0,,,Not Returned
+O002297,0,,,Not Returned
+O002298,0,,,Not Returned
+O002299,1,,2026-06-17,Unknown
+O002300,0,,,Not Returned
+O002301,0,,,Not Returned
+O002302,0,,,Not Returned
+O002303,0,,,Not Returned
+O002304,0,,,Not Returned
+O002305,0,,,Not Returned
+O002306,0,,,Not Returned
+O002307,0,,,Not Returned
+O002308,0,,,Not Returned
+O002309,0,,,Not Returned
+O002310,1,Changed Mind,2025-08-27,Changed Mind
+O002311,0,,,Not Returned
+O002312,1,Late Delivery,2025-08-11,Late Delivery
+O002313,0,,,Not Returned
+O002314,0,,,Not Returned
+O002315,0,,,Not Returned
+O002316,0,,,Not Returned
+O002317,0,,,Not Returned
+O002318,0,,,Not Returned
+O002319,0,,,Not Returned
+O002320,1,,2025-02-25,Unknown
+O002321,0,,,Not Returned
+O002322,0,,,Not Returned
+O002323,0,,,Not Returned
+O002324,0,,,Not Returned
+O002325,0,,,Not Returned
+O002326,0,,,Not Returned
+O002327,0,,,Not Returned
+O002328,0,,,Not Returned
+O002329,0,,,Not Returned
+O002330,1,Wrong Item Delivered,2025-06-05,Wrong Item Delivered
+O002331,0,,,Not Returned
+O002332,0,,,Not Returned
+O002333,0,,,Not Returned
+O002334,0,,,Not Returned
+O002335,0,,,Not Returned
+O002336,1,Late Delivery,2025-09-01,Late Delivery
+O002337,0,,,Not Returned
+O002338,0,,,Not Returned
+O002339,0,,,Not Returned
+O002340,0,,,Not Returned
+O002341,0,,,Not Returned
+O002342,0,,,Not Returned
+O002343,0,,,Not Returned
+O002344,0,,,Not Returned
+O002345,0,,,Not Returned
+O002346,0,,,Not Returned
+O002347,0,,,Not Returned
+O002348,0,,,Not Returned
+O002349,0,,,Not Returned
+O002350,0,,,Not Returned
+O002351,0,,,Not Returned
+O002352,0,,,Not Returned
+O002353,0,,,Not Returned
+O002354,1,Late Delivery,2026-08-03,Late Delivery
+O002355,0,,,Not Returned
+O002356,0,,,Not Returned
+O002357,0,,,Not Returned
+O002358,0,,,Not Returned
+O002359,0,,,Not Returned
+O002360,0,,,Not Returned
+O002361,0,,,Not Returned
+O002362,0,,,Not Returned
+O002363,1,,2026-06-26,Unknown
+O002364,0,,,Not Returned
+O002365,0,,,Not Returned
+O002366,0,,,Not Returned
+O002367,0,,,Not Returned
+O002368,0,,,Not Returned
+O002369,0,,,Not Returned
+O002370,0,,,Not Returned
+O002371,0,,,Not Returned
+O002372,0,,,Not Returned
+O002373,0,,,Not Returned
+O002374,0,,,Not Returned
+O002375,0,,,Not Returned
+O002376,1,Size/Fit Issue,2025-05-01,Size/Fit Issue
+O002377,0,,,Not Returned
+O002378,0,,,Not Returned
+O002379,0,,,Not Returned
+O002380,0,,,Not Returned
+O002381,0,,,Not Returned
+O002382,0,,,Not Returned
+O002383,0,,,Not Returned
+O002384,0,,,Not Returned
+O002385,0,,,Not Returned
+O002386,0,,,Not Returned
+O002387,0,,,Not Returned
+O002388,0,,,Not Returned
+O002389,0,,,Not Returned
+O002390,0,,,Not Returned
+O002391,0,,,Not Returned
+O002392,0,,,Not Returned
+O002393,0,,,Not Returned
+O002394,1,Late Delivery,2025-03-25,Late Delivery
+O002395,0,,,Not Returned
+O002396,0,,,Not Returned
+O002397,1,,2026-05-09,Unknown
+O002398,0,,,Not Returned
+O002399,0,,,Not Returned
+O002400,0,,,Not Returned
+O002401,0,,,Not Returned
+O002402,0,,,Not Returned
+O002403,0,,,Not Returned
+O002404,0,,,Not Returned
+O002405,0,,,Not Returned
+O002406,0,,,Not Returned
+O002407,0,,,Not Returned
+O002408,0,,,Not Returned
+O002409,0,,,Not Returned
+O002410,0,,,Not Returned
+O002411,0,,,Not Returned
+O002412,0,,,Not Returned
+O002413,0,,,Not Returned
+O002414,0,,,Not Returned
+O002415,0,,,Not Returned
+O002416,1,Wrong Item Delivered,2025-04-15,Wrong Item Delivered
+O002417,0,,,Not Returned
+O002418,0,,,Not Returned
+O002419,0,,,Not Returned
+O002420,0,,,Not Returned
+O002421,0,,,Not Returned
+O002422,0,,,Not Returned
+O002423,0,,,Not Returned
+O002424,0,,,Not Returned
+O002425,0,,,Not Returned
+O002426,1,Size/Fit Issue,2026-08-17,Size/Fit Issue
+O002427,0,,,Not Returned
+O002428,1,Not as Described,2026-09-07,Not as Described
+O002429,0,,,Not Returned
+O002430,0,,,Not Returned
+O002431,0,,,Not Returned
+O002432,0,,,Not Returned
+O002433,0,,,Not Returned
+O002434,0,,,Not Returned
+O002435,0,,,Not Returned
+O002436,0,,,Not Returned
+O002437,0,,,Not Returned
+O002438,1,Late Delivery,2025-05-07,Late Delivery
+O002439,0,,,Not Returned
+O002440,1,Damaged Product,2026-08-15,Damaged Product
+O002441,0,,,Not Returned
+O002442,0,,,Not Returned
+O002443,0,,,Not Returned
+O002444,1,Size/Fit Issue,2026-07-14,Size/Fit Issue
+O002445,0,,,Not Returned
+O002446,0,,,Not Returned
+O002447,0,,,Not Returned
+O002448,0,,,Not Returned
+O002449,0,,,Not Returned
+O002450,1,Damaged Product,2026-09-09,Damaged Product
+O002451,0,,,Not Returned
+O002452,1,Late Delivery,2026-01-20,Late Delivery
+O002453,0,,,Not Returned
+O002454,0,,,Not Returned
+O002455,0,,,Not Returned
+O002456,0,,,Not Returned
+O002457,0,,,Not Returned
+O002458,1,Size/Fit Issue,2026-08-03,Size/Fit Issue
+O002459,0,,,Not Returned
+O002460,0,,,Not Returned
+O002461,0,,,Not Returned
+O002462,1,Size/Fit Issue,2025-01-26,Size/Fit Issue
+O002463,0,,,Not Returned
+O002464,0,,,Not Returned
+O002465,0,,,Not Returned
+O002466,0,,,Not Returned
+O002467,0,,,Not Returned
+O002468,0,,,Not Returned
+O002469,0,,,Not Returned
+O002470,0,,,Not Returned
+O002471,0,,,Not Returned
+O002472,0,,,Not Returned
+O002473,0,,,Not Returned
+O002474,0,,,Not Returned
+O002475,1,Size/Fit Issue,2026-03-21,Size/Fit Issue
+O002476,1,Not as Described,2026-08-04,Not as Described
+O002477,0,,,Not Returned
+O002478,0,,,Not Returned
+O002479,1,,2025-05-29,Unknown
+O002480,0,,,Not Returned
+O002481,0,,,Not Returned
+O002482,0,,,Not Returned
+O002483,0,,,Not Returned
+O002484,0,,,Not Returned
+O002485,0,,,Not Returned
+O002486,0,,,Not Returned
+O002487,0,,,Not Returned
+O002488,0,,,Not Returned
+O002489,0,,,Not Returned
+O002490,0,,,Not Returned
+O002491,0,,,Not Returned
+O002492,0,,,Not Returned
+O002493,1,Damaged Product,2026-01-12,Damaged Product
+O002494,0,,,Not Returned
+O002495,0,,,Not Returned
+O002496,0,,,Not Returned
+O002497,0,,,Not Returned
+O002498,1,Damaged Product,2026-01-11,Damaged Product
+O002499,0,,,Not Returned
+O002500,1,Not as Described,2025-06-17,Not as Described
+O002501,0,,,Not Returned
+O002502,0,,,Not Returned
+O002503,0,,,Not Returned
+O002504,0,,,Not Returned
+O002505,0,,,Not Returned
+O002506,0,,,Not Returned
+O002507,0,,,Not Returned
+O002508,0,,,Not Returned
+O002509,0,,,Not Returned
+O002510,1,Not as Described,2026-01-25,Not as Described
+O002511,0,,,Not Returned
+O002512,0,,,Not Returned
+O002513,1,Size/Fit Issue,2026-03-15,Size/Fit Issue
+O002514,1,Late Delivery,2025-12-21,Late Delivery
+O002515,0,,,Not Returned
+O002516,0,,,Not Returned
+O002517,0,,,Not Returned
+O002518,1,Wrong Item Delivered,2025-10-03,Wrong Item Delivered
+O002519,0,,,Not Returned
+O002520,0,,,Not Returned
+O002521,0,,,Not Returned
+O002522,0,,,Not Returned
+O002523,0,,,Not Returned
+O002524,0,,,Not Returned
+O002525,0,,,Not Returned
+O002526,1,Size/Fit Issue,2026-04-06,Size/Fit Issue
+O002527,0,,,Not Returned
+O002528,0,,,Not Returned
+O002529,0,,,Not Returned
+O002530,0,,,Not Returned
+O002531,0,,,Not Returned
+O002532,0,,,Not Returned
+O002533,0,,,Not Returned
+O002534,0,,,Not Returned
+O002535,0,,,Not Returned
+O002536,0,,,Not Returned
+O002537,0,,,Not Returned
+O002538,0,,,Not Returned
+O002539,0,,,Not Returned
+O002540,0,,,Not Returned
+O002541,0,,,Not Returned
+O002542,1,Quality Issue,2026-07-24,Quality Issue
+O002543,0,,,Not Returned
+O002544,0,,,Not Returned
+O002545,0,,,Not Returned
+O002546,0,,,Not Returned
+O002547,0,,,Not Returned
+O002548,1,Size/Fit Issue,2026-06-11,Size/Fit Issue
+O002549,0,,,Not Returned
+O002550,0,,,Not Returned
+O002551,0,,,Not Returned
+O002552,0,,,Not Returned
+O002553,0,,,Not Returned
+O002554,1,Quality Issue,2025-04-24,Quality Issue
+O002555,0,,,Not Returned
+O002556,0,,,Not Returned
+O002557,0,,,Not Returned
+O002558,1,Size/Fit Issue,2026-02-25,Size/Fit Issue
+O002559,0,,,Not Returned
+O002560,1,Changed Mind,2026-07-18,Changed Mind
+O002561,1,Not as Described,2026-04-04,Not as Described
+O002562,1,,2026-09-30,Unknown
+O002563,0,,,Not Returned
+O002564,0,,,Not Returned
+O002565,0,,,Not Returned
+O002566,1,Late Delivery,2025-01-14,Late Delivery
+O002567,0,,,Not Returned
+O002568,0,,,Not Returned
+O002569,0,,,Not Returned
+O002570,0,,,Not Returned
+O002571,0,,,Not Returned
+O002572,0,,,Not Returned
+O002573,0,,,Not Returned
+O002574,1,Damaged Product,2026-07-20,Damaged Product
+O002575,0,,,Not Returned
+O002576,0,,,Not Returned
+O002577,0,,,Not Returned
+O002578,1,Late Delivery,2025-11-14,Late Delivery
+O002579,0,,,Not Returned
+O002580,0,,,Not Returned
+O002581,1,Size/Fit Issue,2026-05-11,Size/Fit Issue
+O002582,0,,,Not Returned
+O002583,1,Late Delivery,2025-09-20,Late Delivery
+O002584,0,,,Not Returned
+O002585,0,,,Not Returned
+O002586,0,,,Not Returned
+O002587,0,,,Not Returned
+O002588,0,,,Not Returned
+O002589,1,Wrong Item Delivered,2025-12-16,Wrong Item Delivered
+O002590,1,Size/Fit Issue,2025-08-02,Size/Fit Issue
+O002591,0,,,Not Returned
+O002592,1,Size/Fit Issue,2026-09-21,Size/Fit Issue
+O002593,0,,,Not Returned
+O002594,0,,,Not Returned
+O002595,0,,,Not Returned
+O002596,0,,,Not Returned
+O002597,0,,,Not Returned
+O002598,0,,,Not Returned
+O002599,0,,,Not Returned
+O002600,0,,,Not Returned
+O002601,0,,,Not Returned
+O002602,0,,,Not Returned
+O002603,0,,,Not Returned
+O002604,0,,,Not Returned
+O002605,0,,,Not Returned
+O002606,0,,,Not Returned
+O002607,0,,,Not Returned
+O002608,0,,,Not Returned
+O002609,0,,,Not Returned
+O002610,0,,,Not Returned
+O002611,1,Size/Fit Issue,2025-03-25,Size/Fit Issue
+O002612,1,Size/Fit Issue,2025-11-04,Size/Fit Issue
+O002613,0,,,Not Returned
+O002614,0,,,Not Returned
+O002615,0,,,Not Returned
+O002616,1,Wrong Item Delivered,2025-02-22,Wrong Item Delivered
+O002617,0,,,Not Returned
+O002618,0,,,Not Returned
+O002619,1,Size/Fit Issue,2025-04-15,Size/Fit Issue
+O002620,0,,,Not Returned
+O002621,0,,,Not Returned
+O002622,0,,,Not Returned
+O002623,0,,,Not Returned
+O002624,0,,,Not Returned
+O002625,0,,,Not Returned
+O002626,1,Size/Fit Issue,2026-02-15,Size/Fit Issue
+O002627,0,,,Not Returned
+O002628,0,,,Not Returned
+O002629,0,,,Not Returned
+O002630,0,,,Not Returned
+O002631,0,,,Not Returned
+O002632,0,,,Not Returned
+O002633,0,,,Not Returned
+O002634,0,,,Not Returned
+O002635,0,,,Not Returned
+O002636,0,,,Not Returned
+O002637,0,,,Not Returned
+O002638,0,,,Not Returned
+O002639,0,,,Not Returned
+O002640,1,Size/Fit Issue,2026-06-10,Size/Fit Issue
+O002641,0,,,Not Returned
+O002642,0,,,Not Returned
+O002643,1,Not as Described,2026-06-29,Not as Described
+O002644,0,,,Not Returned
+O002645,0,,,Not Returned
+O002646,0,,,Not Returned
+O002647,0,,,Not Returned
+O002648,0,,,Not Returned
+O002649,0,,,Not Returned
+O002650,1,Size/Fit Issue,2025-03-16,Size/Fit Issue
+O002651,0,,,Not Returned
+O002652,1,Quality Issue,2025-07-12,Quality Issue
+O002653,0,,,Not Returned
+O002654,0,,,Not Returned
+O002655,0,,,Not Returned
+O002656,1,Damaged Product,2026-01-28,Damaged Product
+O002657,0,,,Not Returned
+O002658,0,,,Not Returned
+O002659,0,,,Not Returned
+O002660,1,Changed Mind,2025-02-15,Changed Mind
+O002661,0,,,Not Returned
+O002662,0,,,Not Returned
+O002663,0,,,Not Returned
+O002664,0,,,Not Returned
+O002665,1,Size/Fit Issue,2025-11-29,Size/Fit Issue
+O002666,0,,,Not Returned
+O002667,0,,,Not Returned
+O002668,0,,,Not Returned
+O002669,1,,2025-08-07,Unknown
+O002670,0,,,Not Returned
+O002671,0,,,Not Returned
+O002672,0,,,Not Returned
+O002673,0,,,Not Returned
+O002674,0,,,Not Returned
+O002675,0,,,Not Returned
+O002676,0,,,Not Returned
+O002677,0,,,Not Returned
+O002678,1,Size/Fit Issue,2025-01-18,Size/Fit Issue
+O002679,0,,,Not Returned
+O002680,0,,,Not Returned
+O002681,0,,,Not Returned
+O002682,0,,,Not Returned
+O002683,0,,,Not Returned
+O002684,0,,,Not Returned
+O002685,1,Wrong Item Delivered,2025-06-28,Wrong Item Delivered
+O002686,0,,,Not Returned
+O002687,0,,,Not Returned
+O002688,0,,,Not Returned
+O002689,1,Changed Mind,2025-06-06,Changed Mind
+O002690,0,,,Not Returned
+O002691,0,,,Not Returned
+O002692,0,,,Not Returned
+O002693,0,,,Not Returned
+O002694,0,,,Not Returned
+O002695,0,,,Not Returned
+O002696,0,,,Not Returned
+O002697,0,,,Not Returned
+O002698,0,,,Not Returned
+O002699,0,,,Not Returned
+O002700,1,,2025-08-28,Unknown
+O002701,1,,2026-08-16,Unknown
+O002702,0,,,Not Returned
+O002703,0,,,Not Returned
+O002704,0,,,Not Returned
+O002705,0,,,Not Returned
+O002706,0,,,Not Returned
+O002707,0,,,Not Returned
+O002708,0,,,Not Returned
+O002709,0,,,Not Returned
+O002710,1,,2026-03-11,Unknown
+O002711,1,Damaged Product,2026-07-07,Damaged Product
+O002712,0,,,Not Returned
+O002713,0,,,Not Returned
+O002714,0,,,Not Returned
+O002715,0,,,Not Returned
+O002716,0,,,Not Returned
+O002717,0,,,Not Returned
+O002718,0,,,Not Returned
+O002719,0,,,Not Returned
+O002720,1,Damaged Product,2025-04-25,Damaged Product
+O002721,0,,,Not Returned
+O002722,0,,,Not Returned
+O002723,0,,,Not Returned
+O002724,0,,,Not Returned
+O002725,0,,,Not Returned
+O002726,0,,,Not Returned
+O002727,0,,,Not Returned
+O002728,0,,,Not Returned
+O002729,0,,,Not Returned
+O002730,0,,,Not Returned
+O002731,0,,,Not Returned
+O002732,0,,,Not Returned
+O002733,0,,,Not Returned
+O002734,0,,,Not Returned
+O002735,0,,,Not Returned
+O002736,0,,,Not Returned
+O002737,1,Late Delivery,2026-03-11,Late Delivery
+O002738,0,,,Not Returned
+O002739,0,,,Not Returned
+O002740,0,,,Not Returned
+O002741,0,,,Not Returned
+O002742,0,,,Not Returned
+O002743,0,,,Not Returned
+O002744,1,Quality Issue,2026-04-13,Quality Issue
+O002745,0,,,Not Returned
+O002746,0,,,Not Returned
+O002747,0,,,Not Returned
+O002748,0,,,Not Returned
+O002749,0,,,Not Returned
+O002750,1,Quality Issue,2025-02-12,Quality Issue
+O002751,0,,,Not Returned
+O002752,0,,,Not Returned
+O002753,0,,,Not Returned
+O002754,0,,,Not Returned
+O002755,0,,,Not Returned
+O002756,0,,,Not Returned
+O002757,0,,,Not Returned
+O002758,0,,,Not Returned
+O002759,0,,,Not Returned
+O002760,0,,,Not Returned
+O002761,0,,,Not Returned
+O002762,1,Damaged Product,2026-02-26,Damaged Product
+O002763,0,,,Not Returned
+O002764,0,,,Not Returned
+O002765,0,,,Not Returned
+O002766,0,,,Not Returned
+O002767,0,,,Not Returned
+O002768,0,,,Not Returned
+O002769,0,,,Not Returned
+O002770,1,Late Delivery,2026-09-14,Late Delivery
+O002771,1,Late Delivery,2026-08-20,Late Delivery
+O002772,0,,,Not Returned
+O002773,0,,,Not Returned
+O002774,0,,,Not Returned
+O002775,0,,,Not Returned
+O002776,1,,2026-07-09,Unknown
+O002777,0,,,Not Returned
+O002778,0,,,Not Returned
+O002779,0,,,Not Returned
+O002780,0,,,Not Returned
+O002781,0,,,Not Returned
+O002782,0,,,Not Returned
+O002783,0,,,Not Returned
+O002784,0,,,Not Returned
+O002785,0,,,Not Returned
+O002786,0,,,Not Returned
+O002787,0,,,Not Returned
+O002788,0,,,Not Returned
+O002789,0,,,Not Returned
+O002790,0,,,Not Returned
+O002791,0,,,Not Returned
+O002792,0,,,Not Returned
+O002793,0,,,Not Returned
+O002794,1,Late Delivery,2026-01-04,Late Delivery
+O002795,0,,,Not Returned
+O002796,0,,,Not Returned
+O002797,0,,,Not Returned
+O002798,0,,,Not Returned
+O002799,0,,,Not Returned
+O002800,0,,,Not Returned
+O002801,0,,,Not Returned
+O002802,1,Not as Described,2025-09-04,Not as Described
+O002803,0,,,Not Returned
+O002804,0,,,Not Returned
+O002805,0,,,Not Returned
+O002806,0,,,Not Returned
+O002807,0,,,Not Returned
+O002808,0,,,Not Returned
+O002809,0,,,Not Returned
+O002810,0,,,Not Returned
+O002811,0,,,Not Returned
+O002812,0,,,Not Returned
+O002813,0,,,Not Returned
+O002814,1,Size/Fit Issue,2026-03-31,Size/Fit Issue
+O002815,0,,,Not Returned
+O002816,0,,,Not Returned
+O002817,1,Changed Mind,2025-08-19,Changed Mind
+O002818,0,,,Not Returned
+O002819,0,,,Not Returned
+O002820,0,,,Not Returned
+O002821,1,Late Delivery,2025-10-19,Late Delivery
+O002822,0,,,Not Returned
+O002823,0,,,Not Returned
+O002824,0,,,Not Returned
+O002825,0,,,Not Returned
+O002826,0,,,Not Returned
+O002827,0,,,Not Returned
+O002828,0,,,Not Returned
+O002829,0,,,Not Returned
+O002830,1,Size/Fit Issue,2025-07-15,Size/Fit Issue
+O002831,0,,,Not Returned
+O002832,0,,,Not Returned
+O002833,0,,,Not Returned
+O002834,0,,,Not Returned
+O002835,0,,,Not Returned
+O002836,0,,,Not Returned
+O002837,0,,,Not Returned
+O002838,0,,,Not Returned
+O002839,0,,,Not Returned
+O002840,0,,,Not Returned
+O002841,0,,,Not Returned
+O002842,0,,,Not Returned
+O002843,0,,,Not Returned
+O002844,1,Late Delivery,2025-03-20,Late Delivery
+O002845,0,,,Not Returned
+O002846,0,,,Not Returned
+O002847,0,,,Not Returned
+O002848,0,,,Not Returned
+O002849,0,,,Not Returned
+O002850,1,Size/Fit Issue,2025-12-07,Size/Fit Issue
+O002851,0,,,Not Returned
+O002852,0,,,Not Returned
+O002853,0,,,Not Returned
+O002854,0,,,Not Returned
+O002855,0,,,Not Returned
+O002856,0,,,Not Returned
+O002857,0,,,Not Returned
+O002858,1,Not as Described,2026-07-10,Not as Described
+O002859,0,,,Not Returned
+O002860,0,,,Not Returned
+O002861,0,,,Not Returned
+O002862,0,,,Not Returned
+O002863,0,,,Not Returned
+O002864,1,Damaged Product,2025-03-08,Damaged Product
+O002865,0,,,Not Returned
+O002866,0,,,Not Returned
+O002867,0,,,Not Returned
+O002868,0,,,Not Returned
+O002869,0,,,Not Returned
+O002870,1,Damaged Product,2025-03-08,Damaged Product
+O002871,0,,,Not Returned
+O002872,0,,,Not Returned
+O002873,0,,,Not Returned
+O002874,1,Changed Mind,2026-02-15,Changed Mind
+O002875,0,,,Not Returned
+O002876,0,,,Not Returned
+O002877,0,,,Not Returned
+O002878,0,,,Not Returned
+O002879,0,,,Not Returned
+O002880,0,,,Not Returned
+O002881,0,,,Not Returned
+O002882,0,,,Not Returned
+O002883,0,,,Not Returned
+O002884,0,,,Not Returned
+O002885,0,,,Not Returned
+O002886,0,,,Not Returned
+O002887,0,,,Not Returned
+O002888,0,,,Not Returned
+O002889,1,Damaged Product,2026-09-24,Damaged Product
+O002890,0,,,Not Returned
+O002891,0,,,Not Returned
+O002892,0,,,Not Returned
+O002893,0,,,Not Returned
+O002894,0,,,Not Returned
+O002895,0,,,Not Returned
+O002896,0,,,Not Returned
+O002897,0,,,Not Returned
+O002898,0,,,Not Returned
+O002899,1,Not as Described,2026-04-03,Not as Described
+O002900,0,,,Not Returned
+O002901,1,Size/Fit Issue,2026-07-20,Size/Fit Issue
+O002902,0,,,Not Returned
+O002903,0,,,Not Returned
+O002904,0,,,Not Returned
+O002905,0,,,Not Returned
+O002906,0,,,Not Returned
+O002907,0,,,Not Returned
+O002908,0,,,Not Returned
+O002909,1,,2026-01-18,Unknown
+O002910,0,,,Not Returned
+O002911,0,,,Not Returned
+O002912,0,,,Not Returned
+O002913,0,,,Not Returned
+O002914,0,,,Not Returned
+O002915,0,,,Not Returned
+O002916,1,Late Delivery,2025-09-28,Late Delivery
+O002917,0,,,Not Returned
+O002918,0,,,Not Returned
+O002919,0,,,Not Returned
+O002920,0,,,Not Returned
+O002921,0,,,Not Returned
+O002922,0,,,Not Returned
+O002923,0,,,Not Returned
+O002924,1,Late Delivery,2026-04-18,Late Delivery
+O002925,0,,,Not Returned
+O002926,0,,,Not Returned
+O002927,0,,,Not Returned
+O002928,0,,,Not Returned
+O002929,0,,,Not Returned
+O002930,0,,,Not Returned
+O002931,0,,,Not Returned
+O002932,1,Not as Described,2025-07-12,Not as Described
+O002933,0,,,Not Returned
+O002934,0,,,Not Returned
+O002935,0,,,Not Returned
+O002936,0,,,Not Returned
+O002937,0,,,Not Returned
+O002938,0,,,Not Returned
+O002939,0,,,Not Returned
+O002940,0,,,Not Returned
+O002941,0,,,Not Returned
+O002942,0,,,Not Returned
+O002943,0,,,Not Returned
+O002944,0,,,Not Returned
+O002945,0,,,Not Returned
+O002946,0,,,Not Returned
+O002947,0,,,Not Returned
+O002948,0,,,Not Returned
+O002949,0,,,Not Returned
+O002950,0,,,Not Returned
+O002951,0,,,Not Returned
+O002952,0,,,Not Returned
+O002953,0,,,Not Returned
+O002954,0,,,Not Returned
+O002955,1,Late Delivery,2025-04-17,Late Delivery
+O002956,0,,,Not Returned
+O002957,0,,,Not Returned
+O002958,0,,,Not Returned
+O002959,0,,,Not Returned
+O002960,0,,,Not Returned
+O002961,1,Not as Described,2026-01-21,Not as Described
+O002962,0,,,Not Returned
+O002963,0,,,Not Returned
+O002964,0,,,Not Returned
+O002965,1,Quality Issue,2026-01-15,Quality Issue
+O002966,0,,,Not Returned
+O002967,0,,,Not Returned
+O002968,0,,,Not Returned
+O002969,1,Late Delivery,2025-08-07,Late Delivery
+O002970,0,,,Not Returned
+O002971,0,,,Not Returned
+O002972,0,,,Not Returned
+O002973,0,,,Not Returned
+O002974,0,,,Not Returned
+O002975,0,,,Not Returned
+O002976,0,,,Not Returned
+O002977,0,,,Not Returned
+O002978,0,,,Not Returned
+O002979,0,,,Not Returned
+O002980,0,,,Not Returned
+O002981,0,,,Not Returned
+O002982,0,,,Not Returned
+O002983,1,Not as Described,2025-09-09,Not as Described
+O002984,0,,,Not Returned
+O002985,0,,,Not Returned
+O002986,0,,,Not Returned
+O002987,0,,,Not Returned
+O002988,0,,,Not Returned
+O002989,0,,,Not Returned
+O002990,0,,,Not Returned
+O002991,0,,,Not Returned
+O002992,0,,,Not Returned
+O002993,1,Late Delivery,2026-06-06,Late Delivery
+O002994,0,,,Not Returned
+O002995,0,,,Not Returned
+O002996,0,,,Not Returned
+O002997,0,,,Not Returned
+O002998,0,,,Not Returned
+O002999,0,,,Not Returned
+O003000,0,,,Not Returned
+O003001,0,,,Not Returned
+O003002,0,,,Not Returned
+O003003,1,Size/Fit Issue,2026-08-20,Size/Fit Issue
+O003004,0,,,Not Returned
+O003005,1,Not as Described,2025-10-27,Not as Described
+O003006,0,,,Not Returned
+O003007,0,,,Not Returned
+O003008,0,,,Not Returned
+O003009,0,,,Not Returned
+O003010,0,,,Not Returned
+O003011,0,,,Not Returned
+O003012,0,,,Not Returned
+O003013,0,,,Not Returned
+O003014,0,,,Not Returned
+O003015,0,,,Not Returned
+O003016,0,,,Not Returned
+O003017,0,,,Not Returned
+O003018,0,,,Not Returned
+O003019,0,,,Not Returned
+O003020,0,,,Not Returned
+O003021,0,,,Not Returned
+O003022,1,Late Delivery,2026-05-30,Late Delivery
+O003023,0,,,Not Returned
+O003024,0,,,Not Returned
+O003025,0,,,Not Returned
+O003026,0,,,Not Returned
+O003027,0,,,Not Returned
+O003028,0,,,Not Returned
+O003029,0,,,Not Returned
+O003030,0,,,Not Returned
+O003031,1,Changed Mind,2026-07-07,Changed Mind
+O003032,0,,,Not Returned
+O003033,0,,,Not Returned
+O003034,0,,,Not Returned
+O003035,0,,,Not Returned
+O003036,0,,,Not Returned
+O003037,0,,,Not Returned
+O003038,0,,,Not Returned
+O003039,0,,,Not Returned
+O003040,0,,,Not Returned
+O003041,1,Size/Fit Issue,2026-03-08,Size/Fit Issue
+O003042,0,,,Not Returned
+O003043,0,,,Not Returned
+O003044,1,Late Delivery,2026-04-28,Late Delivery
+O003045,1,Not as Described,2026-03-09,Not as Described
+O003046,0,,,Not Returned
+O003047,0,,,Not Returned
+O003048,0,,,Not Returned
+O003049,0,,,Not Returned
+O003050,0,,,Not Returned
+O003051,0,,,Not Returned
+O003052,0,,,Not Returned
+O003053,0,,,Not Returned
+O003054,0,,,Not Returned
+O003055,0,,,Not Returned
+O003056,1,Size/Fit Issue,2026-08-09,Size/Fit Issue
+O003057,0,,,Not Returned
+O003058,1,Late Delivery,2025-01-27,Late Delivery
+O003059,0,,,Not Returned
+O003060,0,,,Not Returned
+O003061,0,,,Not Returned
+O003062,0,,,Not Returned
+O003063,0,,,Not Returned
+O003064,0,,,Not Returned
+O003065,0,,,Not Returned
+O003066,1,Damaged Product,2026-07-08,Damaged Product
+O003067,0,,,Not Returned
+O003068,0,,,Not Returned
+O003069,0,,,Not Returned
+O003070,0,,,Not Returned
+O003071,0,,,Not Returned
+O003072,0,,,Not Returned
+O003073,1,Wrong Item Delivered,2025-07-29,Wrong Item Delivered
+O003074,0,,,Not Returned
+O003075,0,,,Not Returned
+O003076,0,,,Not Returned
+O003077,0,,,Not Returned
+O003078,0,,,Not Returned
+O003079,0,,,Not Returned
+O003080,0,,,Not Returned
+O003081,1,,2025-04-07,Unknown
+O003082,0,,,Not Returned
+O003083,0,,,Not Returned
+O003084,0,,,Not Returned
+O003085,0,,,Not Returned
+O003086,1,,2025-11-27,Unknown
+O003087,0,,,Not Returned
+O003088,0,,,Not Returned
+O003089,0,,,Not Returned
+O003090,0,,,Not Returned
+O003091,0,,,Not Returned
+O003092,0,,,Not Returned
+O003093,0,,,Not Returned
+O003094,0,,,Not Returned
+O003095,0,,,Not Returned
+O003096,0,,,Not Returned
+O003097,0,,,Not Returned
+O003098,0,,,Not Returned
+O003099,0,,,Not Returned
+O003100,0,,,Not Returned
+O003101,0,,,Not Returned
+O003102,0,,,Not Returned
+O003103,1,,2025-04-06,Unknown
+O003104,0,,,Not Returned
+O003105,0,,,Not Returned
+O003106,0,,,Not Returned
+O003107,0,,,Not Returned
+O003108,0,,,Not Returned
+O003109,1,Not as Described,2025-02-27,Not as Described
+O003110,0,,,Not Returned
+O003111,0,,,Not Returned
+O003112,0,,,Not Returned
+O003113,0,,,Not Returned
+O003114,0,,,Not Returned
+O003115,0,,,Not Returned
+O003116,0,,,Not Returned
+O003117,0,,,Not Returned
+O003118,1,Damaged Product,2026-05-01,Damaged Product
+O003119,0,,,Not Returned
+O003120,0,,,Not Returned
+O003121,1,,2025-03-14,Unknown
+O003122,1,Changed Mind,2026-04-08,Changed Mind
+O003123,0,,,Not Returned
+O003124,0,,,Not Returned
+O003125,0,,,Not Returned
+O003126,0,,,Not Returned
+O003127,0,,,Not Returned
+O003128,0,,,Not Returned
+O003129,0,,,Not Returned
+O003130,0,,,Not Returned
+O003131,0,,,Not Returned
+O003132,0,,,Not Returned
+O003133,1,Late Delivery,2025-07-06,Late Delivery
+O003134,0,,,Not Returned
+O003135,0,,,Not Returned
+O003136,0,,,Not Returned
+O003137,0,,,Not Returned
+O003138,0,,,Not Returned
+O003139,0,,,Not Returned
+O003140,0,,,Not Returned
+O003141,0,,,Not Returned
+O003142,0,,,Not Returned
+O003143,0,,,Not Returned
+O003144,0,,,Not Returned
+O003145,0,,,Not Returned
+O003146,1,Not as Described,2026-07-10,Not as Described
+O003147,0,,,Not Returned
+O003148,0,,,Not Returned
+O003149,1,Not as Described,2026-04-26,Not as Described
+O003150,0,,,Not Returned
+O003151,0,,,Not Returned
+O003152,0,,,Not Returned
+O003153,0,,,Not Returned
+O003154,0,,,Not Returned
+O003155,1,Quality Issue,2026-10-01,Quality Issue
+O003156,0,,,Not Returned
+O003157,1,Size/Fit Issue,2025-08-01,Size/Fit Issue
+O003158,0,,,Not Returned
+O003159,0,,,Not Returned
+O003160,1,Size/Fit Issue,2025-09-25,Size/Fit Issue
+O003161,0,,,Not Returned
+O003162,0,,,Not Returned
+O003163,0,,,Not Returned
+O003164,0,,,Not Returned
+O003165,0,,,Not Returned
+O003166,0,,,Not Returned
+O003167,0,,,Not Returned
+O003168,1,Size/Fit Issue,2025-03-28,Size/Fit Issue
+O003169,0,,,Not Returned
+O003170,0,,,Not Returned
+O003171,0,,,Not Returned
+O003172,0,,,Not Returned
+O003173,0,,,Not Returned
+O003174,0,,,Not Returned
+O003175,0,,,Not Returned
+O003176,0,,,Not Returned
+O003177,0,,,Not Returned
+O003178,0,,,Not Returned
+O003179,0,,,Not Returned
+O003180,0,,,Not Returned
+O003181,0,,,Not Returned
+O003182,1,Late Delivery,2026-09-30,Late Delivery
+O003183,0,,,Not Returned
+O003184,1,Not as Described,2026-06-07,Not as Described
+O003185,0,,,Not Returned
+O003186,0,,,Not Returned
+O003187,0,,,Not Returned
+O003188,0,,,Not Returned
+O003189,0,,,Not Returned
+O003190,0,,,Not Returned
+O003191,0,,,Not Returned
+O003192,0,,,Not Returned
+O003193,0,,,Not Returned
+O003194,1,Damaged Product,2026-06-04,Damaged Product
+O003195,0,,,Not Returned
+O003196,1,Size/Fit Issue,2025-05-25,Size/Fit Issue
+O003197,0,,,Not Returned
+O003198,0,,,Not Returned
+O003199,0,,,Not Returned
+O003200,0,,,Not Returned
+O003201,0,,,Not Returned
+O003202,0,,,Not Returned
+O003203,0,,,Not Returned
+O003204,0,,,Not Returned
+O003205,0,,,Not Returned
+O003206,1,Damaged Product,2025-11-01,Damaged Product
+O003207,0,,,Not Returned
+O003208,0,,,Not Returned
+O003209,0,,,Not Returned
+O003210,1,Size/Fit Issue,2026-04-22,Size/Fit Issue
+O003211,0,,,Not Returned
+O003212,1,Not as Described,2025-12-18,Not as Described
+O003213,1,Late Delivery,2025-01-19,Late Delivery
+O003214,0,,,Not Returned
+O003215,1,Size/Fit Issue,2026-06-14,Size/Fit Issue
+O003216,0,,,Not Returned
+O003217,0,,,Not Returned
+O003218,0,,,Not Returned
+O003219,0,,,Not Returned
+O003220,0,,,Not Returned
+O003221,0,,,Not Returned
+O003222,0,,,Not Returned
+O003223,0,,,Not Returned
+O003224,1,Size/Fit Issue,2026-09-11,Size/Fit Issue
+O003225,0,,,Not Returned
+O003226,1,Late Delivery,2025-05-27,Late Delivery
+O003227,0,,,Not Returned
+O003228,0,,,Not Returned
+O003229,0,,,Not Returned
+O003230,0,,,Not Returned
+O003231,0,,,Not Returned
+O003232,0,,,Not Returned
+O003233,1,Late Delivery,2025-09-03,Late Delivery
+O003234,0,,,Not Returned
+O003235,0,,,Not Returned
+O003236,0,,,Not Returned
+O003237,1,Size/Fit Issue,2025-10-12,Size/Fit Issue
+O003238,0,,,Not Returned
+O003239,0,,,Not Returned
+O003240,0,,,Not Returned
+O003241,0,,,Not Returned
+O003242,1,Late Delivery,2026-08-23,Late Delivery
+O003243,0,,,Not Returned
+O003244,0,,,Not Returned
+O003245,0,,,Not Returned
+O003246,0,,,Not Returned
+O003247,0,,,Not Returned
+O003248,0,,,Not Returned
+O003249,0,,,Not Returned
+O003250,0,,,Not Returned
+O003251,1,,2026-05-09,Unknown
+O003252,0,,,Not Returned
+O003253,0,,,Not Returned
+O003254,0,,,Not Returned
+O003255,1,Wrong Item Delivered,2025-03-07,Wrong Item Delivered
+O003256,0,,,Not Returned
+O003257,1,Size/Fit Issue,2026-06-30,Size/Fit Issue
+O003258,0,,,Not Returned
+O003259,1,,2025-07-25,Unknown
+O003260,0,,,Not Returned
+O003261,0,,,Not Returned
+O003262,0,,,Not Returned
+O003263,0,,,Not Returned
+O003264,0,,,Not Returned
+O003265,0,,,Not Returned
+O003266,1,Damaged Product,2026-02-21,Damaged Product
+O003267,0,,,Not Returned
+O003268,0,,,Not Returned
+O003269,0,,,Not Returned
+O003270,0,,,Not Returned
+O003271,0,,,Not Returned
+O003272,0,,,Not Returned
+O003273,0,,,Not Returned
+O003274,1,Changed Mind,2025-09-11,Changed Mind
+O003275,0,,,Not Returned
+O003276,0,,,Not Returned
+O003277,0,,,Not Returned
+O003278,0,,,Not Returned
+O003279,0,,,Not Returned
+O003280,0,,,Not Returned
+O003281,0,,,Not Returned
+O003282,0,,,Not Returned
+O003283,1,,2025-10-02,Unknown
+O003284,0,,,Not Returned
+O003285,0,,,Not Returned
+O003286,0,,,Not Returned
+O003287,0,,,Not Returned
+O003288,0,,,Not Returned
+O003289,0,,,Not Returned
+O003290,0,,,Not Returned
+O003291,0,,,Not Returned
+O003292,0,,,Not Returned
+O003293,0,,,Not Returned
+O003294,0,,,Not Returned
+O003295,0,,,Not Returned
+O003296,1,,2025-09-13,Unknown
+O003297,0,,,Not Returned
+O003298,0,,,Not Returned
+O003299,0,,,Not Returned
+O003300,0,,,Not Returned
+O003301,0,,,Not Returned
+O003302,0,,,Not Returned
+O003303,0,,,Not Returned
+O003304,0,,,Not Returned
+O003305,0,,,Not Returned
+O003306,0,,,Not Returned
+O003307,0,,,Not Returned
+O003308,0,,,Not Returned
+O003309,0,,,Not Returned
+O003310,0,,,Not Returned
+O003311,0,,,Not Returned
+O003312,0,,,Not Returned
+O003313,0,,,Not Returned
+O003314,1,Wrong Item Delivered,2026-02-21,Wrong Item Delivered
+O003315,1,Quality Issue,2025-06-23,Quality Issue
+O003316,0,,,Not Returned
+O003317,0,,,Not Returned
+O003318,0,,,Not Returned
+O003319,0,,,Not Returned
+O003320,0,,,Not Returned
+O003321,0,,,Not Returned
+O003322,0,,,Not Returned
+O003323,0,,,Not Returned
+O003324,0,,,Not Returned
+O003325,1,Late Delivery,2025-03-21,Late Delivery
+O003326,0,,,Not Returned
+O003327,0,,,Not Returned
+O003328,0,,,Not Returned
+O003329,0,,,Not Returned
+O003330,0,,,Not Returned
+O003331,0,,,Not Returned
+O003332,0,,,Not Returned
+O003333,0,,,Not Returned
+O003334,1,Size/Fit Issue,2026-07-15,Size/Fit Issue
+O003335,0,,,Not Returned
+O003336,0,,,Not Returned
+O003337,1,Wrong Item Delivered,2025-12-30,Wrong Item Delivered
+O003338,0,,,Not Returned
+O003339,0,,,Not Returned
+O003340,0,,,Not Returned
+O003341,0,,,Not Returned
+O003342,0,,,Not Returned
+O003343,1,Late Delivery,2026-09-14,Late Delivery
+O003344,0,,,Not Returned
+O003345,0,,,Not Returned
+O003346,0,,,Not Returned
+O003347,0,,,Not Returned
+O003348,0,,,Not Returned
+O003349,1,Quality Issue,2025-12-05,Quality Issue
+O003350,0,,,Not Returned
+O003351,0,,,Not Returned
+O003352,0,,,Not Returned
+O003353,0,,,Not Returned
+O003354,0,,,Not Returned
+O003355,0,,,Not Returned
+O003356,1,Size/Fit Issue,2025-11-13,Size/Fit Issue
+O003357,0,,,Not Returned
+O003358,0,,,Not Returned
+O003359,0,,,Not Returned
+O003360,0,,,Not Returned
+O003361,0,,,Not Returned
+O003362,0,,,Not Returned
+O003363,0,,,Not Returned
+O003364,0,,,Not Returned
+O003365,0,,,Not Returned
+O003366,0,,,Not Returned
+O003367,0,,,Not Returned
+O003368,0,,,Not Returned
+O003369,0,,,Not Returned
+O003370,0,,,Not Returned
+O003371,0,,,Not Returned
+O003372,0,,,Not Returned
+O003373,1,,2025-11-06,Unknown
+O003374,0,,,Not Returned
+O003375,0,,,Not Returned
+O003376,0,,,Not Returned
+O003377,1,Damaged Product,2025-07-19,Damaged Product
+O003378,0,,,Not Returned
+O003379,1,Not as Described,2025-11-14,Not as Described
+O003380,0,,,Not Returned
+O003381,0,,,Not Returned
+O003382,0,,,Not Returned
+O003383,1,Late Delivery,2025-07-13,Late Delivery
+O003384,0,,,Not Returned
+O003385,0,,,Not Returned
+O003386,0,,,Not Returned
+O003387,0,,,Not Returned
+O003388,0,,,Not Returned
+O003389,0,,,Not Returned
+O003390,0,,,Not Returned
+O003391,0,,,Not Returned
+O003392,0,,,Not Returned
+O003393,0,,,Not Returned
+O003394,0,,,Not Returned
+O003395,0,,,Not Returned
+O003396,0,,,Not Returned
+O003397,0,,,Not Returned
+O003398,0,,,Not Returned
+O003399,0,,,Not Returned
+O003400,0,,,Not Returned
+O003401,0,,,Not Returned
+O003402,0,,,Not Returned
+O003403,0,,,Not Returned
+O003404,0,,,Not Returned
+O003405,1,,2025-05-06,Unknown
+O003406,0,,,Not Returned
+O003407,0,,,Not Returned
+O003408,0,,,Not Returned
+O003409,0,,,Not Returned
+O003410,0,,,Not Returned
+O003411,0,,,Not Returned
+O003412,1,Size/Fit Issue,2025-04-13,Size/Fit Issue
+O003413,0,,,Not Returned
+O003414,0,,,Not Returned
+O003415,0,,,Not Returned
+O003416,0,,,Not Returned
+O003417,0,,,Not Returned
+O003418,0,,,Not Returned
+O003419,0,,,Not Returned
+O003420,0,,,Not Returned
+O003421,0,,,Not Returned
+O003422,0,,,Not Returned
+O003423,0,,,Not Returned
+O003424,0,,,Not Returned
+O003425,1,Size/Fit Issue,2025-12-16,Size/Fit Issue
+O003426,0,,,Not Returned
+O003427,0,,,Not Returned
+O003428,0,,,Not Returned
+O003429,0,,,Not Returned
+O003430,0,,,Not Returned
+O003431,1,Not as Described,2025-12-09,Not as Described
+O003432,0,,,Not Returned
+O003433,0,,,Not Returned
+O003434,0,,,Not Returned
+O003435,0,,,Not Returned
+O003436,0,,,Not Returned
+O003437,1,Size/Fit Issue,2026-05-20,Size/Fit Issue
+O003438,0,,,Not Returned
+O003439,0,,,Not Returned
+O003440,0,,,Not Returned
+O003441,1,Size/Fit Issue,2026-05-26,Size/Fit Issue
+O003442,0,,,Not Returned
+O003443,0,,,Not Returned
+O003444,0,,,Not Returned
+O003445,0,,,Not Returned
+O003446,0,,,Not Returned
+O003447,1,Size/Fit Issue,2026-04-29,Size/Fit Issue
+O003448,0,,,Not Returned
+O003449,0,,,Not Returned
+O003450,0,,,Not Returned
+O003451,0,,,Not Returned
+O003452,0,,,Not Returned
+O003453,0,,,Not Returned
+O003454,0,,,Not Returned
+O003455,0,,,Not Returned
+O003456,0,,,Not Returned
+O003457,0,,,Not Returned
+O003458,0,,,Not Returned
+O003459,0,,,Not Returned
+O003460,0,,,Not Returned
+O003461,1,Damaged Product,2026-10-04,Damaged Product
+O003462,0,,,Not Returned
+O003463,0,,,Not Returned
+O003464,0,,,Not Returned
+O003465,0,,,Not Returned
+O003466,0,,,Not Returned
+O003467,1,Late Delivery,2025-08-03,Late Delivery
+O003468,0,,,Not Returned
+O003469,0,,,Not Returned
+O003470,0,,,Not Returned
+O003471,0,,,Not Returned
+O003472,0,,,Not Returned
+O003473,0,,,Not Returned
+O003474,0,,,Not Returned
+O003475,0,,,Not Returned
+O003476,0,,,Not Returned
+O003477,0,,,Not Returned
+O003478,0,,,Not Returned
+O003479,0,,,Not Returned
+O003480,1,Late Delivery,2026-03-22,Late Delivery
+O003481,0,,,Not Returned
+O003482,0,,,Not Returned
+O003483,0,,,Not Returned
+O003484,0,,,Not Returned
+O003485,0,,,Not Returned
+O003486,0,,,Not Returned
+O003487,0,,,Not Returned
+O003488,0,,,Not Returned
+O003489,0,,,Not Returned
+O003490,1,,2026-10-09,Unknown
+O003491,0,,,Not Returned
+O003492,0,,,Not Returned
+O003493,0,,,Not Returned
+O003494,0,,,Not Returned
+O003495,0,,,Not Returned
+O003496,0,,,Not Returned
+O003497,0,,,Not Returned
+O003498,0,,,Not Returned
+O003499,0,,,Not Returned
+O003500,0,,,Not Returned
+O003501,0,,,Not Returned
+O003502,1,Size/Fit Issue,2026-08-25,Size/Fit Issue
+O003503,0,,,Not Returned
+O003504,0,,,Not Returned
+O003505,0,,,Not Returned
+O003506,0,,,Not Returned
+O003507,0,,,Not Returned
+O003508,0,,,Not Returned
+O003509,0,,,Not Returned
+O003510,0,,,Not Returned
+O003511,0,,,Not Returned
+O003512,0,,,Not Returned
+O003513,1,Size/Fit Issue,2026-08-13,Size/Fit Issue
+O003514,0,,,Not Returned
+O003515,0,,,Not Returned
+O003516,0,,,Not Returned
+O003517,0,,,Not Returned
+O003518,0,,,Not Returned
+O003519,0,,,Not Returned
+O003520,0,,,Not Returned
+O003521,0,,,Not Returned
+O003522,0,,,Not Returned
+O003523,0,,,Not Returned
+O003524,1,Quality Issue,2026-07-22,Quality Issue
+O003525,0,,,Not Returned
+O003526,0,,,Not Returned
+O003527,0,,,Not Returned
+O003528,0,,,Not Returned
+O003529,0,,,Not Returned
+O003530,0,,,Not Returned
+O003531,1,Late Delivery,2025-01-14,Late Delivery
+O003532,0,,,Not Returned
+O003533,1,Wrong Item Delivered,2026-02-02,Wrong Item Delivered
+O003534,0,,,Not Returned
+O003535,0,,,Not Returned
+O003536,0,,,Not Returned
+O003537,0,,,Not Returned
+O003538,0,,,Not Returned
+O003539,1,Quality Issue,2026-05-23,Quality Issue
+O003540,0,,,Not Returned
+O003541,0,,,Not Returned
+O003542,0,,,Not Returned
+O003543,0,,,Not Returned
+O003544,1,Wrong Item Delivered,2026-04-16,Wrong Item Delivered
+O003545,0,,,Not Returned
+O003546,1,Late Delivery,2025-06-08,Late Delivery
+O003547,0,,,Not Returned
+O003548,0,,,Not Returned
+O003549,0,,,Not Returned
+O003550,0,,,Not Returned
+O003551,0,,,Not Returned
+O003552,0,,,Not Returned
+O003553,1,Size/Fit Issue,2026-02-20,Size/Fit Issue
+O003554,0,,,Not Returned
+O003555,0,,,Not Returned
+O003556,0,,,Not Returned
+O003557,0,,,Not Returned
+O003558,0,,,Not Returned
+O003559,1,Size/Fit Issue,2026-09-11,Size/Fit Issue
+O003560,0,,,Not Returned
+O003561,1,Size/Fit Issue,2025-05-18,Size/Fit Issue
+O003562,0,,,Not Returned
+O003563,0,,,Not Returned
+O003564,0,,,Not Returned
+O003565,0,,,Not Returned
+O003566,0,,,Not Returned
+O003567,0,,,Not Returned
+O003568,0,,,Not Returned
+O003569,0,,,Not Returned
+O003570,0,,,Not Returned
+O003571,0,,,Not Returned
+O003572,0,,,Not Returned
+O003573,0,,,Not Returned
+O003574,0,,,Not Returned
+O003575,0,,,Not Returned
+O003576,0,,,Not Returned
+O003577,0,,,Not Returned
+O003578,0,,,Not Returned
+O003579,1,Not as Described,2026-05-03,Not as Described
+O003580,0,,,Not Returned
+O003581,0,,,Not Returned
+O003582,0,,,Not Returned
+O003583,0,,,Not Returned
+O003584,0,,,Not Returned
+O003585,0,,,Not Returned
+O003586,0,,,Not Returned
+O003587,0,,,Not Returned
+O003588,0,,,Not Returned
+O003589,0,,,Not Returned
+O003590,0,,,Not Returned
+O003591,0,,,Not Returned
+O003592,0,,,Not Returned
+O003593,0,,,Not Returned
+O003594,0,,,Not Returned
+O003595,0,,,Not Returned
+O003596,0,,,Not Returned
+O003597,0,,,Not Returned
+O003598,0,,,Not Returned
+O003599,0,,,Not Returned
+O003600,0,,,Not Returned
+O003601,0,,,Not Returned
+O003602,0,,,Not Returned
+O003603,0,,,Not Returned
+O003604,0,,,Not Returned
+O003605,0,,,Not Returned
+O003606,0,,,Not Returned
+O003607,0,,,Not Returned
+O003608,0,,,Not Returned
+O003609,1,Size/Fit Issue,2025-04-23,Size/Fit Issue
+O003610,0,,,Not Returned
+O003611,0,,,Not Returned
+O003612,1,,2026-08-19,Unknown
+O003613,1,Late Delivery,2025-04-28,Late Delivery
+O003614,0,,,Not Returned
+O003615,0,,,Not Returned
+O003616,1,Wrong Item Delivered,2026-06-22,Wrong Item Delivered
+O003617,0,,,Not Returned
+O003618,1,Size/Fit Issue,2025-06-15,Size/Fit Issue
+O003619,0,,,Not Returned
+O003620,0,,,Not Returned
+O003621,0,,,Not Returned
+O003622,0,,,Not Returned
+O003623,1,Size/Fit Issue,2025-08-23,Size/Fit Issue
+O003624,0,,,Not Returned
+O003625,0,,,Not Returned
+O003626,0,,,Not Returned
+O003627,0,,,Not Returned
+O003628,0,,,Not Returned
+O003629,0,,,Not Returned
+O003630,0,,,Not Returned
+O003631,0,,,Not Returned
+O003632,0,,,Not Returned
+O003633,0,,,Not Returned
+O003634,0,,,Not Returned
+O003635,0,,,Not Returned
+O003636,0,,,Not Returned
+O003637,0,,,Not Returned
+O003638,0,,,Not Returned
+O003639,0,,,Not Returned
+O003640,1,Changed Mind,2025-10-30,Changed Mind
+O003641,0,,,Not Returned
+O003642,0,,,Not Returned
+O003643,0,,,Not Returned
+O003644,0,,,Not Returned
+O003645,0,,,Not Returned
+O003646,0,,,Not Returned
+O003647,0,,,Not Returned
+O003648,0,,,Not Returned
+O003649,0,,,Not Returned
+O003650,0,,,Not Returned
+O003651,0,,,Not Returned
+O003652,1,,2025-10-19,Unknown
+O003653,0,,,Not Returned
+O003654,1,Wrong Item Delivered,2025-11-19,Wrong Item Delivered
+O003655,0,,,Not Returned
+O003656,0,,,Not Returned
+O003657,0,,,Not Returned
+O003658,0,,,Not Returned
+O003659,0,,,Not Returned
+O003660,0,,,Not Returned
+O003661,0,,,Not Returned
+O003662,0,,,Not Returned
+O003663,1,,2025-05-04,Unknown
+O003664,0,,,Not Returned
+O003665,0,,,Not Returned
+O003666,0,,,Not Returned
+O003667,1,Size/Fit Issue,2026-03-16,Size/Fit Issue
+O003668,0,,,Not Returned
+O003669,0,,,Not Returned
+O003670,0,,,Not Returned
+O003671,0,,,Not Returned
+O003672,0,,,Not Returned
+O003673,0,,,Not Returned
+O003674,0,,,Not Returned
+O003675,0,,,Not Returned
+O003676,0,,,Not Returned
+O003677,0,,,Not Returned
+O003678,0,,,Not Returned
+O003679,0,,,Not Returned
+O003680,0,,,Not Returned
+O003681,0,,,Not Returned
+O003682,1,Size/Fit Issue,2025-11-13,Size/Fit Issue
+O003683,0,,,Not Returned
+O003684,0,,,Not Returned
+O003685,0,,,Not Returned
+O003686,0,,,Not Returned
+O003687,1,Size/Fit Issue,2025-06-15,Size/Fit Issue
+O003688,0,,,Not Returned
+O003689,0,,,Not Returned
+O003690,0,,,Not Returned
+O003691,0,,,Not Returned
+O003692,0,,,Not Returned
+O003693,0,,,Not Returned
+O003694,1,Late Delivery,2026-07-21,Late Delivery
+O003695,0,,,Not Returned
+O003696,1,Late Delivery,2025-07-27,Late Delivery
+O003697,0,,,Not Returned
+O003698,0,,,Not Returned
+O003699,1,Late Delivery,2026-08-08,Late Delivery
+O003700,0,,,Not Returned
+O003701,0,,,Not Returned
+O003702,1,Size/Fit Issue,2026-09-01,Size/Fit Issue
+O003703,0,,,Not Returned
+O003704,0,,,Not Returned
+O003705,0,,,Not Returned
+O003706,1,Late Delivery,2026-08-02,Late Delivery
+O003707,0,,,Not Returned
+O003708,0,,,Not Returned
+O003709,0,,,Not Returned
+O003710,0,,,Not Returned
+O003711,0,,,Not Returned
+O003712,0,,,Not Returned
+O003713,0,,,Not Returned
+O003714,0,,,Not Returned
+O003715,0,,,Not Returned
+O003716,0,,,Not Returned
+O003717,0,,,Not Returned
+O003718,0,,,Not Returned
+O003719,0,,,Not Returned
+O003720,0,,,Not Returned
+O003721,0,,,Not Returned
+O003722,0,,,Not Returned
+O003723,0,,,Not Returned
+O003724,0,,,Not Returned
+O003725,0,,,Not Returned
+O003726,0,,,Not Returned
+O003727,1,Damaged Product,2026-06-01,Damaged Product
+O003728,0,,,Not Returned
+O003729,0,,,Not Returned
+O003730,0,,,Not Returned
+O003731,0,,,Not Returned
+O003732,1,Size/Fit Issue,2025-07-05,Size/Fit Issue
+O003733,0,,,Not Returned
+O003734,0,,,Not Returned
+O003735,0,,,Not Returned
+O003736,0,,,Not Returned
+O003737,0,,,Not Returned
+O003738,0,,,Not Returned
+O003739,0,,,Not Returned
+O003740,0,,,Not Returned
+O003741,0,,,Not Returned
+O003742,1,Wrong Item Delivered,2026-02-28,Wrong Item Delivered
+O003743,0,,,Not Returned
+O003744,0,,,Not Returned
+O003745,0,,,Not Returned
+O003746,0,,,Not Returned
+O003747,0,,,Not Returned
+O003748,0,,,Not Returned
+O003749,0,,,Not Returned
+O003750,1,,2026-08-24,Unknown
+O003751,0,,,Not Returned
+O003752,0,,,Not Returned
+O003753,0,,,Not Returned
+O003754,0,,,Not Returned
+O003755,0,,,Not Returned
+O003756,0,,,Not Returned
+O003757,0,,,Not Returned
+O003758,0,,,Not Returned
+O003759,0,,,Not Returned
+O003760,0,,,Not Returned
+O003761,0,,,Not Returned
+O003762,0,,,Not Returned
+O003763,0,,,Not Returned
+O003764,0,,,Not Returned
+O003765,0,,,Not Returned
+O003766,0,,,Not Returned
+O003767,0,,,Not Returned
+O003768,0,,,Not Returned
+O003769,0,,,Not Returned
+O003770,0,,,Not Returned
+O003771,0,,,Not Returned
+O003772,0,,,Not Returned
+O003773,0,,,Not Returned
+O003774,0,,,Not Returned
+O003775,0,,,Not Returned
+O003776,1,Late Delivery,2026-09-13,Late Delivery
+O003777,0,,,Not Returned
+O003778,0,,,Not Returned
+O003779,0,,,Not Returned
+O003780,0,,,Not Returned
+O003781,1,Not as Described,2026-02-25,Not as Described
+O003782,1,Damaged Product,2025-12-29,Damaged Product
+O003783,0,,,Not Returned
+O003784,0,,,Not Returned
+O003785,0,,,Not Returned
+O003786,0,,,Not Returned
+O003787,0,,,Not Returned
+O003788,0,,,Not Returned
+O003789,0,,,Not Returned
+O003790,0,,,Not Returned
+O003791,0,,,Not Returned
+O003792,0,,,Not Returned
+O003793,0,,,Not Returned
+O003794,0,,,Not Returned
+O003795,0,,,Not Returned
+O003796,0,,,Not Returned
+O003797,0,,,Not Returned
+O003798,1,Size/Fit Issue,2025-08-17,Size/Fit Issue
+O003799,0,,,Not Returned
+O003800,0,,,Not Returned
+O003801,0,,,Not Returned
+O003802,0,,,Not Returned
+O003803,0,,,Not Returned
+O003804,0,,,Not Returned
+O003805,0,,,Not Returned
+O003806,0,,,Not Returned
+O003807,0,,,Not Returned
+O003808,0,,,Not Returned
+O003809,1,Size/Fit Issue,2026-08-28,Size/Fit Issue
+O003810,0,,,Not Returned
+O003811,0,,,Not Returned
+O003812,0,,,Not Returned
+O003813,0,,,Not Returned
+O003814,0,,,Not Returned
+O003815,0,,,Not Returned
+O003816,0,,,Not Returned
+O003817,0,,,Not Returned
+O003818,0,,,Not Returned
+O003819,0,,,Not Returned
+O003820,0,,,Not Returned
+O003821,0,,,Not Returned
+O003822,0,,,Not Returned
+O003823,1,Not as Described,2025-04-27,Not as Described
+O003824,0,,,Not Returned
+O003825,0,,,Not Returned
+O003826,0,,,Not Returned
+O003827,0,,,Not Returned
+O003828,1,Size/Fit Issue,2025-03-27,Size/Fit Issue
+O003829,0,,,Not Returned
+O003830,0,,,Not Returned
+O003831,0,,,Not Returned
+O003832,0,,,Not Returned
+O003833,0,,,Not Returned
+O003834,0,,,Not Returned
+O003835,0,,,Not Returned
+O003836,0,,,Not Returned
+O003837,0,,,Not Returned
+O003838,0,,,Not Returned
+O003839,0,,,Not Returned
+O003840,0,,,Not Returned
+O003841,0,,,Not Returned
+O003842,0,,,Not Returned
+O003843,0,,,Not Returned
+O003844,0,,,Not Returned
+O003845,0,,,Not Returned
+O003846,0,,,Not Returned
+O003847,1,Size/Fit Issue,2025-04-26,Size/Fit Issue
+O003848,0,,,Not Returned
+O003849,0,,,Not Returned
+O003850,0,,,Not Returned
+O003851,0,,,Not Returned
+O003852,0,,,Not Returned
+O003853,0,,,Not Returned
+O003854,0,,,Not Returned
+O003855,1,,2026-10-10,Unknown
+O003856,1,,2025-04-26,Unknown
+O003857,1,Wrong Item Delivered,2026-07-08,Wrong Item Delivered
+O003858,0,,,Not Returned
+O003859,0,,,Not Returned
+O003860,0,,,Not Returned
+O003861,0,,,Not Returned
+O003862,0,,,Not Returned
+O003863,0,,,Not Returned
+O003864,1,Late Delivery,2026-05-19,Late Delivery
+O003865,0,,,Not Returned
+O003866,0,,,Not Returned
+O003867,1,,2026-10-11,Unknown
+O003868,0,,,Not Returned
+O003869,0,,,Not Returned
+O003870,0,,,Not Returned
+O003871,0,,,Not Returned
+O003872,1,,2025-03-01,Unknown
+O003873,0,,,Not Returned
+O003874,0,,,Not Returned
+O003875,0,,,Not Returned
+O003876,1,Wrong Item Delivered,2025-11-07,Wrong Item Delivered
+O003877,1,Damaged Product,2026-08-19,Damaged Product
+O003878,0,,,Not Returned
+O003879,0,,,Not Returned
+O003880,0,,,Not Returned
+O003881,0,,,Not Returned
+O003882,0,,,Not Returned
+O003883,0,,,Not Returned
+O003884,0,,,Not Returned
+O003885,0,,,Not Returned
+O003886,1,Late Delivery,2025-12-30,Late Delivery
+O003887,0,,,Not Returned
+O003888,0,,,Not Returned
+O003889,0,,,Not Returned
+O003890,0,,,Not Returned
+O003891,0,,,Not Returned
+O003892,0,,,Not Returned
+O003893,0,,,Not Returned
+O003894,0,,,Not Returned
+O003895,0,,,Not Returned
+O003896,0,,,Not Returned
+O003897,0,,,Not Returned
+O003898,0,,,Not Returned
+O003899,1,Wrong Item Delivered,2026-07-24,Wrong Item Delivered
+O003900,1,Damaged Product,2026-06-07,Damaged Product
+O003901,0,,,Not Returned
+O003902,0,,,Not Returned
+O003903,0,,,Not Returned
+O003904,1,,2025-07-08,Unknown
+O003905,0,,,Not Returned
+O003906,0,,,Not Returned
+O003907,0,,,Not Returned
+O003908,0,,,Not Returned
+O003909,0,,,Not Returned
+O003910,0,,,Not Returned
+O003911,0,,,Not Returned
+O003912,0,,,Not Returned
+O003913,0,,,Not Returned
+O003914,0,,,Not Returned
+O003915,0,,,Not Returned
+O003916,0,,,Not Returned
+O003917,0,,,Not Returned
+O003918,0,,,Not Returned
+O003919,0,,,Not Returned
+O003920,0,,,Not Returned
+O003921,1,Late Delivery,2025-07-12,Late Delivery
+O003922,1,,2026-08-22,Unknown
+O003923,1,Size/Fit Issue,2025-02-04,Size/Fit Issue
+O003924,0,,,Not Returned
+O003925,0,,,Not Returned
+O003926,0,,,Not Returned
+O003927,1,Damaged Product,2025-09-09,Damaged Product
+O003928,0,,,Not Returned
+O003929,0,,,Not Returned
+O003930,0,,,Not Returned
+O003931,0,,,Not Returned
+O003932,0,,,Not Returned
+O003933,0,,,Not Returned
+O003934,0,,,Not Returned
+O003935,1,Late Delivery,2026-07-07,Late Delivery
+O003936,0,,,Not Returned
+O003937,0,,,Not Returned
+O003938,0,,,Not Returned
+O003939,0,,,Not Returned
+O003940,0,,,Not Returned
+O003941,0,,,Not Returned
+O003942,1,,2025-02-05,Unknown
+O003943,0,,,Not Returned
+O003944,0,,,Not Returned
+O003945,0,,,Not Returned
+O003946,0,,,Not Returned
+O003947,0,,,Not Returned
+O003948,0,,,Not Returned
+O003949,0,,,Not Returned
+O003950,0,,,Not Returned
+O003951,1,Late Delivery,2026-01-07,Late Delivery
+O003952,0,,,Not Returned
+O003953,0,,,Not Returned
+O003954,0,,,Not Returned
+O003955,0,,,Not Returned
+O003956,0,,,Not Returned
+O003957,1,Damaged Product,2025-02-06,Damaged Product
+O003958,0,,,Not Returned
+O003959,0,,,Not Returned
+O003960,0,,,Not Returned
+O003961,0,,,Not Returned
+O003962,0,,,Not Returned
+O003963,0,,,Not Returned
+O003964,0,,,Not Returned
+O003965,0,,,Not Returned
+O003966,0,,,Not Returned
+O003967,0,,,Not Returned
+O003968,0,,,Not Returned
+O003969,0,,,Not Returned
+O003970,0,,,Not Returned
+O003971,0,,,Not Returned
+O003972,0,,,Not Returned
+O003973,0,,,Not Returned
+O003974,0,,,Not Returned
+O003975,0,,,Not Returned
+O003976,0,,,Not Returned
+O003977,0,,,Not Returned
+O003978,0,,,Not Returned
+O003979,0,,,Not Returned
+O003980,0,,,Not Returned
+O003981,0,,,Not Returned
+O003982,0,,,Not Returned
+O003983,1,Size/Fit Issue,2025-06-20,Size/Fit Issue
+O003984,0,,,Not Returned
+O003985,1,Late Delivery,2026-08-26,Late Delivery
+O003986,0,,,Not Returned
+O003987,0,,,Not Returned
+O003988,0,,,Not Returned
+O003989,1,Not as Described,2025-02-05,Not as Described
+O003990,0,,,Not Returned
+O003991,0,,,Not Returned
+O003992,0,,,Not Returned
+O003993,0,,,Not Returned
+O003994,0,,,Not Returned
+O003995,0,,,Not Returned
+O003996,0,,,Not Returned
+O003997,0,,,Not Returned
+O003998,0,,,Not Returned
+O003999,0,,,Not Returned
+O004000,0,,,Not Returned
+O004001,0,,,Not Returned
+O004002,0,,,Not Returned
+O004003,0,,,Not Returned
+O004004,1,Late Delivery,2026-07-03,Late Delivery
+O004005,0,,,Not Returned
+O004006,0,,,Not Returned
+O004007,0,,,Not Returned
+O004008,0,,,Not Returned
+O004009,0,,,Not Returned
+O004010,0,,,Not Returned
+O004011,1,Damaged Product,2026-06-28,Damaged Product
+O004012,0,,,Not Returned
+O004013,0,,,Not Returned
+O004014,0,,,Not Returned
+O004015,0,,,Not Returned
+O004016,0,,,Not Returned
+O004017,0,,,Not Returned
+O004018,0,,,Not Returned
+O004019,0,,,Not Returned
+O004020,0,,,Not Returned
+O004021,0,,,Not Returned
+O004022,0,,,Not Returned
+O004023,0,,,Not Returned
+O004024,0,,,Not Returned
+O004025,0,,,Not Returned
+O004026,0,,,Not Returned
+O004027,1,Late Delivery,2025-12-14,Late Delivery
+O004028,0,,,Not Returned
+O004029,0,,,Not Returned
+O004030,0,,,Not Returned
+O004031,0,,,Not Returned
+O004032,0,,,Not Returned
+O004033,0,,,Not Returned
+O004034,0,,,Not Returned
+O004035,0,,,Not Returned
+O004036,0,,,Not Returned
+O004037,1,Size/Fit Issue,2026-03-20,Size/Fit Issue
+O004038,0,,,Not Returned
+O004039,1,Size/Fit Issue,2026-04-06,Size/Fit Issue
+O004040,1,Size/Fit Issue,2025-09-29,Size/Fit Issue
+O004041,0,,,Not Returned
+O004042,1,Size/Fit Issue,2025-03-11,Size/Fit Issue
+O004043,0,,,Not Returned
+O004044,0,,,Not Returned
+O004045,0,,,Not Returned
+O004046,1,,2025-06-13,Unknown
+O004047,0,,,Not Returned
+O004048,0,,,Not Returned
+O004049,0,,,Not Returned
+O004050,0,,,Not Returned
+O004051,0,,,Not Returned
+O004052,1,Late Delivery,2026-09-20,Late Delivery
+O004053,0,,,Not Returned
+O004054,0,,,Not Returned
+O004055,0,,,Not Returned
+O004056,0,,,Not Returned
+O004057,0,,,Not Returned
+O004058,0,,,Not Returned
+O004059,0,,,Not Returned
+O004060,0,,,Not Returned
+O004061,0,,,Not Returned
+O004062,0,,,Not Returned
+O004063,0,,,Not Returned
+O004064,0,,,Not Returned
+O004065,0,,,Not Returned
+O004066,0,,,Not Returned
+O004067,0,,,Not Returned
+O004068,0,,,Not Returned
+O004069,0,,,Not Returned
+O004070,1,Size/Fit Issue,2026-08-18,Size/Fit Issue
+O004071,0,,,Not Returned
+O004072,0,,,Not Returned
+O004073,0,,,Not Returned
+O004074,1,Size/Fit Issue,2026-05-06,Size/Fit Issue
+O004075,0,,,Not Returned
+O004076,0,,,Not Returned
+O004077,0,,,Not Returned
+O004078,0,,,Not Returned
+O004079,0,,,Not Returned
+O004080,0,,,Not Returned
+O004081,0,,,Not Returned
+O004082,1,Size/Fit Issue,2026-02-27,Size/Fit Issue
+O004083,0,,,Not Returned
+O004084,0,,,Not Returned
+O004085,0,,,Not Returned
+O004086,0,,,Not Returned
+O004087,0,,,Not Returned
+O004088,0,,,Not Returned
+O004089,0,,,Not Returned
+O004090,0,,,Not Returned
+O004091,0,,,Not Returned
+O004092,0,,,Not Returned
+O004093,0,,,Not Returned
+O004094,1,,2025-04-26,Unknown
+O004095,0,,,Not Returned
+O004096,1,Quality Issue,2025-07-23,Quality Issue
+O004097,0,,,Not Returned
+O004098,0,,,Not Returned
+O004099,0,,,Not Returned
+O004100,0,,,Not Returned
+O004101,0,,,Not Returned
+O004102,0,,,Not Returned
+O004103,0,,,Not Returned
+O004104,0,,,Not Returned
+O004105,0,,,Not Returned
+O004106,0,,,Not Returned
+O004107,0,,,Not Returned
+O004108,1,Late Delivery,2026-03-17,Late Delivery
+O004109,0,,,Not Returned
+O004110,0,,,Not Returned
+O004111,0,,,Not Returned
+O004112,0,,,Not Returned
+O004113,0,,,Not Returned
+O004114,0,,,Not Returned
+O004115,0,,,Not Returned
+O004116,0,,,Not Returned
+O004117,0,,,Not Returned
+O004118,0,,,Not Returned
+O004119,0,,,Not Returned
+O004120,0,,,Not Returned
+O004121,0,,,Not Returned
+O004122,0,,,Not Returned
+O004123,0,,,Not Returned
+O004124,0,,,Not Returned
+O004125,0,,,Not Returned
+O004126,0,,,Not Returned
+O004127,0,,,Not Returned
+O004128,0,,,Not Returned
+O004129,0,,,Not Returned
+O004130,1,Damaged Product,2026-03-11,Damaged Product
+O004131,0,,,Not Returned
+O004132,0,,,Not Returned
+O004133,0,,,Not Returned
+O004134,1,Damaged Product,2025-02-27,Damaged Product
+O004135,0,,,Not Returned
+O004136,0,,,Not Returned
+O004137,0,,,Not Returned
+O004138,0,,,Not Returned
+O004139,0,,,Not Returned
+O004140,0,,,Not Returned
+O004141,1,Late Delivery,2025-10-09,Late Delivery
+O004142,0,,,Not Returned
+O004143,0,,,Not Returned
+O004144,0,,,Not Returned
+O004145,0,,,Not Returned
+O004146,0,,,Not Returned
+O004147,0,,,Not Returned
+O004148,0,,,Not Returned
+O004149,0,,,Not Returned
+O004150,0,,,Not Returned
+O004151,0,,,Not Returned
+O004152,0,,,Not Returned
+O004153,0,,,Not Returned
+O004154,0,,,Not Returned
+O004155,0,,,Not Returned
+O004156,0,,,Not Returned
+O004157,0,,,Not Returned
+O004158,0,,,Not Returned
+O004159,0,,,Not Returned
+O004160,1,Size/Fit Issue,2025-07-22,Size/Fit Issue
+O004161,1,Size/Fit Issue,2026-03-30,Size/Fit Issue
+O004162,0,,,Not Returned
+O004163,0,,,Not Returned
+O004164,0,,,Not Returned
+O004165,1,Damaged Product,2026-05-25,Damaged Product
+O004166,0,,,Not Returned
+O004167,0,,,Not Returned
+O004168,0,,,Not Returned
+O004169,0,,,Not Returned
+O004170,0,,,Not Returned
+O004171,0,,,Not Returned
+O004172,1,Damaged Product,2026-08-18,Damaged Product
+O004173,0,,,Not Returned
+O004174,0,,,Not Returned
+O004175,0,,,Not Returned
+O004176,1,Size/Fit Issue,2025-06-17,Size/Fit Issue
+O004177,0,,,Not Returned
+O004178,1,Not as Described,2025-04-10,Not as Described
+O004179,0,,,Not Returned
+O004180,0,,,Not Returned
+O004181,0,,,Not Returned
+O004182,0,,,Not Returned
+O004183,0,,,Not Returned
+O004184,0,,,Not Returned
+O004185,1,Not as Described,2025-01-30,Not as Described
+O004186,1,Size/Fit Issue,2025-04-27,Size/Fit Issue
+O004187,0,,,Not Returned
+O004188,0,,,Not Returned
+O004189,0,,,Not Returned
+O004190,0,,,Not Returned
+O004191,0,,,Not Returned
+O004192,0,,,Not Returned
+O004193,0,,,Not Returned
+O004194,0,,,Not Returned
+O004195,0,,,Not Returned
+O004196,0,,,Not Returned
+O004197,0,,,Not Returned
+O004198,0,,,Not Returned
+O004199,0,,,Not Returned
+O004200,0,,,Not Returned
+O004201,0,,,Not Returned
+O004202,0,,,Not Returned
+O004203,0,,,Not Returned
+O004204,0,,,Not Returned
+O004205,0,,,Not Returned
+O004206,0,,,Not Returned
+O004207,0,,,Not Returned
+O004208,0,,,Not Returned
+O004209,0,,,Not Returned
+O004210,0,,,Not Returned
+O004211,0,,,Not Returned
+O004212,1,Not as Described,2025-11-25,Not as Described
+O004213,0,,,Not Returned
+O004214,0,,,Not Returned
+O004215,0,,,Not Returned
+O004216,0,,,Not Returned
+O004217,1,Wrong Item Delivered,2025-02-11,Wrong Item Delivered
+O004218,0,,,Not Returned
+O004219,0,,,Not Returned
+O004220,0,,,Not Returned
+O004221,0,,,Not Returned
+O004222,1,Wrong Item Delivered,2025-11-25,Wrong Item Delivered
+O004223,0,,,Not Returned
+O004224,0,,,Not Returned
+O004225,0,,,Not Returned
+O004226,0,,,Not Returned
+O004227,0,,,Not Returned
+O004228,0,,,Not Returned
+O004229,0,,,Not Returned
+O004230,0,,,Not Returned
+O004231,0,,,Not Returned
+O004232,0,,,Not Returned
+O004233,0,,,Not Returned
+O004234,0,,,Not Returned
+O004235,0,,,Not Returned
+O004236,0,,,Not Returned
+O004237,1,,2026-04-18,Unknown
+O004238,0,,,Not Returned
+O004239,0,,,Not Returned
+O004240,0,,,Not Returned
+O004241,1,Size/Fit Issue,2025-08-16,Size/Fit Issue
+O004242,0,,,Not Returned
+O004243,1,Late Delivery,2026-04-23,Late Delivery
+O004244,0,,,Not Returned
+O004245,0,,,Not Returned
+O004246,0,,,Not Returned
+O004247,0,,,Not Returned
+O004248,1,,2026-08-30,Unknown
+O004249,0,,,Not Returned
+O004250,0,,,Not Returned
+O004251,0,,,Not Returned
+O004252,0,,,Not Returned
+O004253,0,,,Not Returned
+O004254,0,,,Not Returned
+O004255,0,,,Not Returned
+O004256,0,,,Not Returned
+O004257,0,,,Not Returned
+O004258,0,,,Not Returned
+O004259,1,Size/Fit Issue,2025-03-09,Size/Fit Issue
+O004260,0,,,Not Returned
+O004261,0,,,Not Returned
+O004262,0,,,Not Returned
+O004263,0,,,Not Returned
+O004264,0,,,Not Returned
+O004265,0,,,Not Returned
+O004266,1,Not as Described,2025-05-24,Not as Described
+O004267,0,,,Not Returned
+O004268,0,,,Not Returned
+O004269,1,Size/Fit Issue,2026-01-08,Size/Fit Issue
+O004270,0,,,Not Returned
+O004271,0,,,Not Returned
+O004272,0,,,Not Returned
+O004273,0,,,Not Returned
+O004274,0,,,Not Returned
+O004275,1,Wrong Item Delivered,2026-01-09,Wrong Item Delivered
+O004276,0,,,Not Returned
+O004277,0,,,Not Returned
+O004278,0,,,Not Returned
+O004279,0,,,Not Returned
+O004280,0,,,Not Returned
+O004281,0,,,Not Returned
+O004282,0,,,Not Returned
+O004283,0,,,Not Returned
+O004284,0,,,Not Returned
+O004285,0,,,Not Returned
+O004286,0,,,Not Returned
+O004287,0,,,Not Returned
+O004288,0,,,Not Returned
+O004289,0,,,Not Returned
+O004290,0,,,Not Returned
+O004291,0,,,Not Returned
+O004292,0,,,Not Returned
+O004293,0,,,Not Returned
+O004294,0,,,Not Returned
+O004295,0,,,Not Returned
+O004296,0,,,Not Returned
+O004297,0,,,Not Returned
+O004298,0,,,Not Returned
+O004299,0,,,Not Returned
+O004300,0,,,Not Returned
+O004301,1,,2025-12-16,Unknown
+O004302,0,,,Not Returned
+O004303,0,,,Not Returned
+O004304,0,,,Not Returned
+O004305,0,,,Not Returned
+O004306,0,,,Not Returned
+O004307,0,,,Not Returned
+O004308,0,,,Not Returned
+O004309,0,,,Not Returned
+O004310,0,,,Not Returned
+O004311,0,,,Not Returned
+O004312,0,,,Not Returned
+O004313,0,,,Not Returned
+O004314,0,,,Not Returned
+O004315,0,,,Not Returned
+O004316,0,,,Not Returned
+O004317,0,,,Not Returned
+O004318,0,,,Not Returned
+O004319,0,,,Not Returned
+O004320,0,,,Not Returned
+O004321,1,Size/Fit Issue,2026-05-18,Size/Fit Issue
+O004322,0,,,Not Returned
+O004323,0,,,Not Returned
+O004324,1,Damaged Product,2026-05-18,Damaged Product
+O004325,0,,,Not Returned
+O004326,1,Size/Fit Issue,2026-05-15,Size/Fit Issue
+O004327,0,,,Not Returned
+O004328,0,,,Not Returned
+O004329,0,,,Not Returned
+O004330,0,,,Not Returned
+O004331,0,,,Not Returned
+O004332,0,,,Not Returned
+O004333,0,,,Not Returned
+O004334,0,,,Not Returned
+O004335,0,,,Not Returned
+O004336,0,,,Not Returned
+O004337,1,Size/Fit Issue,2025-09-06,Size/Fit Issue
+O004338,0,,,Not Returned
+O004339,0,,,Not Returned
+O004340,0,,,Not Returned
+O004341,0,,,Not Returned
+O004342,0,,,Not Returned
+O004343,1,Not as Described,2025-05-24,Not as Described
+O004344,0,,,Not Returned
+O004345,0,,,Not Returned
+O004346,1,Not as Described,2025-06-24,Not as Described
+O004347,1,Not as Described,2025-08-20,Not as Described
+O004348,1,Size/Fit Issue,2026-01-05,Size/Fit Issue
+O004349,1,Size/Fit Issue,2026-02-20,Size/Fit Issue
+O004350,0,,,Not Returned
+O004351,0,,,Not Returned
+O004352,0,,,Not Returned
+O004353,0,,,Not Returned
+O004354,0,,,Not Returned
+O004355,0,,,Not Returned
+O004356,0,,,Not Returned
+O004357,0,,,Not Returned
+O004358,0,,,Not Returned
+O004359,0,,,Not Returned
+O004360,0,,,Not Returned
+O004361,0,,,Not Returned
+O004362,0,,,Not Returned
+O004363,0,,,Not Returned
+O004364,0,,,Not Returned
+O004365,0,,,Not Returned
+O004366,0,,,Not Returned
+O004367,0,,,Not Returned
+O004368,0,,,Not Returned
+O004369,1,Damaged Product,2026-07-24,Damaged Product
+O004370,0,,,Not Returned
+O004371,0,,,Not Returned
+O004372,0,,,Not Returned
+O004373,0,,,Not Returned
+O004374,0,,,Not Returned
+O004375,1,Size/Fit Issue,2025-06-03,Size/Fit Issue
+O004376,0,,,Not Returned
+O004377,0,,,Not Returned
+O004378,1,Not as Described,2026-08-27,Not as Described
+O004379,0,,,Not Returned
+O004380,0,,,Not Returned
+O004381,0,,,Not Returned
+O004382,0,,,Not Returned
+O004383,0,,,Not Returned
+O004384,0,,,Not Returned
+O004385,0,,,Not Returned
+O004386,0,,,Not Returned
+O004387,1,,2025-10-26,Unknown
+O004388,1,Quality Issue,2026-07-15,Quality Issue
+O004389,0,,,Not Returned
+O004390,0,,,Not Returned
+O004391,0,,,Not Returned
+O004392,0,,,Not Returned
+O004393,0,,,Not Returned
+O004394,0,,,Not Returned
+O004395,0,,,Not Returned
+O004396,0,,,Not Returned
+O004397,0,,,Not Returned
+O004398,0,,,Not Returned
+O004399,0,,,Not Returned
+O004400,0,,,Not Returned
+O004401,1,Quality Issue,2026-04-09,Quality Issue
+O004402,0,,,Not Returned
+O004403,0,,,Not Returned
+O004404,1,,2026-04-05,Unknown
+O004405,0,,,Not Returned
+O004406,0,,,Not Returned
+O004407,0,,,Not Returned
+O004408,1,Size/Fit Issue,2026-01-09,Size/Fit Issue
+O004409,0,,,Not Returned
+O004410,0,,,Not Returned
+O004411,0,,,Not Returned
+O004412,0,,,Not Returned
+O004413,0,,,Not Returned
+O004414,0,,,Not Returned
+O004415,0,,,Not Returned
+O004416,0,,,Not Returned
+O004417,0,,,Not Returned
+O004418,0,,,Not Returned
+O004419,0,,,Not Returned
+O004420,0,,,Not Returned
+O004421,0,,,Not Returned
+O004422,0,,,Not Returned
+O004423,0,,,Not Returned
+O004424,0,,,Not Returned
+O004425,0,,,Not Returned
+O004426,0,,,Not Returned
+O004427,0,,,Not Returned
+O004428,0,,,Not Returned
+O004429,0,,,Not Returned
+O004430,0,,,Not Returned
+O004431,0,,,Not Returned
+O004432,1,Size/Fit Issue,2025-11-20,Size/Fit Issue
+O004433,0,,,Not Returned
+O004434,0,,,Not Returned
+O004435,0,,,Not Returned
+O004436,0,,,Not Returned
+O004437,0,,,Not Returned
+O004438,0,,,Not Returned
+O004439,0,,,Not Returned
+O004440,0,,,Not Returned
+O004441,0,,,Not Returned
+O004442,0,,,Not Returned
+O004443,0,,,Not Returned
+O004444,0,,,Not Returned
+O004445,0,,,Not Returned
+O004446,0,,,Not Returned
+O004447,0,,,Not Returned
+O004448,0,,,Not Returned
+O004449,0,,,Not Returned
+O004450,0,,,Not Returned
+O004451,0,,,Not Returned
+O004452,0,,,Not Returned
+O004453,0,,,Not Returned
+O004454,1,,2026-01-01,Unknown
+O004455,0,,,Not Returned
+O004456,1,Not as Described,2025-05-02,Not as Described
+O004457,0,,,Not Returned
+O004458,0,,,Not Returned
+O004459,1,Damaged Product,2026-02-11,Damaged Product
+O004460,1,Size/Fit Issue,2025-12-03,Size/Fit Issue
+O004461,0,,,Not Returned
+O004462,0,,,Not Returned
+O004463,0,,,Not Returned
+O004464,0,,,Not Returned
+O004465,0,,,Not Returned
+O004466,0,,,Not Returned
+O004467,0,,,Not Returned
+O004468,0,,,Not Returned
+O004469,1,Size/Fit Issue,2026-04-17,Size/Fit Issue
+O004470,0,,,Not Returned
+O004471,0,,,Not Returned
+O004472,0,,,Not Returned
+O004473,0,,,Not Returned
+O004474,0,,,Not Returned
+O004475,0,,,Not Returned
+O004476,0,,,Not Returned
+O004477,0,,,Not Returned
+O004478,0,,,Not Returned
+O004479,1,Late Delivery,2026-09-18,Late Delivery
+O004480,0,,,Not Returned
+O004481,0,,,Not Returned
+O004482,0,,,Not Returned
+O004483,0,,,Not Returned
+O004484,0,,,Not Returned
+O004485,0,,,Not Returned
+O004486,0,,,Not Returned
+O004487,0,,,Not Returned
+O004488,0,,,Not Returned
+O004489,1,Size/Fit Issue,2026-04-26,Size/Fit Issue
+O004490,0,,,Not Returned
+O004491,0,,,Not Returned
+O004492,0,,,Not Returned
+O004493,1,Late Delivery,2026-09-14,Late Delivery
+O004494,1,Size/Fit Issue,2025-05-10,Size/Fit Issue
+O004495,0,,,Not Returned
+O004496,0,,,Not Returned
+O004497,1,Wrong Item Delivered,2026-04-13,Wrong Item Delivered
+O004498,0,,,Not Returned
+O004499,0,,,Not Returned
+O004500,0,,,Not Returned
+O004501,0,,,Not Returned
+O004502,0,,,Not Returned
+O004503,0,,,Not Returned
+O004504,0,,,Not Returned
+O004505,0,,,Not Returned
+O004506,0,,,Not Returned
+O004507,0,,,Not Returned
+O004508,0,,,Not Returned
+O004509,0,,,Not Returned
+O004510,0,,,Not Returned
+O004511,0,,,Not Returned
+O004512,1,Late Delivery,2026-04-18,Late Delivery
+O004513,0,,,Not Returned
+O004514,0,,,Not Returned
+O004515,0,,,Not Returned
+O004516,0,,,Not Returned
+O004517,0,,,Not Returned
+O004518,0,,,Not Returned
+O004519,0,,,Not Returned
+O004520,0,,,Not Returned
+O004521,1,Late Delivery,2025-03-17,Late Delivery
+O004522,0,,,Not Returned
+O004523,0,,,Not Returned
+O004524,0,,,Not Returned
+O004525,0,,,Not Returned
+O004526,0,,,Not Returned
+O004527,0,,,Not Returned
+O004528,0,,,Not Returned
+O004529,0,,,Not Returned
+O004530,0,,,Not Returned
+O004531,0,,,Not Returned
+O004532,0,,,Not Returned
+O004533,0,,,Not Returned
+O004534,0,,,Not Returned
+O004535,0,,,Not Returned
+O004536,0,,,Not Returned
+O004537,1,Damaged Product,2026-02-09,Damaged Product
+O004538,0,,,Not Returned
+O004539,0,,,Not Returned
+O004540,1,Size/Fit Issue,2025-10-19,Size/Fit Issue
+O004541,0,,,Not Returned
+O004542,0,,,Not Returned
+O004543,0,,,Not Returned
+O004544,0,,,Not Returned
+O004545,0,,,Not Returned
+O004546,0,,,Not Returned
+O004547,1,Damaged Product,2025-01-29,Damaged Product
+O004548,0,,,Not Returned
+O004549,0,,,Not Returned
+O004550,1,Quality Issue,2025-11-05,Quality Issue
+O004551,1,Late Delivery,2025-12-15,Late Delivery
+O004552,1,Late Delivery,2025-12-26,Late Delivery
+O004553,0,,,Not Returned
+O004554,0,,,Not Returned
+O004555,0,,,Not Returned
+O004556,0,,,Not Returned
+O004557,1,Size/Fit Issue,2026-09-23,Size/Fit Issue
+O004558,1,Late Delivery,2026-07-01,Late Delivery
+O004559,0,,,Not Returned
+O004560,0,,,Not Returned
+O004561,0,,,Not Returned
+O004562,0,,,Not Returned
+O004563,0,,,Not Returned
+O004564,0,,,Not Returned
+O004565,0,,,Not Returned
+O004566,0,,,Not Returned
+O004567,0,,,Not Returned
+O004568,0,,,Not Returned
+O004569,0,,,Not Returned
+O004570,0,,,Not Returned
+O004571,0,,,Not Returned
+O004572,0,,,Not Returned
+O004573,0,,,Not Returned
+O004574,0,,,Not Returned
+O004575,0,,,Not Returned
+O004576,0,,,Not Returned
+O004577,0,,,Not Returned
+O004578,1,Changed Mind,2025-11-06,Changed Mind
+O004579,0,,,Not Returned
+O004580,0,,,Not Returned
+O004581,1,Quality Issue,2025-08-27,Quality Issue
+O004582,0,,,Not Returned
+O004583,0,,,Not Returned
+O004584,0,,,Not Returned
+O004585,0,,,Not Returned
+O004586,0,,,Not Returned
+O004587,0,,,Not Returned
+O004588,0,,,Not Returned
+O004589,0,,,Not Returned
+O004590,0,,,Not Returned
+O004591,0,,,Not Returned
+O004592,0,,,Not Returned
+O004593,0,,,Not Returned
+O004594,0,,,Not Returned
+O004595,0,,,Not Returned
+O004596,0,,,Not Returned
+O004597,1,Late Delivery,2025-03-24,Late Delivery
+O004598,0,,,Not Returned
+O004599,0,,,Not Returned
+O004600,0,,,Not Returned
+O004601,0,,,Not Returned
+O004602,0,,,Not Returned
+O004603,0,,,Not Returned
+O004604,0,,,Not Returned
+O004605,0,,,Not Returned
+O004606,0,,,Not Returned
+O004607,0,,,Not Returned
+O004608,1,,2025-11-30,Unknown
+O004609,0,,,Not Returned
+O004610,0,,,Not Returned
+O004611,0,,,Not Returned
+O004612,0,,,Not Returned
+O004613,0,,,Not Returned
+O004614,0,,,Not Returned
+O004615,0,,,Not Returned
+O004616,0,,,Not Returned
+O004617,0,,,Not Returned
+O004618,0,,,Not Returned
+O004619,0,,,Not Returned
+O004620,0,,,Not Returned
+O004621,1,Size/Fit Issue,2026-02-06,Size/Fit Issue
+O004622,0,,,Not Returned
+O004623,0,,,Not Returned
+O004624,0,,,Not Returned
+O004625,0,,,Not Returned
+O004626,0,,,Not Returned
+O004627,0,,,Not Returned
+O004628,1,Late Delivery,2026-09-18,Late Delivery
+O004629,0,,,Not Returned
+O004630,0,,,Not Returned
+O004631,0,,,Not Returned
+O004632,0,,,Not Returned
+O004633,1,Not as Described,2026-10-02,Not as Described
+O004634,0,,,Not Returned
+O004635,0,,,Not Returned
+O004636,0,,,Not Returned
+O004637,0,,,Not Returned
+O004638,0,,,Not Returned
+O004639,0,,,Not Returned
+O004640,0,,,Not Returned
+O004641,0,,,Not Returned
+O004642,0,,,Not Returned
+O004643,0,,,Not Returned
+O004644,0,,,Not Returned
+O004645,0,,,Not Returned
+O004646,0,,,Not Returned
+O004647,0,,,Not Returned
+O004648,0,,,Not Returned
+O004649,0,,,Not Returned
+O004650,0,,,Not Returned
+O004651,1,Not as Described,2025-07-09,Not as Described
+O004652,0,,,Not Returned
+O004653,0,,,Not Returned
+O004654,0,,,Not Returned
+O004655,0,,,Not Returned
+O004656,0,,,Not Returned
+O004657,0,,,Not Returned
+O004658,0,,,Not Returned
+O004659,0,,,Not Returned
+O004660,0,,,Not Returned
+O004661,0,,,Not Returned
+O004662,0,,,Not Returned
+O004663,1,Size/Fit Issue,2026-08-11,Size/Fit Issue
+O004664,0,,,Not Returned
+O004665,0,,,Not Returned
+O004666,0,,,Not Returned
+O004667,0,,,Not Returned
+O004668,0,,,Not Returned
+O004669,0,,,Not Returned
+O004670,0,,,Not Returned
+O004671,1,Wrong Item Delivered,2025-12-04,Wrong Item Delivered
+O004672,0,,,Not Returned
+O004673,0,,,Not Returned
+O004674,0,,,Not Returned
+O004675,0,,,Not Returned
+O004676,0,,,Not Returned
+O004677,0,,,Not Returned
+O004678,0,,,Not Returned
+O004679,0,,,Not Returned
+O004680,0,,,Not Returned
+O004681,0,,,Not Returned
+O004682,0,,,Not Returned
+O004683,0,,,Not Returned
+O004684,1,Not as Described,2026-02-26,Not as Described
+O004685,0,,,Not Returned
+O004686,0,,,Not Returned
+O004687,1,Wrong Item Delivered,2025-12-15,Wrong Item Delivered
+O004688,0,,,Not Returned
+O004689,0,,,Not Returned
+O004690,0,,,Not Returned
+O004691,0,,,Not Returned
+O004692,0,,,Not Returned
+O004693,0,,,Not Returned
+O004694,0,,,Not Returned
+O004695,0,,,Not Returned
+O004696,1,Quality Issue,2026-08-12,Quality Issue
+O004697,0,,,Not Returned
+O004698,1,Late Delivery,2025-08-28,Late Delivery
+O004699,0,,,Not Returned
+O004700,0,,,Not Returned
+O004701,0,,,Not Returned
+O004702,0,,,Not Returned
+O004703,0,,,Not Returned
+O004704,0,,,Not Returned
+O004705,0,,,Not Returned
+O004706,0,,,Not Returned
+O004707,0,,,Not Returned
+O004708,0,,,Not Returned
+O004709,0,,,Not Returned
+O004710,0,,,Not Returned
+O004711,0,,,Not Returned
+O004712,0,,,Not Returned
+O004713,1,Late Delivery,2026-09-25,Late Delivery
+O004714,0,,,Not Returned
+O004715,0,,,Not Returned
+O004716,0,,,Not Returned
+O004717,0,,,Not Returned
+O004718,0,,,Not Returned
+O004719,0,,,Not Returned
+O004720,0,,,Not Returned
+O004721,0,,,Not Returned
+O004722,0,,,Not Returned
+O004723,0,,,Not Returned
+O004724,0,,,Not Returned
+O004725,0,,,Not Returned
+O004726,1,Damaged Product,2026-06-23,Damaged Product
+O004727,0,,,Not Returned
+O004728,0,,,Not Returned
+O004729,0,,,Not Returned
+O004730,0,,,Not Returned
+O004731,0,,,Not Returned
+O004732,1,Size/Fit Issue,2025-06-28,Size/Fit Issue
+O004733,1,Changed Mind,2025-05-11,Changed Mind
+O004734,0,,,Not Returned
+O004735,0,,,Not Returned
+O004736,1,Late Delivery,2025-06-27,Late Delivery
+O004737,0,,,Not Returned
+O004738,0,,,Not Returned
+O004739,0,,,Not Returned
+O004740,0,,,Not Returned
+O004741,0,,,Not Returned
+O004742,0,,,Not Returned
+O004743,0,,,Not Returned
+O004744,0,,,Not Returned
+O004745,0,,,Not Returned
+O004746,0,,,Not Returned
+O004747,1,Changed Mind,2025-06-06,Changed Mind
+O004748,0,,,Not Returned
+O004749,0,,,Not Returned
+O004750,0,,,Not Returned
+O004751,0,,,Not Returned
+O004752,0,,,Not Returned
+O004753,0,,,Not Returned
+O004754,0,,,Not Returned
+O004755,1,Late Delivery,2025-08-01,Late Delivery
+O004756,1,Changed Mind,2025-01-26,Changed Mind
+O004757,0,,,Not Returned
+O004758,0,,,Not Returned
+O004759,0,,,Not Returned
+O004760,0,,,Not Returned
+O004761,0,,,Not Returned
+O004762,0,,,Not Returned
+O004763,0,,,Not Returned
+O004764,0,,,Not Returned
+O004765,0,,,Not Returned
+O004766,0,,,Not Returned
+O004767,0,,,Not Returned
+O004768,1,,2025-12-12,Unknown
+O004769,1,Late Delivery,2025-03-31,Late Delivery
+O004770,1,Size/Fit Issue,2025-08-19,Size/Fit Issue
+O004771,0,,,Not Returned
+O004772,0,,,Not Returned
+O004773,0,,,Not Returned
+O004774,0,,,Not Returned
+O004775,0,,,Not Returned
+O004776,0,,,Not Returned
+O004777,0,,,Not Returned
+O004778,1,Size/Fit Issue,2025-10-28,Size/Fit Issue
+O004779,0,,,Not Returned
+O004780,0,,,Not Returned
+O004781,0,,,Not Returned
+O004782,0,,,Not Returned
+O004783,0,,,Not Returned
+O004784,0,,,Not Returned
+O004785,0,,,Not Returned
+O004786,0,,,Not Returned
+O004787,0,,,Not Returned
+O004788,0,,,Not Returned
+O004789,0,,,Not Returned
+O004790,0,,,Not Returned
+O004791,0,,,Not Returned
+O004792,0,,,Not Returned
+O004793,0,,,Not Returned
+O004794,0,,,Not Returned
+O004795,0,,,Not Returned
+O004796,0,,,Not Returned
+O004797,0,,,Not Returned
+O004798,0,,,Not Returned
+O004799,0,,,Not Returned
+O004800,0,,,Not Returned
+O004801,0,,,Not Returned
+O004802,1,Not as Described,2026-06-11,Not as Described
+O004803,0,,,Not Returned
+O004804,0,,,Not Returned
+O004805,0,,,Not Returned
+O004806,0,,,Not Returned
+O004807,0,,,Not Returned
+O004808,1,Quality Issue,2025-07-19,Quality Issue
+O004809,0,,,Not Returned
+O004810,0,,,Not Returned
+O004811,0,,,Not Returned
+O004812,0,,,Not Returned
+O004813,0,,,Not Returned
+O004814,0,,,Not Returned
+O004815,0,,,Not Returned
+O004816,0,,,Not Returned
+O004817,0,,,Not Returned
+O004818,0,,,Not Returned
+O004819,0,,,Not Returned
+O004820,0,,,Not Returned
+O004821,0,,,Not Returned
+O004822,0,,,Not Returned
+O004823,0,,,Not Returned
+O004824,0,,,Not Returned
+O004825,0,,,Not Returned
+O004826,1,Size/Fit Issue,2025-05-29,Size/Fit Issue
+O004827,0,,,Not Returned
+O004828,0,,,Not Returned
+O004829,0,,,Not Returned
+O004830,1,Damaged Product,2026-05-14,Damaged Product
+O004831,0,,,Not Returned
+O004832,0,,,Not Returned
+O004833,0,,,Not Returned
+O004834,0,,,Not Returned
+O004835,0,,,Not Returned
+O004836,0,,,Not Returned
+O004837,0,,,Not Returned
+O004838,0,,,Not Returned
+O004839,0,,,Not Returned
+O004840,0,,,Not Returned
+O004841,0,,,Not Returned
+O004842,1,Late Delivery,2025-10-01,Late Delivery
+O004843,0,,,Not Returned
+O004844,0,,,Not Returned
+O004845,0,,,Not Returned
+O004846,0,,,Not Returned
+O004847,0,,,Not Returned
+O004848,0,,,Not Returned
+O004849,0,,,Not Returned
+O004850,0,,,Not Returned
+O004851,0,,,Not Returned
+O004852,0,,,Not Returned
+O004853,0,,,Not Returned
+O004854,0,,,Not Returned
+O004855,0,,,Not Returned
+O004856,0,,,Not Returned
+O004857,0,,,Not Returned
+O004858,0,,,Not Returned
+O004859,0,,,Not Returned
+O004860,0,,,Not Returned
+O004861,0,,,Not Returned
+O004862,0,,,Not Returned
+O004863,0,,,Not Returned
+O004864,0,,,Not Returned
+O004865,0,,,Not Returned
+O004866,0,,,Not Returned
+O004867,0,,,Not Returned
+O004868,1,,2026-05-06,Unknown
+O004869,1,Late Delivery,2026-03-13,Late Delivery
+O004870,0,,,Not Returned
+O004871,1,Late Delivery,2025-08-12,Late Delivery
+O004872,0,,,Not Returned
+O004873,0,,,Not Returned
+O004874,0,,,Not Returned
+O004875,0,,,Not Returned
+O004876,0,,,Not Returned
+O004877,0,,,Not Returned
+O004878,1,,2025-02-12,Unknown
+O004879,0,,,Not Returned
+O004880,1,Size/Fit Issue,2025-09-27,Size/Fit Issue
+O004881,1,Not as Described,2026-07-26,Not as Described
+O004882,0,,,Not Returned
+O004883,0,,,Not Returned
+O004884,0,,,Not Returned
+O004885,0,,,Not Returned
+O004886,0,,,Not Returned
+O004887,0,,,Not Returned
+O004888,0,,,Not Returned
+O004889,1,Late Delivery,2025-12-31,Late Delivery
+O004890,0,,,Not Returned
+O004891,0,,,Not Returned
+O004892,0,,,Not Returned
+O004893,0,,,Not Returned
+O004894,0,,,Not Returned
+O004895,0,,,Not Returned
+O004896,0,,,Not Returned
+O004897,1,Size/Fit Issue,2026-04-19,Size/Fit Issue
+O004898,0,,,Not Returned
+O004899,0,,,Not Returned
+O004900,0,,,Not Returned
+O004901,0,,,Not Returned
+O004902,0,,,Not Returned
+O004903,0,,,Not Returned
+O004904,0,,,Not Returned
+O004905,0,,,Not Returned
+O004906,0,,,Not Returned
+O004907,0,,,Not Returned
+O004908,0,,,Not Returned
+O004909,0,,,Not Returned
+O004910,0,,,Not Returned
+O004911,0,,,Not Returned
+O004912,0,,,Not Returned
+O004913,0,,,Not Returned
+O004914,0,,,Not Returned
+O004915,0,,,Not Returned
+O004916,0,,,Not Returned
+O004917,1,Wrong Item Delivered,2026-02-03,Wrong Item Delivered
+O004918,0,,,Not Returned
+O004919,0,,,Not Returned
+O004920,0,,,Not Returned
+O004921,0,,,Not Returned
+O004922,0,,,Not Returned
+O004923,1,Size/Fit Issue,2025-07-15,Size/Fit Issue
+O004924,0,,,Not Returned
+O004925,0,,,Not Returned
+O004926,0,,,Not Returned
+O004927,0,,,Not Returned
+O004928,1,Size/Fit Issue,2025-11-03,Size/Fit Issue
+O004929,0,,,Not Returned
+O004930,0,,,Not Returned
+O004931,0,,,Not Returned
+O004932,0,,,Not Returned
+O004933,1,,2025-09-11,Unknown
+O004934,0,,,Not Returned
+O004935,0,,,Not Returned
+O004936,0,,,Not Returned
+O004937,1,Wrong Item Delivered,2026-04-02,Wrong Item Delivered
+O004938,0,,,Not Returned
+O004939,0,,,Not Returned
+O004940,0,,,Not Returned
+O004941,0,,,Not Returned
+O004942,0,,,Not Returned
+O004943,1,,2025-04-24,Unknown
+O004944,0,,,Not Returned
+O004945,0,,,Not Returned
+O004946,0,,,Not Returned
+O004947,0,,,Not Returned
+O004948,0,,,Not Returned
+O004949,0,,,Not Returned
+O004950,0,,,Not Returned
+O004951,0,,,Not Returned
+O004952,0,,,Not Returned
+O004953,1,,2025-11-01,Unknown
+O004954,0,,,Not Returned
+O004955,0,,,Not Returned
+O004956,0,,,Not Returned
+O004957,0,,,Not Returned
+O004958,0,,,Not Returned
+O004959,0,,,Not Returned
+O004960,0,,,Not Returned
+O004961,0,,,Not Returned
+O004962,0,,,Not Returned
+O004963,1,Damaged Product,2025-03-12,Damaged Product
+O004964,0,,,Not Returned
+O004965,0,,,Not Returned
+O004966,0,,,Not Returned
+O004967,1,Damaged Product,2026-08-17,Damaged Product
+O004968,0,,,Not Returned
+O004969,0,,,Not Returned
+O004970,0,,,Not Returned
+O004971,0,,,Not Returned
+O004972,0,,,Not Returned
+O004973,1,,2026-09-28,Unknown
+O004974,0,,,Not Returned
+O004975,0,,,Not Returned
+O004976,0,,,Not Returned
+O004977,0,,,Not Returned
+O004978,1,Late Delivery,2025-04-18,Late Delivery
+O004979,0,,,Not Returned
+O004980,0,,,Not Returned
+O004981,0,,,Not Returned
+O004982,0,,,Not Returned
+O004983,0,,,Not Returned
+O004984,0,,,Not Returned
+O004985,0,,,Not Returned
+O004986,0,,,Not Returned
+O004987,0,,,Not Returned
+O004988,1,Size/Fit Issue,2025-11-05,Size/Fit Issue
+O004989,1,Late Delivery,2025-06-21,Late Delivery
+O004990,1,Size/Fit Issue,2025-09-07,Size/Fit Issue
+O004991,0,,,Not Returned
+O004992,0,,,Not Returned
+O004993,0,,,Not Returned
+O004994,0,,,Not Returned
+O004995,0,,,Not Returned
+O004996,0,,,Not Returned
+O004997,0,,,Not Returned
+O004998,0,,,Not Returned
+O004999,0,,,Not Returned
+O005000,0,,,Not Returned

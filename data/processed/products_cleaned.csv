@@ -1,0 +1,451 @@
+product_id,category,brand,size,seller,list_price,size_standardized,brand_clean
+P00001,Electronics,PixelWave,Standard,SELLER_005,30398.24,Standard,PixelWave
+P00002,Electronics,CoreLink,One Size,SELLER_003,3927.64,One Size,CoreLink
+P00003,Footwear,StrideCo,2XL,SELLER_015,3104.77,XXL,StrideCo
+P00004,Electronics,Voltix,One Size,SELLER_040,35628.39,One Size,Voltix
+P00005,Footwear,TrailFlex,medium,SELLER_050,1163.36,M,TrailFlex
+P00006,Home & Kitchen,,One Size,SELLER_017,2294.76,One Size,Generic / Unknown
+P00007,Apparel,DailyWear,Small,SELLER_033,757.75,S,DailyWear
+P00008,Apparel,,S,SELLER_022,1398.37,S,Generic / Unknown
+P00009,Footwear,UrbanSole,XXL,SELLER_046,2169.06,XXL,UrbanSole
+P00010,Footwear,StepUp,S,SELLER_059,1412.26,S,StepUp
+P00011,Beauty,DermaLeaf,One Size,SELLER_056,1907.71,One Size,DermaLeaf
+P00012,Electronics,CoreLink,Standard,SELLER_026,1870.95,Standard,CoreLink
+P00013,Apparel,UrbanThread,L,SELLER_026,3049.6,L,UrbanThread
+P00014,Sports,PeakMotion,One Size,SELLER_060,10301.4,One Size,PeakMotion
+P00015,Apparel,NorthPeak,XS,SELLER_037,2050.53,XS,NorthPeak
+P00016,Sports,TrailFlex,,SELLER_007,5640.76,Not Applicable,TrailFlex
+P00017,Apparel,StyleNest,L,SELLER_018,647.74,L,StyleNest
+P00018,Apparel,DailyWear,XL,SELLER_033,1661.64,XL,DailyWear
+P00019,Electronics,PixelWave,One Size,SELLER_018,40034.78,One Size,PixelWave
+P00020,Apparel,UrbanThread,L,SELLER_052,1986.53,L,UrbanThread
+P00021,Electronics,NovaTech,,SELLER_038,36244.57,Not Applicable,NovaTech
+P00022,Footwear,UrbanSole,M,SELLER_031,4153.44,M,UrbanSole
+P00023,Home & Kitchen,NestWell,,SELLER_045,12939.68,Not Applicable,NestWell
+P00024,Accessories,CarryOn,,SELLER_041,2091.0,Not Applicable,CarryOn
+P00025,Electronics,Voltix,One Size,SELLER_011,33720.61,One Size,Voltix
+P00026,Sports,PeakMotion,One Size,SELLER_007,4467.09,One Size,PeakMotion
+P00027,Apparel,DailyWear,medium,SELLER_044,1943.37,M,DailyWear
+P00028,Home & Kitchen,CasaCraft,One Size,SELLER_006,15933.45,One Size,CasaCraft
+P00029,Home & Kitchen,NestWell,One Size,SELLER_055,13413.76,One Size,NestWell
+P00030,Apparel,StyleNest,Large,SELLER_010,1706.57,L,StyleNest
+P00031,Footwear,TrailFlex,S,SELLER_048,5621.59,S,TrailFlex
+P00032,Apparel,StyleNest,S,SELLER_035,3229.73,S,StyleNest
+P00033,Footwear,TrailFlex,M,SELLER_042,5363.64,M,TrailFlex
+P00034,Beauty,BloomCare,,SELLER_017,4693.91,Not Applicable,BloomCare
+P00035,Home & Kitchen,KitchenPro,Standard,SELLER_033,4243.47,Standard,KitchenPro
+P00036,Home & Kitchen,KitchenPro,,SELLER_035,3920.64,Not Applicable,KitchenPro
+P00037,Beauty,GlowPure,Standard,SELLER_001,3958.54,Standard,GlowPure
+P00038,Electronics,PixelWave,Standard,SELLER_002,14774.21,Standard,PixelWave
+P00039,Sports,ActiveEdge,One Size,SELLER_034,3585.2,One Size,ActiveEdge
+P00040,Apparel,UrbanThread,XL,SELLER_054,2003.59,XL,UrbanThread
+P00041,Footwear,StepUp,XL,SELLER_047,1418.05,XL,StepUp
+P00042,Apparel,UrbanThread,L,SELLER_003,1727.14,L,UrbanThread
+P00043,Accessories,UrbanGear,One Size,SELLER_010,4504.19,One Size,UrbanGear
+P00044,Accessories,UrbanGear,One Size,SELLER_003,4966.65,One Size,UrbanGear
+P00045,Accessories,LoopLine,Standard,SELLER_048,5445.58,Standard,LoopLine
+P00046,Accessories,UrbanGear,Standard,SELLER_058,4625.03,Standard,UrbanGear
+P00047,Electronics,CoreLink,Standard,SELLER_048,3765.4,Standard,CoreLink
+P00048,Sports,TrailFlex,One Size,SELLER_057,9754.87,One Size,TrailFlex
+P00049,Apparel,StyleNest,XS,SELLER_019,2976.08,XS,StyleNest
+P00050,Apparel,DailyWear,L,SELLER_037,1952.67,L,DailyWear
+P00051,Apparel,NorthPeak,S,SELLER_017,2289.13,S,NorthPeak
+P00052,Footwear,StrideCo,L,SELLER_037,5597.09,L,StrideCo
+P00053,Electronics,Voltix,,SELLER_046,16169.86,Not Applicable,Voltix
+P00054,Home & Kitchen,NestWell,,SELLER_015,12251.71,Not Applicable,NestWell
+P00055,Electronics,CoreLink,One Size,SELLER_015,38056.03,One Size,CoreLink
+P00056,Beauty,LumaSkin,,SELLER_060,2719.17,Not Applicable,LumaSkin
+P00057,Sports,ActiveEdge,,SELLER_010,5325.26,Not Applicable,ActiveEdge
+P00058,Apparel,NorthPeak,M,SELLER_021,1023.48,M,NorthPeak
+P00059,Apparel,StyleNest,XL,SELLER_031,1383.87,XL,StyleNest
+P00060,Home & Kitchen,NestWell,One Size,SELLER_044,374.78,One Size,NestWell
+P00061,Footwear,UrbanSole,XS,SELLER_034,3710.13,XS,UrbanSole
+P00062,Beauty,GlowPure,One Size,SELLER_038,4479.16,One Size,GlowPure
+P00063,Accessories,PocketWorks,One Size,SELLER_036,863.81,One Size,PocketWorks
+P00064,Footwear,StrideCo,S,SELLER_014,712.55,S,StrideCo
+P00065,Sports,PeakMotion,,SELLER_042,10935.69,Not Applicable,PeakMotion
+P00066,Home & Kitchen,HomeEase,,SELLER_045,13890.88,Not Applicable,HomeEase
+P00067,Home & Kitchen,NestWell,Standard,SELLER_044,6725.53,Standard,NestWell
+P00068,Accessories,CarryOn,One Size,SELLER_022,6458.66,One Size,CarryOn
+P00069,Sports,TrailFlex,One Size,SELLER_008,4825.29,One Size,TrailFlex
+P00070,Sports,PeakMotion,,SELLER_044,7210.31,Not Applicable,PeakMotion
+P00071,Electronics,CoreLink,One Size,SELLER_056,5085.14,One Size,CoreLink
+P00072,Home & Kitchen,HomeEase,,SELLER_032,11324.31,Not Applicable,HomeEase
+P00073,Sports,FitForge,Standard,SELLER_031,7143.84,Standard,FitForge
+P00074,Accessories,LoopLine,,SELLER_038,7026.55,Not Applicable,LoopLine
+P00075,Apparel,DailyWear,XS,SELLER_003,1603.41,XS,DailyWear
+P00076,Beauty,DermaLeaf,,SELLER_018,1597.03,Not Applicable,DermaLeaf
+P00077,Footwear,TrailFlex,XXL,SELLER_024,4780.67,XXL,TrailFlex
+P00078,Electronics,NovaTech,,SELLER_019,36576.65,Not Applicable,NovaTech
+P00079,Electronics,PixelWave,,SELLER_036,14959.7,Not Applicable,PixelWave
+P00080,Footwear,UrbanSole,S,SELLER_054,2657.15,S,UrbanSole
+P00081,Footwear,TrailFlex,XXL,SELLER_058,2339.08,XXL,TrailFlex
+P00082,Beauty,LumaSkin,One Size,SELLER_018,2181.7,One Size,LumaSkin
+P00083,Sports,ActiveEdge,One Size,SELLER_024,2600.39,One Size,ActiveEdge
+P00084,Accessories,,Standard,SELLER_008,5250.1,Standard,Generic / Unknown
+P00085,Home & Kitchen,CasaCraft,Standard,SELLER_045,14538.55,Standard,CasaCraft
+P00086,Sports,ActiveEdge,,SELLER_022,2408.07,Not Applicable,ActiveEdge
+P00087,Home & Kitchen,KitchenPro,Standard,SELLER_018,13381.58,Standard,KitchenPro
+P00088,Accessories,UrbanGear,One Size,SELLER_057,1556.21,One Size,UrbanGear
+P00089,Home & Kitchen,CasaCraft,One Size,SELLER_044,8863.14,One Size,CasaCraft
+P00090,Electronics,NovaTech,One Size,SELLER_012,13078.71,One Size,NovaTech
+P00091,Sports,FitForge,,SELLER_053,4354.06,Not Applicable,FitForge
+P00092,Apparel,DailyWear,XXL,SELLER_003,1395.14,XXL,DailyWear
+P00093,Electronics,Voltix,Standard,SELLER_040,26718.46,Standard,Voltix
+P00094,Electronics,CoreLink,One Size,SELLER_053,8337.77,One Size,CoreLink
+P00095,Apparel,StyleNest,M,SELLER_024,506.82,M,StyleNest
+P00096,Apparel,DailyWear,XS,SELLER_019,2122.47,XS,DailyWear
+P00097,Home & Kitchen,NestWell,,SELLER_059,2775.57,Not Applicable,NestWell
+P00098,Sports,FitForge,,SELLER_054,3842.83,Not Applicable,FitForge
+P00099,Footwear,TrailFlex,x-large,SELLER_058,4961.27,XL,TrailFlex
+P00100,Beauty,BloomCare,Standard,SELLER_030,2168.64,Standard,BloomCare
+P00101,Home & Kitchen,HomeEase,One Size,SELLER_017,6212.18,One Size,HomeEase
+P00102,Home & Kitchen,CasaCraft,,SELLER_053,10752.09,Not Applicable,CasaCraft
+P00103,Sports,ActiveEdge,One Size,SELLER_055,8977.28,One Size,ActiveEdge
+P00104,Footwear,TrailFlex,M,SELLER_009,5386.66,M,TrailFlex
+P00105,Sports,TrailFlex,,SELLER_051,5949.46,Not Applicable,TrailFlex
+P00106,Home & Kitchen,,One Size,SELLER_060,16103.37,One Size,Generic / Unknown
+P00107,Apparel,StyleNest,M,SELLER_040,3474.16,M,StyleNest
+P00108,Home & Kitchen,HomeEase,Standard,SELLER_006,9841.71,Standard,HomeEase
+P00109,Sports,PeakMotion,,SELLER_031,1483.16,Not Applicable,PeakMotion
+P00110,Footwear,StrideCo,L,SELLER_010,5953.54,L,StrideCo
+P00111,Apparel,DailyWear,M,SELLER_051,1264.77,M,DailyWear
+P00112,Home & Kitchen,KitchenPro,Standard,SELLER_036,2224.49,Standard,KitchenPro
+P00113,Electronics,NovaTech,One Size,SELLER_037,16856.87,One Size,NovaTech
+P00114,Electronics,NovaTech,,SELLER_042,18352.97,Not Applicable,NovaTech
+P00115,Accessories,LoopLine,Standard,SELLER_055,581.58,Standard,LoopLine
+P00116,Accessories,LoopLine,One Size,SELLER_027,1429.71,One Size,LoopLine
+P00117,Apparel,StyleNest,XXL,SELLER_054,670.18,XXL,StyleNest
+P00118,Accessories,CarryOn,One Size,SELLER_026,363.66,One Size,CarryOn
+P00119,Home & Kitchen,KitchenPro,,SELLER_012,7282.19,Not Applicable,KitchenPro
+P00120,Accessories,UrbanGear,,SELLER_050,4352.85,Not Applicable,UrbanGear
+P00121,Electronics,PixelWave,Standard,SELLER_032,9926.68,Standard,PixelWave
+P00122,Accessories,CarryOn,One Size,SELLER_013,5817.89,One Size,CarryOn
+P00123,Home & Kitchen,HomeEase,,SELLER_047,5344.39,Not Applicable,HomeEase
+P00124,Electronics,CoreLink,One Size,SELLER_037,10824.55,One Size,CoreLink
+P00125,Apparel,NorthPeak,XS,SELLER_048,1129.86,XS,NorthPeak
+P00126,Home & Kitchen,HomeEase,One Size,SELLER_020,16750.56,One Size,HomeEase
+P00127,Accessories,LoopLine,Standard,SELLER_027,3687.63,Standard,LoopLine
+P00128,Electronics,NovaTech,,SELLER_015,26131.32,Not Applicable,NovaTech
+P00129,Accessories,LoopLine,,SELLER_009,5916.92,Not Applicable,LoopLine
+P00130,Electronics,PixelWave,Standard,SELLER_009,4185.64,Standard,PixelWave
+P00131,Home & Kitchen,HomeEase,One Size,SELLER_052,10114.28,One Size,HomeEase
+P00132,Apparel,StyleNest,XL,SELLER_056,2912.85,XL,StyleNest
+P00133,Apparel,StyleNest,L,SELLER_047,1627.67,L,StyleNest
+P00134,Beauty,DermaLeaf,One Size,SELLER_012,825.53,One Size,DermaLeaf
+P00135,Footwear,UrbanSole,XS,SELLER_005,3602.32,XS,UrbanSole
+P00136,Apparel,UrbanThread,x-large,SELLER_043,1548.05,XL,UrbanThread
+P00137,Apparel,StyleNest,Large,SELLER_036,1312.2,L,StyleNest
+P00138,Footwear,StepUp,XS,SELLER_019,5876.81,XS,StepUp
+P00139,Footwear,StrideCo,x-large,SELLER_022,2416.93,XL,StrideCo
+P00140,Sports,PeakMotion,,SELLER_042,5183.41,Not Applicable,PeakMotion
+P00141,Accessories,CarryOn,One Size,SELLER_018,7293.79,One Size,CarryOn
+P00142,Footwear,StepUp,L,SELLER_057,1582.66,L,StepUp
+P00143,Accessories,PocketWorks,One Size,SELLER_005,4813.18,One Size,PocketWorks
+P00144,Apparel,DailyWear,XL,SELLER_002,644.82,XL,DailyWear
+P00145,Beauty,LumaSkin,,SELLER_032,4832.2,Not Applicable,LumaSkin
+P00146,Electronics,PixelWave,One Size,SELLER_048,38364.25,One Size,PixelWave
+P00147,Accessories,UrbanGear,One Size,SELLER_025,6534.76,One Size,UrbanGear
+P00148,Sports,ActiveEdge,One Size,SELLER_053,10382.13,One Size,ActiveEdge
+P00149,Apparel,UrbanThread,L,SELLER_011,1085.69,L,UrbanThread
+P00150,Beauty,LumaSkin,One Size,SELLER_008,190.37,One Size,LumaSkin
+P00151,Apparel,StyleNest,L,SELLER_024,3484.97,L,StyleNest
+P00152,Footwear,StrideCo,XS,SELLER_042,5606.39,XS,StrideCo
+P00153,Footwear,TrailFlex,L,SELLER_037,5240.69,L,TrailFlex
+P00154,Apparel,UrbanThread,XS,SELLER_012,1223.26,XS,UrbanThread
+P00155,Apparel,NorthPeak,M,SELLER_007,1355.96,M,NorthPeak
+P00156,Beauty,BloomCare,One Size,SELLER_042,2213.2,One Size,BloomCare
+P00157,Sports,PeakMotion,One Size,SELLER_010,1411.72,One Size,PeakMotion
+P00158,Home & Kitchen,NestWell,One Size,SELLER_005,9067.31,One Size,NestWell
+P00159,Apparel,NorthPeak,L,SELLER_017,2482.5,L,NorthPeak
+P00160,Electronics,Voltix,Standard,SELLER_057,17638.84,Standard,Voltix
+P00161,Beauty,GlowPure,,SELLER_014,435.11,Not Applicable,GlowPure
+P00162,Beauty,LumaSkin,,SELLER_020,3382.05,Not Applicable,LumaSkin
+P00163,Home & Kitchen,HomeEase,One Size,SELLER_008,3348.21,One Size,HomeEase
+P00164,Accessories,CarryOn,One Size,SELLER_046,1128.72,One Size,CarryOn
+P00165,Electronics,Voltix,Standard,SELLER_047,11049.64,Standard,Voltix
+P00166,Footwear,UrbanSole,S,SELLER_015,1906.16,S,UrbanSole
+P00167,Accessories,UrbanGear,Standard,SELLER_017,3363.78,Standard,UrbanGear
+P00168,Accessories,CarryOn,One Size,SELLER_019,5659.32,One Size,CarryOn
+P00169,Apparel,UrbanThread,S,SELLER_027,1171.74,S,UrbanThread
+P00170,Accessories,CarryOn,,SELLER_009,6676.93,Not Applicable,CarryOn
+P00171,Home & Kitchen,NestWell,One Size,SELLER_002,11823.05,One Size,NestWell
+P00172,Sports,TrailFlex,Standard,SELLER_039,10858.64,Standard,TrailFlex
+P00173,Sports,ActiveEdge,One Size,SELLER_022,10541.46,One Size,ActiveEdge
+P00174,Footwear,TrailFlex,S,SELLER_013,2857.47,S,TrailFlex
+P00175,Footwear,StrideCo,S,SELLER_013,2781.9,S,StrideCo
+P00176,Beauty,BloomCare,One Size,SELLER_034,1197.96,One Size,BloomCare
+P00177,Footwear,StrideCo,M,SELLER_042,1703.16,M,StrideCo
+P00178,Electronics,PixelWave,One Size,SELLER_057,3699.35,One Size,PixelWave
+P00179,Footwear,StrideCo,XL,SELLER_053,1459.84,XL,StrideCo
+P00180,Sports,TrailFlex,One Size,SELLER_046,1170.2,One Size,TrailFlex
+P00181,Sports,PeakMotion,,SELLER_047,2374.89,Not Applicable,PeakMotion
+P00182,Home & Kitchen,HomeEase,Standard,SELLER_002,12657.71,Standard,HomeEase
+P00183,Apparel,StyleNest,L,SELLER_014,2822.48,L,StyleNest
+P00184,Sports,FitForge,Standard,SELLER_043,10779.92,Standard,FitForge
+P00185,Footwear,UrbanSole,XL,SELLER_043,2267.13,XL,UrbanSole
+P00186,Apparel,NorthPeak,XL,SELLER_033,2675.77,XL,NorthPeak
+P00187,Sports,FitForge,,SELLER_039,6354.24,Not Applicable,FitForge
+P00188,Accessories,PocketWorks,Standard,SELLER_057,4262.0,Standard,PocketWorks
+P00189,Accessories,LoopLine,,SELLER_026,326.43,Not Applicable,LoopLine
+P00190,Beauty,LumaSkin,Standard,SELLER_012,3119.95,Standard,LumaSkin
+P00191,Electronics,CoreLink,One Size,SELLER_005,40879.38,One Size,CoreLink
+P00192,Sports,TrailFlex,One Size,SELLER_058,11115.58,One Size,TrailFlex
+P00193,Footwear,StrideCo,S,SELLER_040,2077.14,S,StrideCo
+P00194,Electronics,PixelWave,One Size,SELLER_047,16978.12,One Size,PixelWave
+P00195,Sports,TrailFlex,,SELLER_014,11428.47,Not Applicable,TrailFlex
+P00196,Sports,TrailFlex,Standard,SELLER_014,10147.68,Standard,TrailFlex
+P00197,Apparel,DailyWear,L,SELLER_020,2312.97,L,DailyWear
+P00198,Beauty,GlowPure,Standard,SELLER_029,3900.22,Standard,GlowPure
+P00199,Sports,ActiveEdge,One Size,SELLER_006,10873.14,One Size,ActiveEdge
+P00200,Beauty,GlowPure,,SELLER_001,3499.39,Not Applicable,GlowPure
+P00201,Apparel,DailyWear,Large,SELLER_004,3134.53,L,DailyWear
+P00202,Electronics,CoreLink,Standard,SELLER_019,28865.42,Standard,CoreLink
+P00203,Home & Kitchen,HomeEase,,SELLER_056,7222.66,Not Applicable,HomeEase
+P00204,Sports,ActiveEdge,Standard,SELLER_057,10674.13,Standard,ActiveEdge
+P00205,Beauty,DermaLeaf,,SELLER_003,2532.51,Not Applicable,DermaLeaf
+P00206,Electronics,NovaTech,,SELLER_002,23069.5,Not Applicable,NovaTech
+P00207,Apparel,NorthPeak,XXL,SELLER_040,1853.95,XXL,NorthPeak
+P00208,Beauty,GlowPure,One Size,SELLER_057,4113.63,One Size,GlowPure
+P00209,Beauty,BloomCare,,SELLER_018,4794.79,Not Applicable,BloomCare
+P00210,Apparel,UrbanThread,S,SELLER_009,3215.19,S,UrbanThread
+P00211,Beauty,GlowPure,One Size,SELLER_038,4122.82,One Size,GlowPure
+P00212,Accessories,PocketWorks,One Size,SELLER_031,5599.71,One Size,PocketWorks
+P00213,Electronics,Voltix,Standard,SELLER_044,15482.56,Standard,Voltix
+P00214,Electronics,PixelWave,One Size,SELLER_048,8382.0,One Size,PixelWave
+P00215,Apparel,UrbanThread,medium,SELLER_024,715.2,M,UrbanThread
+P00216,Footwear,UrbanSole,xs,SELLER_028,2979.03,XS,UrbanSole
+P00217,Beauty,GlowPure,,SELLER_016,496.16,Not Applicable,GlowPure
+P00218,Apparel,DailyWear,L,SELLER_026,972.15,L,DailyWear
+P00219,Accessories,CarryOn,,SELLER_019,534.93,Not Applicable,CarryOn
+P00220,Sports,TrailFlex,,SELLER_034,5278.35,Not Applicable,TrailFlex
+P00221,Electronics,CoreLink,Standard,SELLER_058,9785.72,Standard,CoreLink
+P00222,Accessories,UrbanGear,One Size,SELLER_036,5145.61,One Size,UrbanGear
+P00223,Accessories,UrbanGear,,SELLER_011,6301.4,Not Applicable,UrbanGear
+P00224,Apparel,UrbanThread,M,SELLER_048,2581.44,M,UrbanThread
+P00225,Footwear,UrbanSole,S,SELLER_057,2447.78,S,UrbanSole
+P00226,Home & Kitchen,CasaCraft,Standard,SELLER_053,4243.54,Standard,CasaCraft
+P00227,Home & Kitchen,NestWell,,SELLER_040,7868.56,Not Applicable,NestWell
+P00228,Accessories,PocketWorks,One Size,SELLER_044,5354.99,One Size,PocketWorks
+P00229,Sports,PeakMotion,Standard,SELLER_035,4792.0,Standard,PeakMotion
+P00230,Apparel,UrbanThread,XS,SELLER_054,354.69,XS,UrbanThread
+P00231,Accessories,CarryOn,Standard,SELLER_016,332.75,Standard,CarryOn
+P00232,Accessories,PocketWorks,One Size,SELLER_014,5753.5,One Size,PocketWorks
+P00233,Footwear,UrbanSole,XXL,SELLER_053,4993.49,XXL,UrbanSole
+P00234,Home & Kitchen,HomeEase,One Size,SELLER_033,6762.46,One Size,HomeEase
+P00235,Electronics,NovaTech,,SELLER_029,29152.96,Not Applicable,NovaTech
+P00236,Beauty,LumaSkin,One Size,SELLER_060,4228.47,One Size,LumaSkin
+P00237,Footwear,StrideCo,XL,SELLER_003,2697.67,XL,StrideCo
+P00238,Beauty,LumaSkin,Standard,SELLER_019,1442.76,Standard,LumaSkin
+P00239,Electronics,PixelWave,Standard,SELLER_049,28380.4,Standard,PixelWave
+P00240,Home & Kitchen,NestWell,,SELLER_017,3465.69,Not Applicable,NestWell
+P00241,Home & Kitchen,CasaCraft,One Size,SELLER_026,1724.41,One Size,CasaCraft
+P00242,Electronics,CoreLink,Standard,SELLER_052,30586.46,Standard,CoreLink
+P00243,Accessories,CarryOn,,SELLER_002,6726.9,Not Applicable,CarryOn
+P00244,Electronics,PixelWave,,SELLER_029,19828.37,Not Applicable,PixelWave
+P00245,Electronics,CoreLink,,SELLER_044,28247.94,Not Applicable,CoreLink
+P00246,Electronics,PixelWave,,SELLER_037,19881.39,Not Applicable,PixelWave
+P00247,Apparel,DailyWear,XL,SELLER_018,1253.16,XL,DailyWear
+P00248,Footwear,TrailFlex,S,SELLER_055,4572.31,S,TrailFlex
+P00249,Apparel,DailyWear,XL,SELLER_012,788.78,XL,DailyWear
+P00250,Apparel,NorthPeak,XS,SELLER_054,1818.99,XS,NorthPeak
+P00251,Electronics,NovaTech,One Size,SELLER_053,23777.28,One Size,NovaTech
+P00252,Home & Kitchen,KitchenPro,Standard,SELLER_042,11289.92,Standard,KitchenPro
+P00253,Footwear,StepUp,L,SELLER_014,4101.29,L,StepUp
+P00254,Home & Kitchen,KitchenPro,One Size,SELLER_010,904.66,One Size,KitchenPro
+P00255,Apparel,NorthPeak,M,SELLER_029,1289.6,M,NorthPeak
+P00256,Beauty,BloomCare,,SELLER_009,2954.98,Not Applicable,BloomCare
+P00257,Beauty,BloomCare,One Size,SELLER_013,1136.94,One Size,BloomCare
+P00258,Apparel,StyleNest,medium,SELLER_020,3149.09,M,StyleNest
+P00259,Electronics,NovaTech,,SELLER_055,30322.03,Not Applicable,NovaTech
+P00260,Apparel,StyleNest,XS,SELLER_019,1148.18,XS,StyleNest
+P00261,Home & Kitchen,NestWell,Standard,SELLER_014,16571.35,Standard,NestWell
+P00262,Home & Kitchen,CasaCraft,,SELLER_010,7369.22,Not Applicable,CasaCraft
+P00263,Home & Kitchen,HomeEase,,SELLER_010,11181.75,Not Applicable,HomeEase
+P00264,Home & Kitchen,KitchenPro,,SELLER_050,5086.21,Not Applicable,KitchenPro
+P00265,Apparel,NorthPeak,XS,SELLER_004,1465.22,XS,NorthPeak
+P00266,Accessories,PocketWorks,Standard,SELLER_040,7989.36,Standard,PocketWorks
+P00267,Apparel,UrbanThread,XL,SELLER_041,3061.38,XL,UrbanThread
+P00268,Beauty,,One Size,SELLER_015,2925.18,One Size,Generic / Unknown
+P00269,Beauty,GlowPure,,SELLER_014,4951.58,Not Applicable,GlowPure
+P00270,Sports,ActiveEdge,One Size,SELLER_047,2201.44,One Size,ActiveEdge
+P00271,Beauty,GlowPure,Standard,SELLER_012,1635.81,Standard,GlowPure
+P00272,Footwear,StepUp,XL,SELLER_024,2550.77,XL,StepUp
+P00273,Electronics,NovaTech,,SELLER_046,21294.31,Not Applicable,NovaTech
+P00274,Electronics,PixelWave,Standard,SELLER_024,21284.73,Standard,PixelWave
+P00275,Beauty,GlowPure,One Size,SELLER_035,1662.41,One Size,GlowPure
+P00276,Home & Kitchen,CasaCraft,One Size,SELLER_055,11522.62,One Size,CasaCraft
+P00277,Home & Kitchen,CasaCraft,Standard,SELLER_005,2867.96,Standard,CasaCraft
+P00278,Home & Kitchen,HomeEase,,SELLER_050,509.36,Not Applicable,HomeEase
+P00279,Beauty,GlowPure,One Size,SELLER_006,1394.92,One Size,GlowPure
+P00280,Accessories,LoopLine,One Size,SELLER_018,3471.86,One Size,LoopLine
+P00281,Electronics,CoreLink,,SELLER_023,29276.47,Not Applicable,CoreLink
+P00282,Footwear,TrailFlex,XL,SELLER_027,1109.8,XL,TrailFlex
+P00283,Home & Kitchen,CasaCraft,,SELLER_033,12916.75,Not Applicable,CasaCraft
+P00284,Sports,FitForge,,SELLER_020,9034.21,Not Applicable,FitForge
+P00285,Home & Kitchen,NestWell,One Size,SELLER_002,9338.6,One Size,NestWell
+P00286,Footwear,UrbanSole,XL,SELLER_033,1644.27,XL,UrbanSole
+P00287,Home & Kitchen,CasaCraft,,SELLER_017,3504.55,Not Applicable,CasaCraft
+P00288,Apparel,DailyWear,XXL,SELLER_042,1317.56,XXL,DailyWear
+P00289,Accessories,CarryOn,One Size,SELLER_026,7145.0,One Size,CarryOn
+P00290,Electronics,CoreLink,One Size,SELLER_046,6522.25,One Size,CoreLink
+P00291,Apparel,NorthPeak,XXL,SELLER_060,3388.06,XXL,NorthPeak
+P00292,Footwear,TrailFlex,XL,SELLER_046,637.92,XL,TrailFlex
+P00293,Sports,FitForge,,SELLER_036,10156.6,Not Applicable,FitForge
+P00294,Beauty,GlowPure,One Size,SELLER_045,3204.84,One Size,GlowPure
+P00295,Electronics,PixelWave,,SELLER_042,22813.59,Not Applicable,PixelWave
+P00296,Sports,FitForge,Standard,SELLER_016,2101.88,Standard,FitForge
+P00297,Electronics,CoreLink,Standard,SELLER_040,40069.51,Standard,CoreLink
+P00298,Home & Kitchen,KitchenPro,,SELLER_017,16298.13,Not Applicable,KitchenPro
+P00299,Home & Kitchen,KitchenPro,,SELLER_042,7010.54,Not Applicable,KitchenPro
+P00300,Electronics,NovaTech,,SELLER_025,35239.4,Not Applicable,NovaTech
+P00301,Footwear,StrideCo,S,SELLER_021,1118.43,S,StrideCo
+P00302,Electronics,NovaTech,,SELLER_051,3170.34,Not Applicable,NovaTech
+P00303,Apparel,StyleNest,XS,SELLER_042,3269.94,XS,StyleNest
+P00304,Home & Kitchen,HomeEase,,SELLER_021,1575.6,Not Applicable,HomeEase
+P00305,Apparel,NorthPeak,XL,SELLER_001,1077.0,XL,NorthPeak
+P00306,Apparel,StyleNest,S,SELLER_031,2616.29,S,StyleNest
+P00307,Apparel,DailyWear,Small,SELLER_003,3320.85,S,DailyWear
+P00308,Apparel,UrbanThread,S,SELLER_057,2411.42,S,UrbanThread
+P00309,Apparel,NorthPeak,M,SELLER_059,527.39,M,NorthPeak
+P00310,Electronics,NovaTech,,SELLER_044,43268.86,Not Applicable,NovaTech
+P00311,Footwear,StrideCo,L,SELLER_053,2894.37,L,StrideCo
+P00312,Accessories,UrbanGear,One Size,SELLER_015,6485.28,One Size,UrbanGear
+P00313,Home & Kitchen,HomeEase,Standard,SELLER_032,16581.78,Standard,HomeEase
+P00314,Apparel,StyleNest,XXL,SELLER_030,531.28,XXL,StyleNest
+P00315,Apparel,,Small,SELLER_046,582.56,S,Generic / Unknown
+P00316,Electronics,PixelWave,,SELLER_048,41363.68,Not Applicable,PixelWave
+P00317,Electronics,CoreLink,,SELLER_045,35538.33,Not Applicable,CoreLink
+P00318,Footwear,TrailFlex,XXL,SELLER_003,4862.24,XXL,TrailFlex
+P00319,Home & Kitchen,CasaCraft,One Size,SELLER_019,1608.7,One Size,CasaCraft
+P00320,Beauty,BloomCare,One Size,SELLER_035,1444.43,One Size,BloomCare
+P00321,Footwear,TrailFlex,x-large,SELLER_031,2209.01,XL,TrailFlex
+P00322,Beauty,LumaSkin,,SELLER_051,1279.67,Not Applicable,LumaSkin
+P00323,Home & Kitchen,NestWell,One Size,SELLER_004,7101.67,One Size,NestWell
+P00324,Apparel,UrbanThread,L,SELLER_046,2483.66,L,UrbanThread
+P00325,Apparel,NorthPeak,medium,SELLER_046,2847.55,M,NorthPeak
+P00326,Apparel,NorthPeak,XXL,SELLER_050,1744.24,XXL,NorthPeak
+P00327,Sports,PeakMotion,Standard,SELLER_031,2138.3,Standard,PeakMotion
+P00328,Accessories,UrbanGear,,SELLER_056,2576.66,Not Applicable,UrbanGear
+P00329,Home & Kitchen,CasaCraft,Standard,SELLER_021,12706.38,Standard,CasaCraft
+P00330,Beauty,DermaLeaf,One Size,SELLER_016,3540.36,One Size,DermaLeaf
+P00331,Home & Kitchen,,One Size,SELLER_030,17448.62,One Size,Generic / Unknown
+P00332,Apparel,UrbanThread,M,SELLER_038,3375.62,M,UrbanThread
+P00333,Home & Kitchen,KitchenPro,One Size,SELLER_018,11353.6,One Size,KitchenPro
+P00334,Footwear,TrailFlex,S,SELLER_047,4594.3,S,TrailFlex
+P00335,Accessories,CarryOn,Standard,SELLER_022,6818.73,Standard,CarryOn
+P00336,Accessories,PocketWorks,,SELLER_029,1087.41,Not Applicable,PocketWorks
+P00337,Apparel,NorthPeak,S,SELLER_023,2600.59,S,NorthPeak
+P00338,Beauty,DermaLeaf,One Size,SELLER_012,3621.36,One Size,DermaLeaf
+P00339,Footwear,StrideCo,S,SELLER_025,5813.25,S,StrideCo
+P00340,Apparel,StyleNest,S,SELLER_003,1214.6,S,StyleNest
+P00341,Apparel,UrbanThread,XXL,SELLER_002,2311.44,XXL,UrbanThread
+P00342,Footwear,StepUp,S,SELLER_042,3556.4,S,StepUp
+P00343,Home & Kitchen,KitchenPro,One Size,SELLER_023,4549.47,One Size,KitchenPro
+P00344,Accessories,PocketWorks,One Size,SELLER_012,3518.61,One Size,PocketWorks
+P00345,Apparel,DailyWear,XL,SELLER_047,2723.37,XL,DailyWear
+P00346,Apparel,DailyWear,S,SELLER_026,2818.78,S,DailyWear
+P00347,Electronics,PixelWave,One Size,SELLER_052,16794.73,One Size,PixelWave
+P00348,Accessories,PocketWorks,One Size,SELLER_045,7819.17,One Size,PocketWorks
+P00349,Home & Kitchen,HomeEase,Standard,SELLER_033,6840.16,Standard,HomeEase
+P00350,Electronics,PixelWave,,SELLER_055,26247.39,Not Applicable,PixelWave
+P00351,Home & Kitchen,HomeEase,One Size,SELLER_007,1840.07,One Size,HomeEase
+P00352,Home & Kitchen,KitchenPro,Standard,SELLER_046,4749.79,Standard,KitchenPro
+P00353,Electronics,NovaTech,Standard,SELLER_038,21515.97,Standard,NovaTech
+P00354,Accessories,UrbanGear,,SELLER_009,2461.81,Not Applicable,UrbanGear
+P00355,Home & Kitchen,HomeEase,One Size,SELLER_054,6329.51,One Size,HomeEase
+P00356,Home & Kitchen,HomeEase,,SELLER_015,16069.14,Not Applicable,HomeEase
+P00357,Apparel,UrbanThread,S,SELLER_032,2818.88,S,UrbanThread
+P00358,Apparel,NorthPeak,S,SELLER_008,2718.74,S,NorthPeak
+P00359,Electronics,NovaTech,,SELLER_038,16222.93,Not Applicable,NovaTech
+P00360,Electronics,CoreLink,,SELLER_021,9741.8,Not Applicable,CoreLink
+P00361,Home & Kitchen,KitchenPro,,SELLER_007,11427.44,Not Applicable,KitchenPro
+P00362,Footwear,TrailFlex,xs,SELLER_050,1713.3,XS,TrailFlex
+P00363,Electronics,NovaTech,Standard,SELLER_042,30284.76,Standard,NovaTech
+P00364,Accessories,PocketWorks,One Size,SELLER_007,6883.89,One Size,PocketWorks
+P00365,Accessories,UrbanGear,One Size,SELLER_050,6761.2,One Size,UrbanGear
+P00366,Sports,ActiveEdge,One Size,SELLER_028,1640.15,One Size,ActiveEdge
+P00367,Apparel,NorthPeak,M,SELLER_018,1429.04,M,NorthPeak
+P00368,Accessories,PocketWorks,,SELLER_041,6652.95,Not Applicable,PocketWorks
+P00369,Electronics,PixelWave,One Size,SELLER_028,38855.13,One Size,PixelWave
+P00370,Accessories,UrbanGear,Standard,SELLER_007,7340.02,Standard,UrbanGear
+P00371,Home & Kitchen,NestWell,Standard,SELLER_050,12889.72,Standard,NestWell
+P00372,Beauty,BloomCare,One Size,SELLER_051,993.58,One Size,BloomCare
+P00373,Footwear,StepUp,XS,SELLER_041,1189.1,XS,StepUp
+P00374,Electronics,NovaTech,Standard,SELLER_032,37942.25,Standard,NovaTech
+P00375,Sports,ActiveEdge,One Size,SELLER_028,7643.58,One Size,ActiveEdge
+P00376,Apparel,DailyWear,XXL,SELLER_018,849.86,XXL,DailyWear
+P00377,Electronics,PixelWave,Standard,SELLER_044,26769.33,Standard,PixelWave
+P00378,Electronics,NovaTech,,SELLER_024,26230.2,Not Applicable,NovaTech
+P00379,Apparel,UrbanThread,M,SELLER_034,1242.44,M,UrbanThread
+P00380,Apparel,DailyWear,S,SELLER_001,375.25,S,DailyWear
+P00381,Footwear,UrbanSole,Large,SELLER_005,3265.29,L,UrbanSole
+P00382,Sports,PeakMotion,,SELLER_046,3132.5,Not Applicable,PeakMotion
+P00383,Electronics,PixelWave,,SELLER_057,3087.52,Not Applicable,PixelWave
+P00384,Apparel,StyleNest,L,SELLER_027,867.33,L,StyleNest
+P00385,Sports,PeakMotion,One Size,SELLER_006,6991.17,One Size,PeakMotion
+P00386,Home & Kitchen,HomeEase,,SELLER_031,1954.02,Not Applicable,HomeEase
+P00387,Apparel,DailyWear,XXL,SELLER_034,1223.95,XXL,DailyWear
+P00388,Home & Kitchen,CasaCraft,One Size,SELLER_016,16270.71,One Size,CasaCraft
+P00389,Accessories,UrbanGear,One Size,SELLER_019,4983.64,One Size,UrbanGear
+P00390,Apparel,StyleNest,XL,SELLER_018,1613.93,XL,StyleNest
+P00391,Beauty,BloomCare,Standard,SELLER_038,3792.44,Standard,BloomCare
+P00392,Apparel,DailyWear,Large,SELLER_021,3282.85,L,DailyWear
+P00393,Electronics,,Standard,SELLER_021,39205.55,Standard,Generic / Unknown
+P00394,Apparel,NorthPeak,S,SELLER_030,858.11,S,NorthPeak
+P00395,Footwear,StepUp,XXL,SELLER_034,5484.64,XXL,StepUp
+P00396,Footwear,UrbanSole,XXL,SELLER_007,3466.79,XXL,UrbanSole
+P00397,Apparel,NorthPeak,XL,SELLER_060,3163.22,XL,NorthPeak
+P00398,Accessories,LoopLine,One Size,SELLER_051,2143.08,One Size,LoopLine
+P00399,Home & Kitchen,KitchenPro,One Size,SELLER_033,17660.46,One Size,KitchenPro
+P00400,Sports,PeakMotion,One Size,SELLER_012,11734.39,One Size,PeakMotion
+P00401,Beauty,,Standard,SELLER_047,678.93,Standard,Generic / Unknown
+P00402,Footwear,UrbanSole,M,SELLER_023,4553.02,M,UrbanSole
+P00403,Beauty,DermaLeaf,Standard,SELLER_024,1284.6,Standard,DermaLeaf
+P00404,Accessories,CarryOn,Standard,SELLER_060,1462.02,Standard,CarryOn
+P00405,Electronics,Voltix,,SELLER_005,21950.96,Not Applicable,Voltix
+P00406,Accessories,CarryOn,,SELLER_015,2896.36,Not Applicable,CarryOn
+P00407,Beauty,GlowPure,,SELLER_005,1709.58,Not Applicable,GlowPure
+P00408,Accessories,PocketWorks,One Size,SELLER_031,1505.91,One Size,PocketWorks
+P00409,Home & Kitchen,KitchenPro,One Size,SELLER_005,13230.85,One Size,KitchenPro
+P00410,Apparel,DailyWear,M,SELLER_002,655.38,M,DailyWear
+P00411,Electronics,PixelWave,One Size,SELLER_021,29827.32,One Size,PixelWave
+P00412,Beauty,GlowPure,Standard,SELLER_027,1457.17,Standard,GlowPure
+P00413,Electronics,NovaTech,,SELLER_037,37936.63,Not Applicable,NovaTech
+P00414,Electronics,,,SELLER_042,4988.2,Not Applicable,Generic / Unknown
+P00415,Electronics,Voltix,,SELLER_021,27650.33,Not Applicable,Voltix
+P00416,Accessories,PocketWorks,,SELLER_042,4120.82,Not Applicable,PocketWorks
+P00417,Home & Kitchen,KitchenPro,Standard,SELLER_019,3374.58,Standard,KitchenPro
+P00418,Apparel,DailyWear,Large,SELLER_031,411.1,L,DailyWear
+P00419,Accessories,CarryOn,,SELLER_005,7164.98,Not Applicable,CarryOn
+P00420,Footwear,StrideCo,xs,SELLER_008,1676.23,XS,StrideCo
+P00421,Footwear,StepUp,M,SELLER_056,660.8,M,StepUp
+P00422,Apparel,DailyWear,XL,SELLER_055,422.37,XL,DailyWear
+P00423,Apparel,NorthPeak,S,SELLER_018,2361.83,S,NorthPeak
+P00424,Sports,ActiveEdge,Standard,SELLER_060,11596.49,Standard,ActiveEdge
+P00425,Beauty,BloomCare,,SELLER_049,1102.15,Not Applicable,BloomCare
+P00426,Accessories,LoopLine,Standard,SELLER_030,1873.16,Standard,LoopLine
+P00427,Apparel,StyleNest,XXL,SELLER_049,3228.4,XXL,StyleNest
+P00428,Apparel,DailyWear,XS,SELLER_027,1925.45,XS,DailyWear
+P00429,Beauty,BloomCare,One Size,SELLER_014,4950.0,One Size,BloomCare
+P00430,Footwear,UrbanSole,XS,SELLER_048,1201.85,XS,UrbanSole
+P00431,Home & Kitchen,KitchenPro,,SELLER_033,9295.98,Not Applicable,KitchenPro
+P00432,Home & Kitchen,HomeEase,One Size,SELLER_044,9690.07,One Size,HomeEase
+P00433,Home & Kitchen,HomeEase,,SELLER_015,9171.91,Not Applicable,HomeEase
+P00434,Electronics,NovaTech,One Size,SELLER_032,1119.66,One Size,NovaTech
+P00435,Sports,PeakMotion,Standard,SELLER_009,5384.65,Standard,PeakMotion
+P00436,Sports,PeakMotion,One Size,SELLER_058,11603.73,One Size,PeakMotion
+P00437,Home & Kitchen,CasaCraft,,SELLER_055,10694.08,Not Applicable,CasaCraft
+P00438,Footwear,TrailFlex,S,SELLER_023,1336.03,S,TrailFlex
+P00439,Electronics,PixelWave,Standard,SELLER_042,36325.02,Standard,PixelWave
+P00440,Apparel,DailyWear,XS,SELLER_018,471.22,XS,DailyWear
+P00441,Home & Kitchen,CasaCraft,,SELLER_052,13497.64,Not Applicable,CasaCraft
+P00442,Beauty,DermaLeaf,One Size,SELLER_006,4187.59,One Size,DermaLeaf
+P00443,Footwear,StepUp,L,SELLER_038,3719.34,L,StepUp
+P00444,Home & Kitchen,NestWell,One Size,SELLER_042,12239.69,One Size,NestWell
+P00445,Sports,FitForge,,SELLER_006,2308.18,Not Applicable,FitForge
+P00446,Apparel,UrbanThread,S,SELLER_023,3249.53,S,UrbanThread
+P00447,Apparel,UrbanThread,XXL,SELLER_004,736.65,XXL,UrbanThread
+P00448,Electronics,NovaTech,Standard,SELLER_028,31583.9,Standard,NovaTech
+P00449,Beauty,GlowPure,Standard,SELLER_029,4562.54,Standard,GlowPure
+P00450,Apparel,StyleNest,XXL,SELLER_026,1206.04,XXL,StyleNest
